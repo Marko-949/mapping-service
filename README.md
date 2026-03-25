@@ -10,12 +10,22 @@ Ova aplikacija koristi **Google Gemini AI** za inteligentno mapiranje eksternih 
 - **Asinhroni Rad:** Integracija sa Celery-jem omogućava obradu velikih fajlova u pozadini bez blokiranja API-ja.
 - **Excel Export:** Generisanje gotovih Excel tabela spremnih za import u bazu podataka.
 
----
+# Instalacija zavisnosti
+
+pip install -r requirements.txt
+
+# Pokretanje projekta
+
+uvicorn app.main:app --reload
+
+# Pokretanje celery
+
+celery -A app.core.celery_app worker --loglevel=info -P solo
 
 ## 🛠 Tehnologije
 
 - **Backend:** FastAPI (Python 3.13+)
-- **AI:** Google Generative AI (Gemini 1.5 Flash)
+- **AI:** Google Generative AI (Gemini 3.0 Flash)
 - **Task Queue:** Celery + Redis
 - **Data Handling:** Pandas, Openpyxl
 - **Environment:** Dotenv
