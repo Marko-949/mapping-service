@@ -1,7 +1,5 @@
 import logging
 from app.core.celery_app import celery_app
-from app.services.woo_attributes_options_mapping_service.mapping_service import WooAttributesOptionsMappingService
-from app.services.categories_mapping_service.mapping_service import CategoriesMappingService
 from app.services.core_mapping.category_workflow import CategoryMappingWorkflow
 from app.services.providers.factory import ProviderFactory
 from app.services.core_mapping.attribute_option_workflow import AttributeOptionWorkflow

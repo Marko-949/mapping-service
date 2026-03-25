@@ -41,9 +41,9 @@ def format_standard(raw_data):
 
 FORMATTERS = {
     "standard": format_standard,
-    "woo_cache": format_woo_cache,
-    "raw_list": format_raw_list,
-    "shopify": format_shopify_style,
+    # "woo_cache": format_woo_cache,
+    # "raw_list": format_raw_list,
+    # "shopify": format_shopify_style,
 }
 
 def get_formatted_categories(raw_data: list, source_type: str) -> list:
