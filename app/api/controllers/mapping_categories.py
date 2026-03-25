@@ -21,7 +21,7 @@ async def mapping_categories(
     input_file_path = os.path.join(upload_dir, f"input_{task_id}.xlsx")
     
     try:
-        # 3. Čuvanje fajla
+        # Čuvanje fajla
         with open(input_file_path, "wb") as buffer:
             shutil.copyfileobj(json_file.file, buffer)
     except Exception as e:

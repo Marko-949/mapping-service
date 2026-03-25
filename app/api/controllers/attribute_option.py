@@ -9,19 +9,17 @@ router = APIRouter()
 
 @router.post("/attribute_option_mapping")
 async def start_mapping(
-    provider: str = Form(...),      # "woocommerce", "shopify"...
-    # Koristimo opcione Form parametre kako bi kontroler bio fleksibilan
-    url: str = Form(None),          # Potrebno za Woo
-    ck: str = Form(None),           # Potrebno za Woo
-    cs: str = Form(None),           # Potrebno za Woo
-    token: str = Form(None),        # Potrebno za Shopify
-    shop_name: str = Form(None),    # Potrebno za Shopify
+    provider: str = Form(...),      
+    url: str = Form(None),          
+    ck: str = Form(None),           
+    cs: str = Form(None),           
+    token: str = Form(None),        
+    shop_name: str = Form(None),    
     excel_file: UploadFile = File(...)
 ):
     task_id = str(uuid.uuid4())
     
-    # 1. Spakuj kredencijale u jedan rječnik (Payload)
-    # Ovo šaljemo workeru, on će to proslijediti Factory-ju
+    # šaljemo workeru, on će to proslijediti Factory-ju
     credentials = {
         "url": url,
         "ck": ck,
@@ -30,7 +28,7 @@ async def start_mapping(
         "shop_name": shop_name
     }
 
-    # 2. Sačuvaj fajl
+    # Sačuvaj fajl
     input_folder = os.path.join(settings.DATA_DIR, "inputMapping")
     os.makedirs(input_folder, exist_ok=True) # Sigurnost na prvom mjestu
     
@@ -42,7 +40,7 @@ async def start_mapping(
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Greška pri čuvanju fajla: {str(e)}")
 
-    # 3. Pozovi worker (Šaljemo task_id, provider tip, rječnik kredencijala i putanju)
+    # Pozovi worker 
     run_attribute_option.delay(task_id, provider, credentials, input_file_path, token, shop_name)
 
     return {
