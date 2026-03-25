@@ -1,0 +1,5478 @@
+[
+  {
+    "uuid": "2145154d-07db-45ca-8a69-a4c1d72b2b04",
+    "code": "SportRecreation_Kids_OtherFootwear"
+  },
+  {
+    "uuid": "75fada14-a201-46eb-b9b4-890f0034ae62",
+    "code": "SportRecreation_Women_Test"
+  },
+  {
+    "uuid": "1b5abbbc-fa31-43f4-a1ae-3a2ba1e1d6eb",
+    "code": "Entertainment_Tickets"
+  },
+  {
+    "uuid": "e29ca2e7-603b-47ae-ad92-1b90fdfee48c",
+    "code": "Entertainment_MusicalInstruments_Other"
+  },
+  {
+    "uuid": "cb245c6c-2e7d-4a8e-84d4-707ca29bcda9",
+    "code": "BeautyHealth_MakeUp_Lips"
+  },
+  {
+    "uuid": "8379d49f-a995-4774-956b-c6d48b1ed871",
+    "code": "BeautyHealth_MakeUp_Body"
+  },
+  {
+    "uuid": "6e2fb500-4d10-4c21-a337-a79ac3365a0b",
+    "code": "BeautyHealth_MakeUp_Sets"
+  },
+  {
+    "uuid": "c264795f-8731-4ff5-87a6-f1f4f292255f",
+    "code": "Vehicles_Cars"
+  },
+  {
+    "uuid": "a78c6555-bda1-4721-b21e-158447bc32ef",
+    "code": "RealEstates_Apartments"
+  },
+  {
+    "uuid": "815c7b45-78af-4e17-8d91-91b4698527ea",
+    "code": "RealEstates_Houses"
+  },
+  {
+    "uuid": "7d6c022c-bb26-4a38-ade5-14e64e2d5398",
+    "code": "RealEstates_BusinessPremises"
+  },
+  {
+    "uuid": "965d87a4-1625-474c-8206-2f7e6af3c397",
+    "code": "RealEstates_LeisureProperty"
+  },
+  {
+    "uuid": "6a835f28-f12d-4fc0-9c04-9e749c1eaf34",
+    "code": "RealEstates_Land"
+  },
+  {
+    "uuid": "b3fc81ea-cb5f-4892-a178-00d4c871a845",
+    "code": "RealEstates_Garages"
+  },
+  {
+    "uuid": "b6b20870-91dc-41f4-885d-7f5ec89c5feb",
+    "code": "RealEstates_Rooms"
+  },
+  {
+    "uuid": "54bd4be4-b8c8-42a8-a790-551d7ecd4d37",
+    "code": "RealEstates_Other"
+  },
+  {
+    "uuid": "10c4af89-c2b1-40f4-94ac-0e0595b515c3",
+    "code": "BeautyHealth_MakeUp_Suitcases"
+  },
+  {
+    "uuid": "e32b1f41-9725-4367-a189-4228a81880aa",
+    "code": "BeautyHealth_MakeUp_Other"
+  },
+  {
+    "uuid": "2dc5c1c4-fab6-4aee-9d34-5c34a911b42d",
+    "code": "BeautyHealth_Hygiene_Other"
+  },
+  {
+    "uuid": "eb1190f1-3e47-4a7a-b573-ca6c9cd06977",
+    "code": "SportRecreation_Kids_Clothes_TShirts"
+  },
+  {
+    "uuid": "4ae58cc8-fb10-4a47-9f01-7ff7ba013927",
+    "code": "Fashion_Women_Accessorise_Nessesers"
+  },
+  {
+    "uuid": "ca37346d-43ce-4987-a5e3-d4b9153dc395",
+    "code": "Fashion_Women_Test"
+  },
+  {
+    "uuid": "1065a445-9c90-4736-85cc-dd6dbafb2a53",
+    "code": "FoodDrink_OtherFood"
+  },
+  {
+    "uuid": "111ce7af-e55b-44ea-858b-c3f8c159d326",
+    "code": "Art_Sculptures"
+  },
+  {
+    "uuid": "543c56b9-cb9d-4e45-99c3-195bdb8a6bde",
+    "code": "Test"
+  },
+  {
+    "uuid": "36beaec6-819a-4888-9341-c4f24690c026",
+    "code": "Fashion_Women_Clothes_Test"
+  },
+  {
+    "uuid": "4699c02d-c881-4cd4-b3e9-31cd60952ecb",
+    "code": "Fashion_Men_Other"
+  },
+  {
+    "uuid": "2776322e-47b6-4d7e-be32-75943a5d514b",
+    "code": "Fashion_Women_Other"
+  },
+  {
+    "uuid": "e6b007d7-f475-40a3-af7c-02d97b12cda3",
+    "code": "Fashion_Kids_Other"
+  },
+  {
+    "uuid": "0ea7ae8c-85d2-4609-835e-451ccbdc8baf",
+    "code": "Fashion_Uniforms_Costums"
+  },
+  {
+    "uuid": "55aa9f1d-99f2-45e9-a64e-4313e59329a6",
+    "code": "Fashion_Uniforms_Other"
+  },
+  {
+    "uuid": "e3c12717-d968-45de-8d2a-aefbc3bf2f75",
+    "code": "Fashion_Jewelry_Other"
+  },
+  {
+    "uuid": "f186eb07-337d-405e-8c75-b1692b1ee5ed",
+    "code": "Fashion_Traveling_Other"
+  },
+  {
+    "uuid": "26cf0e97-64e6-4305-bc77-f785f2fa10e0",
+    "code": "MyHome_Furniture_Other"
+  },
+  {
+    "uuid": "5b28f4f1-ab1d-4594-a8a6-755ecf6214a9",
+    "code": "MyHome_HeatingCooling_Firewood"
+  },
+  {
+    "uuid": "5fc9dbbf-1980-486b-af85-c1a26a7689e1",
+    "code": "MyHome_HeatingCooling_Other"
+  },
+  {
+    "uuid": "2a2db7a2-e4d8-4698-97db-9ced3bfddc61",
+    "code": "MyHome_HomeDecor_Carpets"
+  },
+  {
+    "uuid": "47c73198-268e-4b87-9b43-65c93785cfce",
+    "code": "MyHome_HomeDecor_Wallpapers"
+  },
+  {
+    "uuid": "d3cf697b-0ab9-42ec-96cb-c8576285ef3e",
+    "code": "MyHome_HomeDecor_Other"
+  },
+  {
+    "uuid": "e999e331-7c54-4da8-a19a-c305f66d6e7d",
+    "code": "BeautyHealth_Massage_Other"
+  },
+  {
+    "uuid": "55a61aff-4450-4005-9fc5-b818f7c2adad",
+    "code": "BeautyHealth_Health_Other"
+  },
+  {
+    "uuid": "edc13194-1571-444a-a6e6-c3b3d7b177fc",
+    "code": "BeautyHealth_Equipment_Other"
+  },
+  {
+    "uuid": "09305321-4bd6-4902-9f6e-b7a09a47cb7c",
+    "code": "IndustryBusiness_Medicine_Other"
+  },
+  {
+    "uuid": "67dd50e5-9338-4f83-ad6d-fd31ca4ed4a6",
+    "code": "MyHome_Cooking_FoodStorage"
+  },
+  {
+    "uuid": "e2d2063e-9671-4815-ac04-a5a5fee1d31e",
+    "code": "MyHome_Cooking_Other"
+  },
+  {
+    "uuid": "f48dd6db-9b6b-4c74-a944-204a0d31b958",
+    "code": "MyHome_Garden_KidsYard"
+  },
+  {
+    "uuid": "47a8a24e-fd83-4f1a-b45f-5a4753a5a449",
+    "code": "MyHome_Garden_Other"
+  },
+  {
+    "uuid": "64629cb0-a65d-41bc-a338-3255be92fc30",
+    "code": "Animals_MyPet_Other"
+  },
+  {
+    "uuid": "74b3ba0d-1f1f-42d5-8354-170ff4b466c5",
+    "code": "Animals_DomesticAnimals_FeatheredAnimals"
+  },
+  {
+    "uuid": "eccb5ff0-5c8d-4492-babb-a8df88ad6f55",
+    "code": "Animals_DomesticAnimals_FoodMedicines"
+  },
+  {
+    "uuid": "5a1b3c11-a030-48ff-8ab4-f84e634c8774",
+    "code": "Animals_DomesticAnimals_Equipment"
+  },
+  {
+    "uuid": "cb57bdcb-4df3-44c6-b5c8-c486795f1c18",
+    "code": "Animals_DomesticAnimals_Other"
+  },
+  {
+    "uuid": "6aceab1f-81bb-42d5-a4c4-22d487ae64dd",
+    "code": "Animals_Beekeeping_Bees"
+  },
+  {
+    "uuid": "457a1385-9d47-497f-aea1-6c0f4338982f",
+    "code": "Animals_Beekeeping_Products"
+  },
+  {
+    "uuid": "d890e66c-c123-4dc5-a63d-a0b53a74fc6a",
+    "code": "Animals_Beekeeping_Equipment"
+  },
+  {
+    "uuid": "69adbc75-a053-4b56-bfd6-bc5e38cabccb",
+    "code": "Animals_Beekeeping_Other"
+  },
+  {
+    "uuid": "a8e8a0a0-3243-4d9f-9249-7cc9ebbf35fa",
+    "code": "Entertainment_Books_AudioBooks"
+  },
+  {
+    "uuid": "fae40f0a-656b-458a-87d2-78e52a5c0c16",
+    "code": "Entertainment_Books_Books"
+  },
+  {
+    "uuid": "250abf9b-16be-4757-ba53-1f9685ed6de6",
+    "code": "Entertainment_Books_Other"
+  },
+  {
+    "uuid": "175868ff-cc8a-4d81-98a0-7c543f7bc675",
+    "code": "Test2"
+  },
+  {
+    "uuid": "fa27f377-b408-4316-9fa8-c4094b22fc77",
+    "code": "Entertainment_Music_Gramophone"
+  },
+  {
+    "uuid": "2ef8d0dd-0207-4953-8c8b-42a2391a6e71",
+    "code": "Entertainment_Music_Surround"
+  },
+  {
+    "uuid": "7c13d70f-1c33-43d3-8ad6-f55d7797ea13",
+    "code": "Entertainment_Music_Radio"
+  },
+  {
+    "uuid": "33792682-d264-4193-b5b3-43b4fdefd45e",
+    "code": "Entertainment_Music_Other"
+  },
+  {
+    "uuid": "eeb81c6f-ae0f-45a8-bdeb-4e8d211f9230",
+    "code": "Entertainment_Games_Other"
+  },
+  {
+    "uuid": "1d73a5a5-5ee4-4b50-981a-73cf2fc2e3ff",
+    "code": "BeautyHealth_Hair_Accessorise"
+  },
+  {
+    "uuid": "d90bd76a-5565-4fa4-b1d5-47734e6907c8",
+    "code": "BeautyHealth_Hair_Other"
+  },
+  {
+    "uuid": "4707bc69-2cd7-49a3-92b8-42ae753fe05a",
+    "code": "BeautyHealth_Beard_Shaving"
+  },
+  {
+    "uuid": "0bb5987a-283e-4f8c-ad73-bb0efa61407c",
+    "code": "BeautyHealth_Beard_AfterShaving"
+  },
+  {
+    "uuid": "9f4b9206-95a7-4787-af05-527c25fc34cc",
+    "code": "BeautyHealth_Beard_Coloring"
+  },
+  {
+    "uuid": "a0384406-817d-49c8-91b4-207c50534f73",
+    "code": "BeautyHealth_Beard_ShavingPreparations"
+  },
+  {
+    "uuid": "43ad4b1e-c284-49a7-b87d-005d5c88b63c",
+    "code": "BeautyHealth_Perfumes_Other"
+  },
+  {
+    "uuid": "c4699dc3-6a78-4452-8dff-fe96bf2389c0",
+    "code": "BeautyHealth_PedicureManicure_Other"
+  },
+  {
+    "uuid": "75d02127-7770-43f6-ab81-7ad59f2c0f6f",
+    "code": "BeautyHealth_Depilation_Other"
+  },
+  {
+    "uuid": "173cf491-3915-4c2b-b09e-3330c328d423",
+    "code": "BeautyHealth_Eyesight_Lenses"
+  },
+  {
+    "uuid": "8b2140a0-9442-48ff-84c0-613eb5fbe232",
+    "code": "BeautyHealth_Eyesight_Equipment"
+  },
+  {
+    "uuid": "806990df-95a2-4289-bcdf-f4aacc456bc4",
+    "code": "BeautyHealth_Eyesight_Other"
+  },
+  {
+    "uuid": "af871e30-143c-42b2-9172-5aa0f0221586",
+    "code": "BeautyHealth_Tattoos_Machines"
+  },
+  {
+    "uuid": "c5e6dacc-ca9f-4ccd-88d4-76058c002d46",
+    "code": "BeautyHealth_Tattoos_Needle"
+  },
+  {
+    "uuid": "55e4a9ca-4be4-41d8-ae6d-0aceaa3b35db",
+    "code": "BeautyHealth_Tattoos_Equipment"
+  },
+  {
+    "uuid": "b7bcf2f4-c9c8-46ae-8342-b28cb0d8c5f9",
+    "code": "BeautyHealth_Tattoos_Furniture"
+  },
+  {
+    "uuid": "f950bdcf-ddea-41fd-b51f-25c8fd4bd109",
+    "code": "BeautyHealth_Tattoos_TemporaryTattoos"
+  },
+  {
+    "uuid": "1bc7db27-ecd8-42f9-b286-144bed663e9b",
+    "code": "BeautyHealth_Tattoos_Other"
+  },
+  {
+    "uuid": "97f01b91-e2d2-41c0-b2fe-a351bab3cde1",
+    "code": "BeautyHealth_Health_SunProtection"
+  },
+  {
+    "uuid": "a49aee3c-0070-43f9-8cc8-7515aa85b33d",
+    "code": "BeautyHealth_Health_HealthyProducts"
+  },
+  {
+    "uuid": "3a8f1858-06ba-46c5-a67e-93d03b62009a",
+    "code": "BeautyHealth_Massage_SpaEquipment"
+  },
+  {
+    "uuid": "0b418a21-05ad-4f17-a8ea-1918182368fd",
+    "code": "Test5"
+  },
+  {
+    "uuid": "336a8306-d1e7-49e8-9c85-888c8db4b605",
+    "code": "BeautyHealth_Massage_VolcanicStones"
+  },
+  {
+    "uuid": "f272e1c4-e62d-4f15-a7c6-3b8921b3780e",
+    "code": "BeautyHealth_Massage_MassageOils"
+  },
+  {
+    "uuid": "92526b14-de40-4ce5-b474-646744938955",
+    "code": "BeautyHealth_Massage_MineralSalts"
+  },
+  {
+    "uuid": "a8b127b8-47bd-4003-8684-51566c9df8ec",
+    "code": "ElectronicsTechnology_MobileDevices_Phones"
+  },
+  {
+    "uuid": "9d5c7881-916a-45f7-9f55-d3e2c2932f68",
+    "code": "SportRecreation_Kids_Clothes_Test"
+  },
+  {
+    "uuid": "c8ff08d0-d794-4f33-9454-f25acfb22120",
+    "code": "Fashion_Women_Test123"
+  },
+  {
+    "uuid": "70129537-d2fa-46c4-8a56-32e94a2ddb00",
+    "code": "IndustryBusiness_Education_Other"
+  },
+  {
+    "uuid": "5a905d6b-81e1-48c9-af9c-aa7c0d44931e",
+    "code": "IndustryBusiness_Hospitality_NeutralEquipment"
+  },
+  {
+    "uuid": "11b40990-933d-4485-b13c-bc6a1f6cc5d8",
+    "code": "IndustryBusiness_Hospitality_Other"
+  },
+  {
+    "uuid": "7bc365f7-4772-41cf-bbd1-626106b2fa2e",
+    "code": "IndustryBusiness_RetailAndBusiness_Equipment"
+  },
+  {
+    "uuid": "77c83b14-e233-4009-b8f2-58455418abea",
+    "code": "IndustryBusiness_RetailAndBusiness_Other"
+  },
+  {
+    "uuid": "a6ff1514-2457-472f-b996-00f5adf56dfa",
+    "code": "IndustryBusiness_FuneralEquipment_Equipment"
+  },
+  {
+    "uuid": "d07d4f21-268a-471c-9ef8-c0d0cb352d9d",
+    "code": "IndustryBusiness_FuneralEquipment_Other"
+  },
+  {
+    "uuid": "7671d476-8bed-42cb-a367-3b92df39ccec",
+    "code": "IndustryBusiness_CivilEngineering_Other"
+  },
+  {
+    "uuid": "2b7ca439-2071-46b5-bd31-dcc20feb781b",
+    "code": "IndustryBusiness_RenewableEnergySources_Other"
+  },
+  {
+    "uuid": "99a6d689-c3cd-49ad-9845-941fcc267101",
+    "code": "IndustryBusiness_Agriculture_Other"
+  },
+  {
+    "uuid": "d120f3b5-ccf7-44aa-a07c-78a6c5dea053",
+    "code": "FoodDrink_Snacks_Salted"
+  },
+  {
+    "uuid": "9306d215-7e46-488a-a7fa-d60675da936d",
+    "code": "MyHome_Furniture_LivingRoom_Lamps"
+  },
+  {
+    "uuid": "dfd3ef40-9079-40d6-98ec-2ad0c2626c5a",
+    "code": "Fashion_Kids_Girls_Clothes"
+  },
+  {
+    "uuid": "e50a8cc8-a75a-4554-8980-0e94796c5bc3",
+    "code": "Fashion_Kids_Girls_Shoes"
+  },
+  {
+    "uuid": "22cd524a-f08a-493e-a37f-c5246809f0e7",
+    "code": "Fashion_Kids_Girls_Accessoirse"
+  },
+  {
+    "uuid": "5dbfa3a1-3a1d-4f3d-9695-8245c99bc5ec",
+    "code": "Fashion_Kids_Girls_Other"
+  },
+  {
+    "uuid": "10e14476-0cf1-4e64-bf16-a7065238c9bc",
+    "code": "Fashion_Kids_Boys_Clothes"
+  },
+  {
+    "uuid": "22fd374b-f651-4a25-8302-6c529001a7b2",
+    "code": "MyHome_Furniture_Kitchen_Faucet"
+  },
+  {
+    "uuid": "ede5af6c-dc5f-40dd-9ea3-6a190f702113",
+    "code": "MyHome_Furniture_Bathroom_Faucet"
+  },
+  {
+    "uuid": "a09e2993-8cb3-42a1-af70-cf112573a73f",
+    "code": "MyHome_Furniture_Bathroom_Lighting"
+  },
+  {
+    "uuid": "68dbe210-a667-40e2-b704-4918d4faad21",
+    "code": "MyHome_Furniture_Hallway_Matts"
+  },
+  {
+    "uuid": "4d04c1f3-8d09-4d9e-bd23-0f9b5f00629b",
+    "code": "MyHome_Furniture_Office_Decorations"
+  },
+  {
+    "uuid": "3666f4d5-48f2-46d9-a81d-728996b1b196",
+    "code": "MyHome_HomeDecor_Lighting_LightBulbs"
+  },
+  {
+    "uuid": "0e583135-4d5e-4a8b-a538-08b91e1091ff",
+    "code": "MyHome_Cooking_Serving_Napkins"
+  },
+  {
+    "uuid": "876bc366-7201-431c-b706-eb78dca8a14c",
+    "code": "MyHome_Garden_GardenFurniture_DecorativeCushions"
+  },
+  {
+    "uuid": "7b7e99e9-29c3-4e1f-acba-988618ed7445",
+    "code": "MyHome_Garden_Decorations_Flowers"
+  },
+  {
+    "uuid": "ba2e8db2-301c-489a-a9f1-ca07f7da9743",
+    "code": "MyHome_Garden_Decorations_Lighting"
+  },
+  {
+    "uuid": "7518f02e-ff4e-4b3b-8617-95e1edc4c063",
+    "code": "MyHome_Garden_GardenMaintenance_LawnMowers"
+  },
+  {
+    "uuid": "c7111559-952f-4365-bad9-cdba3c7a656c",
+    "code": "MyHome_Garden_GardenMaintenance_Trimmers"
+  },
+  {
+    "uuid": "f7a7822d-0620-4e3f-980d-9d765fe2eefb",
+    "code": "Animals_DomesticAnimals_Livestock_SmallCattle"
+  },
+  {
+    "uuid": "b1a9773d-d2f8-4f70-8404-d620d871a41e",
+    "code": "Animals_DomesticAnimals_Livestock_LargeCattle"
+  },
+  {
+    "uuid": "0cbb32d9-6c1d-473d-983b-be2449dcb573",
+    "code": "Animals_DomesticAnimals_Livestock_Other"
+  },
+  {
+    "uuid": "52440a86-0d6e-48c2-ac3d-9443c82307ad",
+    "code": "BeautyHealth_Beard_Accessories_Scissors"
+  },
+  {
+    "uuid": "51e802f9-b903-46ab-8a8f-6c1527f67cec",
+    "code": "IndustryBusiness_Hospitality_BarEquipment_CoffeeMachines"
+  },
+  {
+    "uuid": "2d544420-8b18-4842-b965-bfced0c8a980",
+    "code": "IndustryBusiness_Hospitality_BarEquipment_Refrigerated"
+  },
+  {
+    "uuid": "1782903c-037b-460b-867e-a59cdfeb84e5",
+    "code": "MomBaby_BabyEquipment_Safety_SurveillanceDevices"
+  },
+  {
+    "uuid": "1a0c02b8-55d9-470c-bc8a-bfc7354939e9",
+    "code": "MomBaby_Toys_Kids_BoardGames"
+  },
+  {
+    "uuid": "78621568-deb9-4ee3-af18-64a6ce2768c1",
+    "code": "MomBaby_Toys_Bookstore_Books"
+  },
+  {
+    "uuid": "753d3896-b634-41e4-9944-43c92840fabe",
+    "code": "MomBaby_Toys_Bookstore_SchoolSupplies"
+  },
+  {
+    "uuid": "4a423abc-c7d2-4e48-bc05-945b6ec81eff",
+    "code": "MomBaby_Toys_Bookstore_BackpacksPencilCases"
+  },
+  {
+    "uuid": "9a201867-4b29-4f72-9b4b-3ca11fee516e",
+    "code": "MomBaby_BabyCare_Cosmetics_ForBathing"
+  },
+  {
+    "uuid": "bdb9b3a9-6061-463f-ba2d-f4a7be8e7cb4",
+    "code": "MomBaby_BabyCare_Cosmetics_SkinCare"
+  },
+  {
+    "uuid": "7585e8a1-abe7-4eda-885c-3fe6290e22f3",
+    "code": "MomBaby_BabyCare_Cosmetics_Teeth"
+  },
+  {
+    "uuid": "bf9990aa-cb61-4c6b-8535-0ef98c02832a",
+    "code": "MomBaby_BabyCare_Cosmetics_SunProtection"
+  },
+  {
+    "uuid": "1166e148-b6c8-4a1b-af2a-53e4a66a5ae4",
+    "code": "MomBaby_BabyFeeding_Food_Vitamins"
+  },
+  {
+    "uuid": "d70b7736-bc99-4a20-8bf7-0332dfea6fa6",
+    "code": "MomBaby_BabyFeeding_Appliances_Blenders"
+  },
+  {
+    "uuid": "03f001d3-d72b-47cd-abbb-1e26cb2ece46",
+    "code": "MomBaby_BabyFeeding_Appliances_Heaters"
+  },
+  {
+    "uuid": "3167ddf0-351d-4483-b93c-31c8e19f8efb",
+    "code": "MomBaby_ForMom_BeComfortable_RockingChairs"
+  },
+  {
+    "uuid": "5f1dbd86-0177-4555-a149-66ed9085574b",
+    "code": "MomBaby_ForMom_Breastfeeding_Teas"
+  },
+  {
+    "uuid": "b51c3d2a-81c9-4171-91b1-c75f6b1ce7b8",
+    "code": "MomBaby_ForMom_Breastfeeding_Underwear"
+  },
+  {
+    "uuid": "599b4353-074b-482c-a9ff-5f05fa86f8f6",
+    "code": "FoodDrink_Drinks_MineralWater"
+  },
+  {
+    "uuid": "0a215387-e013-4aaf-8197-8a2c0ab013e6",
+    "code": "Service_Travel"
+  },
+  {
+    "uuid": "ab6daa5a-0f6c-485a-98e4-69a094daf02b",
+    "code": "Service_AutoMotoNautical_Vulcanizers"
+  },
+  {
+    "uuid": "dffac9a0-12b5-4a3c-bb44-5e1392c7d2ba",
+    "code": "Service_AutoMotoNautical_CarMechanics"
+  },
+  {
+    "uuid": "7f15dd60-b194-40a6-afcc-a5d36d7bb735",
+    "code": "Service_AutoMotoNautical_CarElectricians"
+  },
+  {
+    "uuid": "89442931-095f-4cf6-86f3-c88442cd4065",
+    "code": "Service_AutoMotoNautical_CarBodyRepairer"
+  },
+  {
+    "uuid": "77816f9e-493f-4c6a-a9e2-e20d726b872d",
+    "code": "Service_AutoMotoNautical_Autoglazier"
+  },
+  {
+    "uuid": "48ee27b9-fa54-4384-8a16-08cea5837cdd",
+    "code": "Service_AutoMotoNautical_CarWash"
+  },
+  {
+    "uuid": "f002c2ad-797f-4abb-8912-5c5975f88a31",
+    "code": "Service_AutoMotoNautical_AirConditioningService"
+  },
+  {
+    "uuid": "25a6e55b-9a8c-44ba-8b5a-e7c31c86e87f",
+    "code": "Service_AutoMotoNautical_TechnicalInspection"
+  },
+  {
+    "uuid": "5543c247-2b95-423b-8994-6f27cb0d75a9",
+    "code": "Service_AutoMotoNautical_NauticalService"
+  },
+  {
+    "uuid": "38126c0f-b4bd-4ce1-91de-77281b253d2f",
+    "code": "Service_AutoMotoNautical_OtherServices"
+  },
+  {
+    "uuid": "37befb96-b691-4263-853a-8c85e0ba892c",
+    "code": "Service_CarRental_RentACar"
+  },
+  {
+    "uuid": "06427258-6212-4c98-966b-25b023c75b0d",
+    "code": "Service_CarRental_Bus"
+  },
+  {
+    "uuid": "9fbde700-dd10-4bb2-a4b6-9ed908c3918b",
+    "code": "Service_CarRental_Towing"
+  },
+  {
+    "uuid": "c49c0114-856b-4213-8fb0-f5e2cb9a456e",
+    "code": "Service_CarRental_BoatRental"
+  },
+  {
+    "uuid": "05d83403-209a-4677-a553-3c507eba272f",
+    "code": "Service_CarRental_Limousines"
+  },
+  {
+    "uuid": "6a4c24e8-0359-4667-8358-94dc38377e44",
+    "code": "Service_CarRental_OtherVehicles"
+  },
+  {
+    "uuid": "dc08f0b7-f474-4eec-b408-ef893afc5ece",
+    "code": "Service_ApplianceEquipmentServicing_TVAudioVideo"
+  },
+  {
+    "uuid": "194949eb-4613-4418-bcd9-09c99ff2e5a7",
+    "code": "Service_ApplianceEquipmentServicing_MobileDevices"
+  },
+  {
+    "uuid": "d942952d-1c7d-4e26-8a9f-4b0613b2cf17",
+    "code": "Service_ApplianceEquipmentServicing_HomeAppliances"
+  },
+  {
+    "uuid": "29645ce5-41d7-4cf9-af65-bbf0b66b649d",
+    "code": "Service_ApplianceEquipmentServicing_AirConditioner"
+  },
+  {
+    "uuid": "47bdcc6e-4c50-4d80-99b4-ff36dd22c561",
+    "code": "Service_ApplianceEquipmentServicing_Computer"
+  },
+  {
+    "uuid": "023dd29e-cc2f-49f0-8472-2228fed92729",
+    "code": "Service_ApplianceEquipmentServicing_Console"
+  },
+  {
+    "uuid": "0ad84623-81b0-457a-acb1-35dbe3a6d367",
+    "code": "Service_ApplianceEquipmentServicing_OtherDevicesEquipment"
+  },
+  {
+    "uuid": "5a22467c-87e3-48d1-a793-5e2370d91111",
+    "code": "Service_ApplianceEquipmentServicing_Other"
+  },
+  {
+    "uuid": "e81974ca-1cb4-4837-8fe8-667b5067fc3e",
+    "code": "Service_ClothesShoesMaintenance_Tailoring"
+  },
+  {
+    "uuid": "7f4058a3-4a30-4e05-9aca-1411e554f1d6",
+    "code": "Service_ClothesShoesMaintenance_Shoemaker"
+  },
+  {
+    "uuid": "928fe95e-ef22-4568-9a5f-e1f281ec7f6f",
+    "code": "Service_ClothesShoesMaintenance_Other"
+  },
+  {
+    "uuid": "ecda3781-787d-449d-8137-72b2fcc1e6ce",
+    "code": "Service_BeautyCareMedical_BeautySalons"
+  },
+  {
+    "uuid": "cd310193-a4bf-41e8-96af-33bc9cfca50e",
+    "code": "Service_BeautyCareMedical_HairSalons"
+  },
+  {
+    "uuid": "ea23867c-b367-43da-90ec-11cbddeef9ae",
+    "code": "Service_BeautyCareMedical_Massages"
+  },
+  {
+    "uuid": "33789e2c-001a-4fa9-ba9a-6dd310ad28b7",
+    "code": "Service_BeautyCareMedical_ManicurePedicure"
+  },
+  {
+    "uuid": "03113abe-64eb-4c67-b4ae-94e27f205b93",
+    "code": "Service_BeautyCareMedical_MedicalClinics"
+  },
+  {
+    "uuid": "24dd5d43-1b9c-48ee-b056-3111d3b454af",
+    "code": "Service_BeautyCareMedical_ElderlyCare"
+  },
+  {
+    "uuid": "e27f2df5-d3d5-4583-8842-f974b73518bb",
+    "code": "Service_BeautyCareMedical_Babysitting"
+  },
+  {
+    "uuid": "607fa878-02da-4a1c-ad5d-d3e08ae43727",
+    "code": "Service_BeautyCareMedical_Other"
+  },
+  {
+    "uuid": "c295520e-f91c-4164-923d-4645fd327b4f",
+    "code": "Service_Construction_Construction"
+  },
+  {
+    "uuid": "3f6fbf67-9fb0-4a26-985b-549bdcd3f3fb",
+    "code": "Service_Construction_Plumbers"
+  },
+  {
+    "uuid": "9c144c00-0668-4fef-9b1e-2f2bb5cd767b",
+    "code": "Service_Construction_Electrician"
+  },
+  {
+    "uuid": "d3db989d-374b-4805-a0be-16078cc75029",
+    "code": "Service_Construction_HeatingVentilation"
+  },
+  {
+    "uuid": "22bc86fb-a48a-4f89-918e-bac21f336d53",
+    "code": "Service_Construction_Painting"
+  },
+  {
+    "uuid": "8e5dbae4-12a7-43bb-8a44-902e12e10a41",
+    "code": "Service_Construction_Flooring"
+  },
+  {
+    "uuid": "c0e475aa-2e42-4f12-960f-7831b1c7a0d7",
+    "code": "Service_Construction_Ceramist"
+  },
+  {
+    "uuid": "04998ab0-7383-4183-a493-b83839b1a330",
+    "code": "Service_Construction_Facaders"
+  },
+  {
+    "uuid": "20b0c642-d216-4b70-9086-f64ae7289d92",
+    "code": "Service_Construction_Roofers"
+  },
+  {
+    "uuid": "a1cc803a-06c0-4dee-b6ab-2f34daeefaeb",
+    "code": "Service_Construction_Carpenters"
+  },
+  {
+    "uuid": "15e77702-189f-4c04-827c-04cc0a7f3fad",
+    "code": "Service_Construction_Glaziers"
+  },
+  {
+    "uuid": "565ccef7-32c3-4109-9147-debd678765da",
+    "code": "Service_Construction_Locksmiths"
+  },
+  {
+    "uuid": "4d705869-d9b2-479b-8f85-c32ac1e5a973",
+    "code": "Service_Construction_Fences"
+  },
+  {
+    "uuid": "ab9be5c3-9378-4b1d-8871-f3da4f7923bb",
+    "code": "Service_Construction_MachineToolRental"
+  },
+  {
+    "uuid": "18cd3395-8ace-477c-adcc-093f81f2d46c",
+    "code": "Service_Construction_Other"
+  },
+  {
+    "uuid": "13ed4eb3-ed70-4872-92c0-8499e8b31161",
+    "code": "Service_HomeGardenDecor_InteriorDecoration"
+  },
+  {
+    "uuid": "ff93da43-c14a-4c5f-a69b-fffe9f9b26f8",
+    "code": "Service_HomeGardenDecor_CustomFurniture"
+  },
+  {
+    "uuid": "55d56283-d6bb-4bc9-a96d-19d24c1456ef",
+    "code": "Service_HomeGardenDecor_Cleaning"
+  },
+  {
+    "uuid": "57fc7ed6-4b43-4012-a5ed-cf36e0b024be",
+    "code": "Service_HomeGardenDecor_Other"
+  },
+  {
+    "uuid": "cb76fbf3-c913-4b62-88f7-972e83dca1ba",
+    "code": "Service_Instructions_PrimarySecondarySchoolsFaculty"
+  },
+  {
+    "uuid": "15461331-40e1-4d0e-a5e0-738bf35157f7",
+    "code": "Service_Instructions_ForeignLanguage"
+  },
+  {
+    "uuid": "df1c5a81-a99e-4f93-a53d-e85e28f6bced",
+    "code": "Service_Instructions_SportsSchool"
+  },
+  {
+    "uuid": "3b332627-544f-4d51-8eac-25ba79180a2b",
+    "code": "Service_Instructions_Other"
+  },
+  {
+    "uuid": "faaee049-ed4d-4b5d-9968-a3b737aa0970",
+    "code": "Service_Intellectual_BookkeepingAccounting"
+  },
+  {
+    "uuid": "68891bdc-39e3-40ca-8fe4-cad79384774b",
+    "code": "Service_Intellectual_AuditInsurance"
+  },
+  {
+    "uuid": "3e655125-f4fe-4952-a679-fdb2ca86d2ac",
+    "code": "Service_Intellectual_TranslationTranscriptions"
+  },
+  {
+    "uuid": "26c293f9-2c64-4400-b938-6a1ee3b2abee",
+    "code": "Service_Intellectual_GraphicWebDesign"
+  },
+  {
+    "uuid": "c1f4c42e-aa5e-4e6a-ba10-5c48092832d4",
+    "code": "Service_Intellectual_Printing"
+  },
+  {
+    "uuid": "57e80282-517e-48e6-92aa-6b67b2598b5c",
+    "code": "Service_Intellectual_Marketing"
+  },
+  {
+    "uuid": "9f8a2962-9149-4ec6-bf86-7906d97b73db",
+    "code": "Service_Intellectual_IT"
+  },
+  {
+    "uuid": "357bb345-d098-48ce-90ad-ac6175c60a28",
+    "code": "Service_Intellectual_Other"
+  },
+  {
+    "uuid": "680baec8-81ae-400c-8baa-5af12485dd40",
+    "code": "Service_CelebrationsWeddingsEvents_PhotographersCameramen"
+  },
+  {
+    "uuid": "d1bffdef-60e1-4a57-967e-1481f865b7fa",
+    "code": "Service_CelebrationsWeddingsEvents_InvitationsGreetingCards"
+  },
+  {
+    "uuid": "bcae4f8d-228a-413b-946d-94b50baccab0",
+    "code": "Service_CelebrationsWeddingsEvents_EntertainmentEquipmentRental"
+  },
+  {
+    "uuid": "23d5e456-04d5-4b55-b10c-fef78619e99c",
+    "code": "Service_CelebrationsWeddingsEvents_BandsSingers"
+  },
+  {
+    "uuid": "d4caf018-afd2-4eb1-a8dc-11a5238805d3",
+    "code": "Service_CelebrationsWeddingsEvents_PerformersEntertainers"
+  },
+  {
+    "uuid": "6283a2d4-b4a2-4ab3-9348-73c85b56f2c2",
+    "code": "Service_CelebrationsWeddingsEvents_LightingSoundSystem"
+  },
+  {
+    "uuid": "2de2cc60-19c5-4ea0-9bd7-1a81d51ad8e1",
+    "code": "Service_CelebrationsWeddingsEvents_TentsTables"
+  },
+  {
+    "uuid": "3455aac1-b42f-42c7-9c14-81c65484bf5c",
+    "code": "Service_CelebrationsWeddingsEvents_WeddingDressAndSuitRental"
+  },
+  {
+    "uuid": "5d513d37-9dba-4299-9ca5-91766f3ac672",
+    "code": "Service_CelebrationsWeddingsEvents_Catering"
+  },
+  {
+    "uuid": "a27ed04a-deeb-4e67-8ab1-bb61fbbce3da",
+    "code": "Service_CelebrationsWeddingsEvents_Decoration"
+  },
+  {
+    "uuid": "f919741f-a69b-4ff0-a5e5-e451f1d20266",
+    "code": "Service_CelebrationsWeddingsEvents_Other"
+  },
+  {
+    "uuid": "664a9d51-be3d-4145-83e5-e3e0625ed8a8",
+    "code": "Art_Souvenirs"
+  },
+  {
+    "uuid": "2bac150d-6f3c-4660-88d4-b9b9b7d51a25",
+    "code": "Art_PhilatelyNumismatics"
+  },
+  {
+    "uuid": "409e2e40-c2fe-4198-a9c2-30839cc9199f",
+    "code": "FoodDrink_Drinks_Juices"
+  },
+  {
+    "uuid": "fdb85106-c402-42f1-ac0e-23f531cdbef9",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HeatingCooling_AirConditioners"
+  },
+  {
+    "uuid": "62c65cf2-6fc8-43cc-b369-824274bb017d",
+    "code": "RealEstates_DayRental"
+  },
+  {
+    "uuid": "7cf298ca-fd19-4b83-b29c-e71164598ed9",
+    "code": "Vehicles_Bus"
+  },
+  {
+    "uuid": "8d32832f-3276-4a4f-89f5-74242c06c939",
+    "code": "Vehicles_Motorcycles"
+  },
+  {
+    "uuid": "fa27067d-fb0e-461d-9abd-97b3219eaad9",
+    "code": "Vehicles_Campers"
+  },
+  {
+    "uuid": "1860d6b2-dc2d-4d81-84b3-8cbdae8a2fb7",
+    "code": "Vehicles_Trucks_TransporterOrTruckUpTo75T"
+  },
+  {
+    "uuid": "1320c756-1de7-4ba6-87fa-c1ce8063669d",
+    "code": "Vehicles_Trucks_TrucksOver75T"
+  },
+  {
+    "uuid": "1ccd9579-959b-4aec-a300-a0dc0f87a459",
+    "code": "Vehicles_Trucks_Trailers"
+  },
+  {
+    "uuid": "4308a430-25d8-4d5a-8ebc-cb570a376313",
+    "code": "Vehicles_AtvQuad"
+  },
+  {
+    "uuid": "ec547c3e-7f03-416b-9466-5ae1dda0a9d8",
+    "code": "Vehicles_AgriculturalMachines_Tractors"
+  },
+  {
+    "uuid": "ea58e092-4178-4c80-83ce-42a0058bba38",
+    "code": "Vehicles_AgriculturalMachines_Implements"
+  },
+  {
+    "uuid": "cc2caf81-ecc1-4069-8e2f-bd21a81ff592",
+    "code": "Vehicles_AgriculturalMachines_Other"
+  },
+  {
+    "uuid": "486a4264-a41c-4091-926b-05565a2930dd",
+    "code": "Vehicles_ConstructionMachines_Forklifts"
+  },
+  {
+    "uuid": "d58d8de1-92b1-4723-a404-6250edfdca0c",
+    "code": "Vehicles_ConstructionMachines_Bulldozers"
+  },
+  {
+    "uuid": "69948a1f-7a58-4acb-b7fe-002aa3ad950d",
+    "code": "Vehicles_ConstructionMachines_Excavators"
+  },
+  {
+    "uuid": "c66307c5-dc2b-4eb7-a704-13e6a3534967",
+    "code": "Vehicles_ConstructionMachines_Loaders"
+  },
+  {
+    "uuid": "a62a6ba6-6c95-4b7b-be44-ac8c98655693",
+    "code": "Vehicles_ConstructionMachines_Cranes"
+  },
+  {
+    "uuid": "1363c1ff-6823-450c-9fa0-25edd9f7a8f8",
+    "code": "Vehicles_ConstructionMachines_MixersConcreteMixers"
+  },
+  {
+    "uuid": "f4707f6c-3075-412e-b07e-97cfe3c3d062",
+    "code": "Vehicles_ConstructionMachines_Other"
+  },
+  {
+    "uuid": "b39ff385-394d-42ac-bdab-fa5911a5eed9",
+    "code": "Vehicles_AgriculturalMachines_PowerTiller"
+  },
+  {
+    "uuid": "fc0a2ea3-24fc-4b73-817c-914c954e9d7f",
+    "code": "Vehicles_AgriculturalMachines_Combine"
+  },
+  {
+    "uuid": "f9b24704-c8c2-4cfd-bd43-b75b99c70a16",
+    "code": "IndustryBusiness_Agriculture_AgriculturalMachinery_CombineHarvestersEquipment"
+  },
+  {
+    "uuid": "51313c2b-a27a-4843-9c51-911a8dedcbb1",
+    "code": "Vehicles_Nautics2"
+  },
+  {
+    "uuid": "0f2bcf4c-053c-463e-afa6-10e8d1edf8f2",
+    "code": "Service_Pets_VeterinaryServices"
+  },
+  {
+    "uuid": "c9185536-00a7-4529-97db-e5f0413fbfd5",
+    "code": "Service_Pets_Haircut"
+  },
+  {
+    "uuid": "2ca2ad4f-0407-4ea0-8dda-3f28e319ca2e",
+    "code": "Service_Pets_TrainingGrooming"
+  },
+  {
+    "uuid": "ce5cfea8-73a7-4bc0-8238-a041f69442a4",
+    "code": "Service_Pets_PetSittingCare"
+  },
+  {
+    "uuid": "be49af24-6b96-4a7d-a63f-21f6ff5b6852",
+    "code": "RealEstates_ParkingSpace"
+  },
+  {
+    "uuid": "382322b6-eaf3-4b15-a4b2-f671333f47b2",
+    "code": "RealEstates_PerDay"
+  },
+  {
+    "uuid": "deb16a55-2ba4-4ea5-93f7-29e8cf231b6c",
+    "code": "Service_OtherServicesFacilities"
+  },
+  {
+    "uuid": "7be07a07-dc65-4377-93af-06a4405e1412",
+    "code": "Service_Intellectual_LegalServices"
+  },
+  {
+    "uuid": "e17f62ba-fe1f-4e01-84fd-1901fd76f405",
+    "code": "Vehicles_OtherVehicles"
+  },
+  {
+    "uuid": "6533df92-d953-419c-b258-e39ab5ec95c0",
+    "code": "IndustryBusiness_Agriculture_AgriculturalMachinery_Tractors"
+  },
+  {
+    "uuid": "c2ce60c0-93a6-4195-8921-03baa1a6b2d0",
+    "code": "IndustryBusiness_Agriculture_AgriculturalMachinery_Cultivator"
+  },
+  {
+    "uuid": "9cecbaaf-1acf-4024-b11f-daf7e5e2bfea",
+    "code": "IndustryBusiness_Agriculture_AgriculturalMachinery_Implements"
+  },
+  {
+    "uuid": "6b74f560-9d04-41f0-b197-77917e9dc689",
+    "code": "MachineToolMaterial_SanitaryFacilities_Sinks"
+  },
+  {
+    "uuid": "39e36cdb-aa81-4222-99bb-e01eba4124fd",
+    "code": "MyHome_Furniture_Bathroom_Boilers"
+  },
+  {
+    "uuid": "8778b580-6e27-4cb9-b982-ee24b0bc622c",
+    "code": "MyHome_HomeAppliances_Appliances_WashingMachine"
+  },
+  {
+    "uuid": "81b760a8-4a7f-44d1-b0a4-4a93cc30da9f",
+    "code": "MyHome_HomeAppliances_Appliances_Dryers"
+  },
+  {
+    "uuid": "7d2a3e23-d00d-4fa5-9375-aeeea580f170",
+    "code": "MyHome_HomeAppliances_Appliances_RangeHood"
+  },
+  {
+    "uuid": "229bcc07-c4ff-4d66-a8a2-47d28eab95eb",
+    "code": "MyHome_HomeAppliances_Appliances_Stove"
+  },
+  {
+    "uuid": "d9022a4e-7881-4c69-9b20-127fb3c81a6a",
+    "code": "MyHome_HomeAppliances_Appliances_Hobs"
+  },
+  {
+    "uuid": "d8a3c574-e0eb-4cce-9e96-1eb3dc73ff10",
+    "code": "MyHome_HomeAppliances_Appliances_BuiltInOvens"
+  },
+  {
+    "uuid": "05c23c56-cf35-4b83-803d-9b69887f3077",
+    "code": "MyHome_HomeAppliances_Appliances_Dishwashers"
+  },
+  {
+    "uuid": "caed966a-abdd-45c1-b1b9-c2b8035d45ba",
+    "code": "MyHome_HomeAppliances_Appliances_Refrigerator"
+  },
+  {
+    "uuid": "520e2ece-cbe5-4573-965c-d2b5ee88c15e",
+    "code": "MyHome_HomeAppliances_Appliances_Microwave"
+  },
+  {
+    "uuid": "0e5ec8fc-8e1a-42e2-a184-b402bf3d9b12",
+    "code": "MyHome_HomeAppliances_Appliances_Other"
+  },
+  {
+    "uuid": "9db9d134-8c00-46ec-98c6-e500b4c014c3",
+    "code": "MyHome_HomeAppliances_SmallAppliances_VacuumCleaner"
+  },
+  {
+    "uuid": "ecbc96bd-642c-48df-bdd6-7bfc9ff772bf",
+    "code": "MyHome_HomeAppliances_SmallAppliances_SteamMop"
+  },
+  {
+    "uuid": "1cae5db4-43c3-458e-a5b6-f05c57881b84",
+    "code": "MyHome_HomeAppliances_SmallAppliances_Irons"
+  },
+  {
+    "uuid": "a4576102-21f4-4171-b7da-89ed9feec979",
+    "code": "MyHome_HomeAppliances_SmallAppliances_CoffeMachines"
+  },
+  {
+    "uuid": "6402320c-4c96-46f2-9ff4-2710e0943806",
+    "code": "MyHome_HomeAppliances_SmallAppliances_FoodMachines"
+  },
+  {
+    "uuid": "d92acf86-0e41-41da-8f03-24c788944375",
+    "code": "MyHome_HomeAppliances_SmallAppliances_Toasters"
+  },
+  {
+    "uuid": "d813cded-68d7-45d9-9e40-531a6b0727c4",
+    "code": "MyHome_HomeAppliances_SmallAppliances_KitchenScale"
+  },
+  {
+    "uuid": "f0a48573-6bb2-4598-9f0c-1bc13ea72b5e",
+    "code": "MyHome_HomeAppliances_SmallAppliances_Choppers"
+  },
+  {
+    "uuid": "166e8f57-2ad2-4e73-a415-a37b1e337c82",
+    "code": "MyHome_HomeAppliances_SmallAppliances_Other"
+  },
+  {
+    "uuid": "8a1eea24-1edc-44db-9d80-783fcecdea9b",
+    "code": "MyHome_HomeAppliances_SmallAppliances_AirCleaners"
+  },
+  {
+    "uuid": "66f49b09-29ee-4fed-be2a-ad61ab557d2f",
+    "code": "Entertainment_MusicalInstruments_PercussionInstruments"
+  },
+  {
+    "uuid": "c83aae4b-4f08-44d4-8012-6898470291b2",
+    "code": "Entertainment_MusicalInstruments_KeyInstruments"
+  },
+  {
+    "uuid": "b366fc16-fdb5-443d-8f8b-5a29bd976078",
+    "code": "Entertainment_MusicalInstruments_Equipment"
+  },
+  {
+    "uuid": "0ef6fd30-0a92-48d3-885f-b63ed10bb768",
+    "code": "FoodDrink_Drinks_Alcohol"
+  },
+  {
+    "uuid": "9abaf71b-18ca-484f-a01d-f2426c5af10f",
+    "code": "FoodDrink_Drinks_Wine"
+  },
+  {
+    "uuid": "0e5ad4c4-a10f-44f8-8ad0-bad447067908",
+    "code": "FoodDrink_Drinks_Other"
+  },
+  {
+    "uuid": "2855c862-c768-4dad-bd8a-bb8e8d922e5f",
+    "code": "FoodDrink_DairyProducts_Milk"
+  },
+  {
+    "uuid": "31b88079-e60a-42a9-a2aa-1ccae21a18eb",
+    "code": "FoodDrink_DairyProducts_SourMilkProducts"
+  },
+  {
+    "uuid": "70c2e1c2-b779-4be3-850c-17302961b709",
+    "code": "FoodDrink_DairyProducts_Cheese"
+  },
+  {
+    "uuid": "b9fba967-4357-4950-9007-0c85ea76e328",
+    "code": "FoodDrink_DairyProducts_Eggs"
+  },
+  {
+    "uuid": "21d64869-cbc5-4d6a-b595-217e942ccb7b",
+    "code": "FoodDrink_DairyProducts_Other"
+  },
+  {
+    "uuid": "03e470e0-a01f-447e-b668-15a6defaa082",
+    "code": "FoodDrink_Delicatessen_MeatDelicacies"
+  },
+  {
+    "uuid": "3b5937d9-8745-4b50-8460-18dc09325e21",
+    "code": "FoodDrink_Delicatessen_MeetPlate"
+  },
+  {
+    "uuid": "f52c6a96-f671-4821-ae32-1188132201c0",
+    "code": "FoodDrink_Delicatessen_Other"
+  },
+  {
+    "uuid": "ba630314-0381-401e-b1d7-b120199c315b",
+    "code": "FoodDrink_MeatFish_Pork"
+  },
+  {
+    "uuid": "2b6e4ccf-3df8-4933-be61-a5213c0f26fd",
+    "code": "FoodDrink_MeatFish_Chicken"
+  },
+  {
+    "uuid": "cc44fa84-0c99-491d-ba07-c0c0ee9a0c05",
+    "code": "FoodDrink_MeatFish_Turkey"
+  },
+  {
+    "uuid": "14dcaca8-9475-488a-bd0f-0200e3a63d42",
+    "code": "FoodDrink_MeatFish_Veal"
+  },
+  {
+    "uuid": "1bd67635-1429-495e-a618-6a67c5bd919d",
+    "code": "FoodDrink_MeatFish_Lamb"
+  },
+  {
+    "uuid": "50d21802-5bca-4667-8dd9-34a87c6897cf",
+    "code": "FoodDrink_MeatFish_Venison"
+  },
+  {
+    "uuid": "1d94531b-e1b8-4e09-8d44-0badf8fbe3f0",
+    "code": "FoodDrink_MeatFish_Fish"
+  },
+  {
+    "uuid": "23e29706-a61b-4e46-ac9f-7108eab980fa",
+    "code": "FoodDrink_MeatFish_Other"
+  },
+  {
+    "uuid": "84217c0d-3c8c-4358-8bb7-8be41d05b9c3",
+    "code": "FoodDrink_PackagedFood_Flour"
+  },
+  {
+    "uuid": "8f5ba696-f596-43b1-9b70-1e2bc5f60ff6",
+    "code": "FoodDrink_PackagedFood_Shugar"
+  },
+  {
+    "uuid": "58cc4438-40e8-4109-9fac-d308625a5b43",
+    "code": "FoodDrink_PackagedFood_Oil"
+  },
+  {
+    "uuid": "dd6dbd96-0847-42b9-ab66-a1e76cfba72d",
+    "code": "FoodDrink_PackagedFood_Grease"
+  },
+  {
+    "uuid": "518ce87c-d451-44e8-90ff-1f9ef926e2b4",
+    "code": "FoodDrink_PackagedFood_CondimentsAdditionsDishes"
+  },
+  {
+    "uuid": "7fe5fd87-4849-415b-a4d5-3865f610a980",
+    "code": "FoodDrink_PackagedFood_Soups"
+  },
+  {
+    "uuid": "6d4c3b52-1ba3-43a9-97d6-a305c0e7dcca",
+    "code": "FoodDrink_PackagedFood_PastaRice"
+  },
+  {
+    "uuid": "8bace427-0038-4c69-aa85-0c63718343dd",
+    "code": "FoodDrink_PackagedFood_SaucesKetchupMayonnaise"
+  },
+  {
+    "uuid": "fc150d88-059f-4cfa-87c8-4814d688f09d",
+    "code": "FoodDrink_PackagedFood_Other"
+  },
+  {
+    "uuid": "0dd9bab3-da2b-4b83-b976-9f1e6cd96df7",
+    "code": "FoodDrink_WinterPreserves_Sweet"
+  },
+  {
+    "uuid": "3b3c544b-cd6c-4578-902d-f08834259a4b",
+    "code": "FoodDrink_WinterPreserves_Sour"
+  },
+  {
+    "uuid": "a7e7085d-483e-4398-8a94-fb938c7975e4",
+    "code": "FoodDrink_WinterPreserves_Ajvar"
+  },
+  {
+    "uuid": "b6e43fd6-23a9-4289-8d4c-9fd9e9db2ee0",
+    "code": "FoodDrink_WinterPreserves_Cans"
+  },
+  {
+    "uuid": "55029504-ab9d-4234-a5fb-1f7a95c2f77d",
+    "code": "FoodDrink_WinterPreserves_Other"
+  },
+  {
+    "uuid": "3c8c0e80-45d0-4299-a0dc-4e971bde5207",
+    "code": "FoodDrink_FruitsVegetables_Fruits"
+  },
+  {
+    "uuid": "c1b38a7a-ee95-4de0-8a14-e4cdd91f79dc",
+    "code": "FoodDrink_FruitsVegetables_Vegetables"
+  },
+  {
+    "uuid": "f57120b5-9ef9-44a7-8ff8-e0b19c3ecfdd",
+    "code": "FoodDrink_FruitsVegetables_Other"
+  },
+  {
+    "uuid": "66549317-1309-48c2-a22f-10c0a6f8a291",
+    "code": "FoodDrink_GoodMorning_Coffe"
+  },
+  {
+    "uuid": "b412e52f-347c-4196-a8cb-6bce7ad27a6b",
+    "code": "FoodDrink_GoodMorning_Tea"
+  },
+  {
+    "uuid": "909645dd-00c5-449c-8208-a1e583716417",
+    "code": "FoodDrink_GoodMorning_Cereal"
+  },
+  {
+    "uuid": "a3fa244a-08ca-46ff-9b4e-0e3b16f65e51",
+    "code": "FoodDrink_GoodMorning_Spreads"
+  },
+  {
+    "uuid": "785dfa6e-fb35-407f-b293-c7dbb65d94cc",
+    "code": "FoodDrink_GoodMorning_Other"
+  },
+  {
+    "uuid": "8f6b2f8b-47b5-48fc-8a78-9338b4bc24db",
+    "code": "FoodDrink_Snacks_Sweet"
+  },
+  {
+    "uuid": "772e5f52-af9c-4937-be93-6d913d7490ad",
+    "code": "FoodDrink_Snacks_Other"
+  },
+  {
+    "uuid": "9b4aef85-fa0b-47f6-8e55-708744b77ae6",
+    "code": "FoodDrink_Bakery_Bread"
+  },
+  {
+    "uuid": "def1ab54-0b17-408a-b11e-68ccae8a5414",
+    "code": "FoodDrink_Bakery_Pastry"
+  },
+  {
+    "uuid": "14484a21-77ad-4302-a9b4-e921b9ae1e5c",
+    "code": "FoodDrink_Bakery_Cakes"
+  },
+  {
+    "uuid": "d0e09956-84a3-45f2-852e-728747598b0b",
+    "code": "FoodDrink_Bakery_Cookies"
+  },
+  {
+    "uuid": "e7570a6a-d22e-4e2d-be3a-f3c948db4b26",
+    "code": "FoodDrink_Bakery_Other"
+  },
+  {
+    "uuid": "414c180d-bc0a-4f05-82d4-28b2fd632b6f",
+    "code": "FoodDrink_HealthyFood_Cereals"
+  },
+  {
+    "uuid": "bda1575c-53ee-4d15-b640-b9d1325d4cf3",
+    "code": "FoodDrink_HealthyFood_Nuts"
+  },
+  {
+    "uuid": "aa6c6444-118b-444b-a935-3c39c8f8c9e5",
+    "code": "FoodDrink_HealthyFood_MuesliPorridge"
+  },
+  {
+    "uuid": "003687ba-d8cd-4bf1-b9a2-02f889d704b3",
+    "code": "FoodDrink_HealthyFood_Other"
+  },
+  {
+    "uuid": "d33a1e74-f50e-4e60-bbc2-b5bb6b6a34f2",
+    "code": "FoodDrink_FrozenFood_Vegetables"
+  },
+  {
+    "uuid": "0eba4c49-233b-44d8-a85d-4373a2a98909",
+    "code": "FoodDrink_FrozenFood_Fruit"
+  },
+  {
+    "uuid": "33c6e334-095c-47e7-9ba1-4b8dbff7a38e",
+    "code": "FoodDrink_FrozenFood_Fish"
+  },
+  {
+    "uuid": "b1d9a852-4acd-4561-963b-6ef33f9cc444",
+    "code": "FoodDrink_FrozenFood_Dough"
+  },
+  {
+    "uuid": "067aa973-de8f-4a6e-bbd0-187c1a71be64",
+    "code": "FoodDrink_FrozenFood_IceCream"
+  },
+  {
+    "uuid": "859b90ef-59f4-4628-8595-1f43868824ec",
+    "code": "FoodDrink_FrozenFood_Other"
+  },
+  {
+    "uuid": "ab1e5d03-e4d3-4e11-9ca9-50bbb7c4c125",
+    "code": "Art_Antics_Books"
+  },
+  {
+    "uuid": "90cb9c7f-69d4-44e7-983d-2b1d4e7c2977",
+    "code": "Art_Antics_Furnitures"
+  },
+  {
+    "uuid": "4f161c2b-b636-40ae-99a8-bcfb6283a652",
+    "code": "Art_Antics_Antiquities"
+  },
+  {
+    "uuid": "c7c4d9a4-ec68-4954-958f-569fcd1dfd9f",
+    "code": "Art_Antics_Weapons"
+  },
+  {
+    "uuid": "225399b6-e4e9-437f-b176-b27af4ecd2a4",
+    "code": "Art_Antics_Jewelry"
+  },
+  {
+    "uuid": "66e392ae-97d7-4d10-a3bf-b450119497fe",
+    "code": "Art_Antics_ClothesShoes"
+  },
+  {
+    "uuid": "1ff708bc-51ff-48be-808e-8a9f6d8402ec",
+    "code": "Art_ArtPaintings_ArtPictures"
+  },
+  {
+    "uuid": "7af1955e-53ae-4ce9-80a1-716fc3b9bcea",
+    "code": "Art_ArtEquipment_Decoupage"
+  },
+  {
+    "uuid": "35e750ae-3dbb-45f7-ab5f-a69aa11f16f4",
+    "code": "Art_ArtEquipment_Painting"
+  },
+  {
+    "uuid": "a2931c0d-be2f-431d-a862-b761dcfd87fb",
+    "code": "Art_ArtEquipment_Other"
+  },
+  {
+    "uuid": "8927d9d8-927e-44cd-b826-7a62ed733d5e",
+    "code": "MomBaby_BabyEquipment_Equipment"
+  },
+  {
+    "uuid": "7cc082c6-9df3-47d4-8e21-ee9577dd4ba5",
+    "code": "MomBaby_BabyEquipment_BabyCarriers"
+  },
+  {
+    "uuid": "375dd9e4-711c-4aba-8eea-91f318197e1a",
+    "code": "MomBaby_Toys_Other"
+  },
+  {
+    "uuid": "0ee55ee0-3d63-4aec-a7ab-a964aa62ed9d",
+    "code": "MomBaby_BabyCare_Accessories"
+  },
+  {
+    "uuid": "5013954d-6550-4d1d-b0c5-385f80128095",
+    "code": "MomBaby_BabyCare_Other"
+  },
+  {
+    "uuid": "1132bf1b-d166-4052-ba4c-8ccfe16959fb",
+    "code": "MomBaby_BabyFeeding_Bottles"
+  },
+  {
+    "uuid": "947eaa67-a0f0-4b87-b71e-7e225e5b0a34",
+    "code": "MomBaby_BabyFeeding_Pacifiers"
+  },
+  {
+    "uuid": "aa4af7ce-60ba-41f9-9851-e95f46df5ec4",
+    "code": "MomBaby_BabyFeeding_FeedingUtensils"
+  },
+  {
+    "uuid": "bc5c1dbc-d45a-4439-971a-38336af58090",
+    "code": "MomBaby_BabyFeeding_Other"
+  },
+  {
+    "uuid": "56d78912-a7c8-4f38-9fd8-57d9d2db2dce",
+    "code": "MomBaby_ForMom_Other"
+  },
+  {
+    "uuid": "dd39f0d8-b283-4713-bb50-0e22d97f0835",
+    "code": "MachineToolMaterial_Machines_StaplesAccessories"
+  },
+  {
+    "uuid": "bb163483-16ae-4ef4-ab25-959ffa0f9094",
+    "code": "MachineToolMaterial_Machines_Aggregates"
+  },
+  {
+    "uuid": "80b4f886-a087-47ba-8421-0726e000b2c4",
+    "code": "MachineToolMaterial_Machines_Cranes"
+  },
+  {
+    "uuid": "c3e4f9db-ee48-4498-8f3f-fd32cba80926",
+    "code": "MachineToolMaterial_Machines_Other"
+  },
+  {
+    "uuid": "cab24ef1-10f4-45cb-bd8f-eec117528b3f",
+    "code": "MachineToolMaterial_ProtectiveGear_Shoes"
+  },
+  {
+    "uuid": "f7998e70-c005-487f-99e3-5c10ea87f2ca",
+    "code": "MachineToolMaterial_ProtectiveGear_HandProtection"
+  },
+  {
+    "uuid": "796e892a-62b1-4546-abbe-1127cbd84364",
+    "code": "MachineToolMaterial_ProtectiveGear_EyeProtection"
+  },
+  {
+    "uuid": "b1329a8f-7c01-44ad-8797-36a515f49754",
+    "code": "MachineToolMaterial_ProtectiveGear_EarProtection"
+  },
+  {
+    "uuid": "be6e659b-2911-49f0-9166-8329e0c312a1",
+    "code": "MachineToolMaterial_ProtectiveGear_HeadProtection"
+  },
+  {
+    "uuid": "8fd9049c-85ad-4821-8787-9735d06e3227",
+    "code": "MachineToolMaterial_ProtectiveGear_Clothes"
+  },
+  {
+    "uuid": "0ab863d5-45b8-4b2c-8037-6896adc880b2",
+    "code": "MachineToolMaterial_ProtectiveGear_WeldersProtection"
+  },
+  {
+    "uuid": "de204e67-9856-4d68-82dc-0e7d8bb63a24",
+    "code": "MachineToolMaterial_ProtectiveGear_HeightWorking"
+  },
+  {
+    "uuid": "28a9956e-5f84-4579-bec7-e67683f61f45",
+    "code": "MachineToolMaterial_ProtectiveGear_SignalingMarking"
+  },
+  {
+    "uuid": "5a006fc3-b81e-46c1-aca5-4d8c069f55bb",
+    "code": "MachineToolMaterial_ProtectiveGear_FirstAid"
+  },
+  {
+    "uuid": "0caaf7e5-60e8-4467-95be-11de6a99cd4c",
+    "code": "MachineToolMaterial_ProtectiveGear_Other"
+  },
+  {
+    "uuid": "4fa03d6f-aecf-4d6a-bbfe-bd5230064250",
+    "code": "MachineToolMaterial_ElectricalInstallations_Bulbs"
+  },
+  {
+    "uuid": "4cd66a8b-4394-4947-abca-000b18b2642e",
+    "code": "MachineToolMaterial_ElectricalInstallations_CablesConductors"
+  },
+  {
+    "uuid": "a0da9e8b-21a2-4155-a3c8-4480cb91464e",
+    "code": "MachineToolMaterial_ElectricalInstallations_Soldering"
+  },
+  {
+    "uuid": "a92794d9-1572-4b9d-a33d-b1766e36970b",
+    "code": "MachineToolMaterial_ElectricalInstallations_Other"
+  },
+  {
+    "uuid": "14e284dc-158d-4f8e-9766-0a5e6cc5b446",
+    "code": "MachineToolMaterial_ColorsFacades_HydroIsolation"
+  },
+  {
+    "uuid": "9003e0fa-32b6-4d1f-901d-ac3a064fcbe6",
+    "code": "MachineToolMaterial_ColorsFacades_ScaffoldingLadders"
+  },
+  {
+    "uuid": "9b9da4b2-f250-405a-8a35-d86166d1a8d0",
+    "code": "MachineToolMaterial_ColorsFacades_Other"
+  },
+  {
+    "uuid": "43a49824-7121-41c0-aa02-44937026b4dd",
+    "code": "MachineToolMaterial_ConstructionCarpentry_ConstructionWood"
+  },
+  {
+    "uuid": "5f9bb9a5-e962-48cc-b42c-0e5a2eeb6e77",
+    "code": "MachineToolMaterial_ConstructionCarpentry_Other"
+  },
+  {
+    "uuid": "a8f593c0-fbec-4137-a00d-74bf51cd9b00",
+    "code": "MachineToolMaterial_ToolShop_Clamp"
+  },
+  {
+    "uuid": "36e03699-4896-4423-9fdf-e8593de64678",
+    "code": "MachineToolMaterial_ToolShop_FurnitureFittings"
+  },
+  {
+    "uuid": "d647fef2-41c6-4535-a05f-c1b3223eb19d",
+    "code": "MachineToolMaterial_ToolShop_ConnectorsCorners"
+  },
+  {
+    "uuid": "ae86b9a4-911c-41d9-bda9-aafde6d3f711",
+    "code": "MachineToolMaterial_ToolShop_Other"
+  },
+  {
+    "uuid": "e714bd2b-ba16-4771-bbee-448ef773b2e5",
+    "code": "MachineToolMaterial_SanitaryFacilities_Faucet"
+  },
+  {
+    "uuid": "156e54df-acea-40d0-935e-ee0410a4575a",
+    "code": "MachineToolMaterial_SanitaryFacilities_SanitaryInstallationMaterial"
+  },
+  {
+    "uuid": "bd504cce-d065-4b88-9c91-e39a16aa1e8f",
+    "code": "MachineToolMaterial_SanitaryFacilities_Other"
+  },
+  {
+    "uuid": "273ba6ca-71d5-49bb-9381-a7ac32de43f0",
+    "code": "Fashion_Men_Clothes_Shirts"
+  },
+  {
+    "uuid": "0bac8e43-c32c-46e7-b3c9-d3e27994aed1",
+    "code": "Fashion_Men_Clothes_Tshirts"
+  },
+  {
+    "uuid": "42c0d3ff-017e-4350-8207-d118f607f753",
+    "code": "Fashion_Men_Clothes_Coats"
+  },
+  {
+    "uuid": "88a6db3b-6be2-4ab1-8dde-20684583d32a",
+    "code": "Fashion_Men_Clothes_Jeans"
+  },
+  {
+    "uuid": "0e5c7bd2-583b-4565-9b0b-3015845a39d0",
+    "code": "Fashion_Men_Clothes_Jackets"
+  },
+  {
+    "uuid": "060db462-72f4-48c7-811b-0721f446623f",
+    "code": "Fashion_Men_Clothes_Suits"
+  },
+  {
+    "uuid": "2a707698-fd78-4bdd-93d5-7a670e4837e6",
+    "code": "Fashion_Men_Clothes_Sweaters"
+  },
+  {
+    "uuid": "7cdd0c63-0ee1-4ddf-af10-45ee82bfec42",
+    "code": "Fashion_Men_Clothes_Sweatshirts"
+  },
+  {
+    "uuid": "c57fe47d-dd2e-4edd-a09e-c2f66afd37ae",
+    "code": "Fashion_Men_Clothes_Shorts"
+  },
+  {
+    "uuid": "4124dddf-5065-4e42-8849-cb6896710fe1",
+    "code": "Fashion_Men_Clothes_Underwear"
+  },
+  {
+    "uuid": "f45aac12-797d-4947-b5c8-6ce143aff02b",
+    "code": "Fashion_Men_Clothes_Socks"
+  },
+  {
+    "uuid": "4f80c663-7a7d-48f3-a92f-234fa8987fcc",
+    "code": "Fashion_Men_Clothes_Swimsuits"
+  },
+  {
+    "uuid": "35e8ea5b-6958-45c7-bc59-63c9c5b20da1",
+    "code": "Fashion_Men_Clothes_Pajamas"
+  },
+  {
+    "uuid": "49053ea9-02c7-4e03-b23f-a253ef580f4c",
+    "code": "Fashion_Men_Clothes_Other"
+  },
+  {
+    "uuid": "221e6ce1-be3a-4411-bd51-cf21e7e4065f",
+    "code": "Fashion_Men_Shoes_Sneakers"
+  },
+  {
+    "uuid": "4cb75feb-b09d-4cf5-920e-5a19f3735401",
+    "code": "Fashion_Men_Shoes_Boots"
+  },
+  {
+    "uuid": "07fca78a-5cdd-40e5-b1ee-aa67af15559b",
+    "code": "Fashion_Men_Shoes_Shoes"
+  },
+  {
+    "uuid": "5d399067-7a9d-4c66-aad1-908137436bba",
+    "code": "Fashion_Men_Shoes_Sandals"
+  },
+  {
+    "uuid": "9e2cc635-3ade-49dc-b81d-c1714ffb804d",
+    "code": "Fashion_Men_Shoes_Other"
+  },
+  {
+    "uuid": "dea7c4b9-9f8e-447d-98b5-23816255f011",
+    "code": "Fashion_Men_Accessorise_Caps"
+  },
+  {
+    "uuid": "87784b79-a211-4ec9-b644-f12235906b64",
+    "code": "Fashion_Men_Accessorise_Bags"
+  },
+  {
+    "uuid": "b3f512ce-c7c6-46f8-b429-e82a1fbb9e32",
+    "code": "Fashion_Men_Accessorise_Wallets"
+  },
+  {
+    "uuid": "7ae3595a-61ef-46ab-b8c9-50207b2feade",
+    "code": "Fashion_Men_Accessorise_Belts"
+  },
+  {
+    "uuid": "6a397a93-9e5c-498b-8738-84427432eb07",
+    "code": "Fashion_Men_Accessorise_Sunglasses"
+  },
+  {
+    "uuid": "2f1fcde6-b305-41e5-85ef-db38c67c9ec3",
+    "code": "Fashion_Men_Accessorise_SuitAccessories"
+  },
+  {
+    "uuid": "1f24cdd7-6374-4d38-9c2c-a193cae538b5",
+    "code": "Fashion_Men_Accessorise_Scarfs"
+  },
+  {
+    "uuid": "788123bc-ee78-49ff-aef1-ac2a2714e950",
+    "code": "Fashion_Men_Accessorise_Other"
+  },
+  {
+    "uuid": "4930c7a5-18b4-4f69-a176-5661dc74bb79",
+    "code": "Fashion_Women_Clothes_Dresses"
+  },
+  {
+    "uuid": "32d2e97d-f23e-40bf-ac42-5fc2edb083ff",
+    "code": "Fashion_Women_Clothes_Jackets"
+  },
+  {
+    "uuid": "4c5a55e2-36da-4d70-8e23-386473216a78",
+    "code": "Fashion_Women_Clothes_Coats"
+  },
+  {
+    "uuid": "c43ac24c-acbf-41b3-8a8f-eb0ee9a97386",
+    "code": "Fashion_Women_Clothes_Sweaters"
+  },
+  {
+    "uuid": "5e10b0af-c99c-43d6-8fb4-5da2ea6a2de2",
+    "code": "Fashion_Women_Clothes_Tshirts"
+  },
+  {
+    "uuid": "8640d5fa-f72d-4853-9b5b-f83dad2a7b9d",
+    "code": "Fashion_Women_Clothes_Shirts"
+  },
+  {
+    "uuid": "f95ed12c-08b2-481f-a9c6-447a53a3c69d",
+    "code": "Fashion_Women_Clothes_Sweatshirts"
+  },
+  {
+    "uuid": "5b9b2e0b-6923-46e3-8c00-5644c12b6bc7",
+    "code": "Fashion_Women_Clothes_Jeans"
+  },
+  {
+    "uuid": "e882e650-18f8-42e2-ba63-e5393ce9b402",
+    "code": "Fashion_Women_Clothes_Jumpsuits"
+  },
+  {
+    "uuid": "c0829a93-55e7-48e5-8ae8-1228c323ab78",
+    "code": "Fashion_Women_Clothes_Skirts"
+  },
+  {
+    "uuid": "082fb450-87ca-4652-bcfd-0a89abaddd76",
+    "code": "Fashion_Women_Clothes_Suits"
+  },
+  {
+    "uuid": "64c0ba27-18d2-4f1b-adc2-48546a144869",
+    "code": "Fashion_Women_Clothes_Sets"
+  },
+  {
+    "uuid": "8330ddf4-a9cc-4468-b1a9-47181bbb43f9",
+    "code": "Fashion_Women_Clothes_Shorts"
+  },
+  {
+    "uuid": "81992811-2c2f-4be2-89bb-a20054c39663",
+    "code": "Fashion_Women_Clothes_Underwear"
+  },
+  {
+    "uuid": "854c1fc5-3384-4db7-bc0e-5b018ba8a51d",
+    "code": "Fashion_Women_Clothes_Pajamas"
+  },
+  {
+    "uuid": "2f26f8da-b81f-4b33-a8d9-ce94bc6df585",
+    "code": "Fashion_Women_Clothes_Socks"
+  },
+  {
+    "uuid": "c60db757-e51d-4644-a59e-9e2969b39ffb",
+    "code": "Fashion_Women_Clothes_Swimsuits"
+  },
+  {
+    "uuid": "1de48ba8-9870-49d8-9db9-f5314d113d01",
+    "code": "Fashion_Women_Clothes_Other"
+  },
+  {
+    "uuid": "d8dfa4ad-eca8-4492-99d8-049abfacc502",
+    "code": "Fashion_Women_Shoes_Flats"
+  },
+  {
+    "uuid": "cb02a2d4-c5db-4306-9453-8b0a6e6e9171",
+    "code": "Fashion_Women_Shoes_Heels"
+  },
+  {
+    "uuid": "8317d3f0-6424-402d-a0aa-06a4cbc455cb",
+    "code": "Fashion_Women_Shoes_Boots"
+  },
+  {
+    "uuid": "18be2929-66fc-4b33-a2dd-960b833f54f4",
+    "code": "Fashion_Women_Shoes_Sandals"
+  },
+  {
+    "uuid": "1266251b-7de9-4ab2-94c3-143136a26a15",
+    "code": "Fashion_Women_Shoes_Sneakers"
+  },
+  {
+    "uuid": "56ddbd37-d453-4a9e-99db-271b6249af0b",
+    "code": "Fashion_Women_Shoes_Other"
+  },
+  {
+    "uuid": "f6bf1b8c-9822-44bd-a156-f9781bd2f069",
+    "code": "Fashion_Women_Accessorise_Bags"
+  },
+  {
+    "uuid": "b036b39a-8b8a-4f56-a3b0-30ed417e0ca3",
+    "code": "Fashion_Women_Accessorise_Wallets"
+  },
+  {
+    "uuid": "0b82c415-fb82-49ba-9652-2068d16e3523",
+    "code": "Fashion_Women_Accessorise_Sunglasses"
+  },
+  {
+    "uuid": "dd901be6-bd17-4e64-ab5a-ed10edcc839e",
+    "code": "Fashion_Women_Accessorise_Belts"
+  },
+  {
+    "uuid": "8839d9bb-2aaa-4d96-9114-a39c8e33984f",
+    "code": "Fashion_Women_Accessorise_Scarfs"
+  },
+  {
+    "uuid": "32a9c370-b36a-419b-b00a-7eb06eca212f",
+    "code": "Fashion_Women_Accessorise_Caps"
+  },
+  {
+    "uuid": "f9662d1d-c07d-435e-a693-590cbbca80d5",
+    "code": "Fashion_Women_Accessorise_Hair"
+  },
+  {
+    "uuid": "6164bb20-71c7-4ba5-85af-1950f6dfc5e8",
+    "code": "Fashion_Women_Accessorise_Other"
+  },
+  {
+    "uuid": "932b9c4a-c9e3-48bd-86c5-1ea20cc25356",
+    "code": "Fashion_Kids_Boys_Shoes"
+  },
+  {
+    "uuid": "4658437a-8415-451b-8fba-91357c2d25cb",
+    "code": "Fashion_Kids_Boys_Accessoirse"
+  },
+  {
+    "uuid": "b160f016-7b20-4bca-9ea8-01b7eb4cd2e5",
+    "code": "Fashion_Kids_Boys_Other"
+  },
+  {
+    "uuid": "d0c1be34-b2ff-4649-b3db-68b64b016fb1",
+    "code": "Fashion_Kids_Baby_Clothes"
+  },
+  {
+    "uuid": "9f3a2f86-0c48-4ebb-8cd6-e44ff1caaba1",
+    "code": "Fashion_Kids_Baby_Shoes"
+  },
+  {
+    "uuid": "bfde8ff4-e069-4d40-967f-dd8b82f4fad7",
+    "code": "Fashion_Kids_Baby_Accessoirse"
+  },
+  {
+    "uuid": "6fb97a9e-fdf2-4870-b8b5-52e07f7d4b9d",
+    "code": "Fashion_Kids_Baby_Other"
+  },
+  {
+    "uuid": "626cda35-6a98-4d4e-a545-f12a08e3fad1",
+    "code": "Fashion_Kids_MyFamily_Family"
+  },
+  {
+    "uuid": "07a983c6-0022-4ca4-ac92-2450208086fa",
+    "code": "Fashion_Kids_MyFamily_Other"
+  },
+  {
+    "uuid": "ee18e0d5-881b-4c99-ad95-4590adc2e557",
+    "code": "Fashion_Jewelry_Watches_WristWatches"
+  },
+  {
+    "uuid": "91ef9885-6ec7-46e0-8d9e-dc17cc75f2e3",
+    "code": "Fashion_Jewelry_Watches_PocketWatches"
+  },
+  {
+    "uuid": "dddf2eb2-c888-4508-a41d-663eb1fb32b3",
+    "code": "Fashion_Jewelry_Watches_SmartWatches"
+  },
+  {
+    "uuid": "e5cc5c10-db33-4aa4-81f6-e923eaa4d79c",
+    "code": "Fashion_Jewelry_Watches_WatchBox"
+  },
+  {
+    "uuid": "a8f85529-89e6-4b8b-8f38-2328cd29cdd2",
+    "code": "Fashion_Jewelry_Watches_WatchEquipment"
+  },
+  {
+    "uuid": "29163ecd-9b77-48ee-bdae-748a038235c5",
+    "code": "Fashion_Jewelry_Rings_Rings"
+  },
+  {
+    "uuid": "760382a1-04f7-42c7-88c8-9565960faf4f",
+    "code": "Fashion_Jewelry_Rings_EngagementRings"
+  },
+  {
+    "uuid": "03d5b378-b428-4dff-ae0b-eccaf600c811",
+    "code": "Fashion_Jewelry_Rings_WeddingRings"
+  },
+  {
+    "uuid": "1b0103ea-76f4-4a4e-9765-0ac6c7ef29e2",
+    "code": "Fashion_Jewelry_Bracelets"
+  },
+  {
+    "uuid": "807df6f1-fef2-4824-99ee-990a27b3d0fc",
+    "code": "Fashion_Jewelry_Earrings"
+  },
+  {
+    "uuid": "1205bea2-2c23-4f67-8fb8-0f696d641a4e",
+    "code": "Fashion_Jewelry_Necklaces"
+  },
+  {
+    "uuid": "b300295c-f564-425d-bf2e-2d09edd209b9",
+    "code": "Fashion_Jewelry_Pendants"
+  },
+  {
+    "uuid": "7a45860c-415e-4585-a8e1-8a4180afffd9",
+    "code": "Fashion_Jewelry_Piercing"
+  },
+  {
+    "uuid": "50f83cf4-a4a1-4674-b783-77d08e761ee7",
+    "code": "Fashion_Jewelry_ChildrenJewelrys_Watches"
+  },
+  {
+    "uuid": "4c0a254f-99ef-4569-9d2b-ae157f9d496f",
+    "code": "Fashion_Jewelry_ChildrenJewelrys_Rings"
+  },
+  {
+    "uuid": "b80560ba-642d-4439-a2f8-2a5b80f43560",
+    "code": "Fashion_Jewelry_ChildrenJewelrys_Bracelets"
+  },
+  {
+    "uuid": "0aff9252-f491-43a0-ac9b-4474b73ec2c1",
+    "code": "Fashion_Jewelry_ChildrenJewelrys_Earrings"
+  },
+  {
+    "uuid": "61fcc098-35ae-4f0a-b7d1-92c96279a658",
+    "code": "Fashion_Jewelry_ChildrenJewelrys_Necklaces"
+  },
+  {
+    "uuid": "c3293c06-41fe-430f-9edc-e64b886d2a44",
+    "code": "Fashion_Jewelry_ChildrenJewelrys_Other"
+  },
+  {
+    "uuid": "2da7ac21-088c-4eea-ad9d-1c893e59fd10",
+    "code": "Fashion_Jewelry_JewelrySupplies"
+  },
+  {
+    "uuid": "d761727d-fbcb-4a3a-9665-eaa1f96fa099",
+    "code": "Fashion_Traveling_Accessorie_Suitcases"
+  },
+  {
+    "uuid": "c299a6e8-2f71-42e6-85b7-cd09c464fb43",
+    "code": "Fashion_Traveling_Accessorie_DocumentHolders"
+  },
+  {
+    "uuid": "256779b7-fd5e-4569-9ddc-5d0e4e7243bc",
+    "code": "Fashion_Traveling_Accessorie_Pillows"
+  },
+  {
+    "uuid": "d6acd7c8-6c5b-4505-a665-409d41261d37",
+    "code": "Fashion_Traveling_Accessorie_Umbrellas"
+  },
+  {
+    "uuid": "e36bb1e0-b728-474a-b88b-72c89afb79ee",
+    "code": "Fashion_Traveling_Accessorie_Other"
+  },
+  {
+    "uuid": "f7c6048b-47f7-457d-ace6-7d9e0cce5515",
+    "code": "MyHome_Furniture_LivingRoom_Sofa"
+  },
+  {
+    "uuid": "b7bf2c18-4504-4626-b5cc-9d765e321798",
+    "code": "MyHome_Furniture_LivingRoom_Dressers"
+  },
+  {
+    "uuid": "ec307e29-be2d-4d1f-8f09-393d8bb550aa",
+    "code": "MyHome_Furniture_LivingRoom_Tabels"
+  },
+  {
+    "uuid": "91a0cd85-f6c5-4440-8482-9de8ae28ee90",
+    "code": "MyHome_Furniture_LivingRoom_Other"
+  },
+  {
+    "uuid": "2e6664cb-56eb-491e-865b-394b37bb23e9",
+    "code": "MyHome_Furniture_Mattresses_Mattress"
+  },
+  {
+    "uuid": "201ddc76-8b88-46f8-b487-cb3bfcd85f4f",
+    "code": "MyHome_Furniture_Mattresses_BedSlats"
+  },
+  {
+    "uuid": "077d1106-acf4-4805-82b3-1b6b1038d0b8",
+    "code": "MyHome_Furniture_Mattresses_Other"
+  },
+  {
+    "uuid": "898725e7-0104-4f99-a317-a7276cddbb81",
+    "code": "MyHome_Furniture_Bedroom_Bedrooms"
+  },
+  {
+    "uuid": "96f114be-0601-443b-9726-ba90d5cb8a38",
+    "code": "MyHome_Furniture_Bedroom_Beds"
+  },
+  {
+    "uuid": "66b2cacc-80aa-488d-be3f-01b620a1725a",
+    "code": "MyHome_Furniture_Bedroom_Closets"
+  },
+  {
+    "uuid": "25e48b13-67f8-44b9-9f64-d6f6f0bf1ba9",
+    "code": "MyHome_Furniture_Bedroom_Nightstands"
+  },
+  {
+    "uuid": "07244cca-bb70-42ef-addc-15f7d08cd188",
+    "code": "MyHome_Furniture_Bedroom_Other"
+  },
+  {
+    "uuid": "d9da6702-3a4b-473d-9392-7a89c915c9ff",
+    "code": "MyHome_Furniture_KidsRoom_KidsRooms"
+  },
+  {
+    "uuid": "6c5b5ae1-3131-47a2-b5b0-bf0af75a1feb",
+    "code": "MyHome_Furniture_KidsRoom_Beds"
+  },
+  {
+    "uuid": "82cbe012-09f5-4f19-a600-2d75bb11aa75",
+    "code": "MyHome_Furniture_KidsRoom_Closets"
+  },
+  {
+    "uuid": "6a6f0348-25cc-4710-b9be-b011a29f5095",
+    "code": "MyHome_Furniture_KidsRoom_Desks"
+  },
+  {
+    "uuid": "7a3b9f2c-1e53-455f-b2ea-78f8cd4fb81a",
+    "code": "MyHome_Furniture_KidsRoom_Dressers"
+  },
+  {
+    "uuid": "7573414a-4fc8-477b-8bed-293195c774a7",
+    "code": "MyHome_Furniture_KidsRoom_Other"
+  },
+  {
+    "uuid": "fc8d025d-1cb6-4c9e-8f18-3a0932a14892",
+    "code": "MyHome_Furniture_DiningRoom_Chairs"
+  },
+  {
+    "uuid": "7f477684-6f18-4306-88f2-132d34b7dabc",
+    "code": "MyHome_Furniture_DiningRoom_Tables"
+  },
+  {
+    "uuid": "7c2e1afe-ecac-46ae-8830-d598d4b718e9",
+    "code": "MyHome_Furniture_DiningRoom_DiningTables"
+  },
+  {
+    "uuid": "674dc4dd-bb43-48f5-8635-9064e181bc4c",
+    "code": "MyHome_Furniture_DiningRoom_Other"
+  },
+  {
+    "uuid": "3c2e3d37-fa4c-4527-a82c-9b5bc0882b47",
+    "code": "MyHome_Furniture_Kitchen_Kitchens"
+  },
+  {
+    "uuid": "7d7b72cf-4b1a-4f82-b215-9abe8b0a3e97",
+    "code": "MyHome_Furniture_Kitchen_Other"
+  },
+  {
+    "uuid": "9350505a-29cf-4716-9cc4-1f7b6f0c353d",
+    "code": "MyHome_Furniture_Bathroom_Furniture"
+  },
+  {
+    "uuid": "fb24d38b-fd5b-4d48-a5db-b19bc0c703cb",
+    "code": "MyHome_Furniture_Bathroom_Bathtubs"
+  },
+  {
+    "uuid": "18f568a9-4d0f-4ee8-b4b6-e1acb7de2140",
+    "code": "MyHome_Furniture_Bathroom_Other"
+  },
+  {
+    "uuid": "7f825d81-0954-4717-9f50-1f15acbbd46a",
+    "code": "MyHome_Furniture_Hallway_Dressers"
+  },
+  {
+    "uuid": "586c3996-c0f4-4b24-b67b-0e22d80a9e66",
+    "code": "MyHome_Furniture_Hallway_Mirrors"
+  },
+  {
+    "uuid": "eb792cc6-3db4-4078-8992-ab8c0da0ff32",
+    "code": "MyHome_Furniture_Hallway_ClothesRack"
+  },
+  {
+    "uuid": "94cf26e5-ca55-45d8-9ed1-25e83213248c",
+    "code": "MyHome_Furniture_Hallway_Other"
+  },
+  {
+    "uuid": "a15ebbf4-10d8-4844-81b7-8bb9bad087c7",
+    "code": "MyHome_Furniture_Office_Chairs"
+  },
+  {
+    "uuid": "8484b548-f84b-4937-8da3-d4528e6fc478",
+    "code": "MyHome_Furniture_Office_Desks"
+  },
+  {
+    "uuid": "5c202783-b23e-4d65-88d1-61433769cdc7",
+    "code": "MyHome_Furniture_Office_Dressers"
+  },
+  {
+    "uuid": "73e21a6d-00a5-47ff-894e-677cbe51d2e8",
+    "code": "MyHome_Furniture_Office_Other"
+  },
+  {
+    "uuid": "1d42a530-40ff-422b-a305-2b5b963b4a3c",
+    "code": "MyHome_Furniture_Kitchen_Sinks"
+  },
+  {
+    "uuid": "90d2045f-0e3a-44ca-b7fb-f5130a69fda9",
+    "code": "MyHome_HeatingCooling_Heaters_Calorifiers"
+  },
+  {
+    "uuid": "f5ab17b7-af87-4556-9c37-d505017f7bfd",
+    "code": "MyHome_HeatingCooling_Heaters_Radiators"
+  },
+  {
+    "uuid": "c2f6e83e-4a82-4533-8026-d9fb8272afa4",
+    "code": "MyHome_HeatingCooling_Heaters_Other"
+  },
+  {
+    "uuid": "1f4f25d5-71eb-4249-9e42-6502448d03db",
+    "code": "MyHome_HeatingCooling_Stoves_Fireplaces"
+  },
+  {
+    "uuid": "bb44c381-d7d9-4570-9bee-853fe6844466",
+    "code": "MyHome_HeatingCooling_Stoves_Furnaces"
+  },
+  {
+    "uuid": "eb84fe60-b423-4e27-b008-4290b91f70c9",
+    "code": "MyHome_HeatingCooling_Stoves_Equipment"
+  },
+  {
+    "uuid": "85bdfd7d-565c-4917-af87-91c72215298c",
+    "code": "MyHome_HeatingCooling_Stoves_Other"
+  },
+  {
+    "uuid": "84be6ee7-b53a-423b-a5a8-2550369182cb",
+    "code": "MyHome_HeatingCooling_AirConditioning_AirConditioner"
+  },
+  {
+    "uuid": "47bcf59f-a7ec-4fc4-b2e6-83338c50fd7d",
+    "code": "MyHome_HeatingCooling_AirConditioning_Ventilators"
+  },
+  {
+    "uuid": "02b61bbe-6888-4a2f-a0d7-98c5f654717e",
+    "code": "MyHome_HeatingCooling_AirConditioning_AdditionalEquipment"
+  },
+  {
+    "uuid": "37472ac8-6ad9-4579-996b-d3661d767fc0",
+    "code": "MyHome_HeatingCooling_AirConditioning_Other"
+  },
+  {
+    "uuid": "9e1fbcf6-c1ef-4ee9-8761-badd2f6df9e4",
+    "code": "MyHome_HeatingCooling_CentralHeating_Heater"
+  },
+  {
+    "uuid": "16362088-6fa9-41e0-82c3-8c5fef1d36f3",
+    "code": "MyHome_HeatingCooling_CentralHeating_Radiators"
+  },
+  {
+    "uuid": "047fe5b0-7fc5-456f-8bfe-8e6a9c49ec7a",
+    "code": "MyHome_HeatingCooling_CentralHeating_Pipes"
+  },
+  {
+    "uuid": "5ad66c93-554b-48ba-b0f7-ee8937c0425e",
+    "code": "MyHome_HeatingCooling_CentralHeating_Thermostat"
+  },
+  {
+    "uuid": "5661cbb7-7c22-48fc-87ea-0c2ce4b1337d",
+    "code": "MyHome_HeatingCooling_CentralHeating_Pumps"
+  },
+  {
+    "uuid": "59ee1f55-6b05-4c9e-95a8-301d8bbe46ad",
+    "code": "MyHome_HeatingCooling_CentralHeating_ToolsEquipment"
+  },
+  {
+    "uuid": "a8fd57a0-f8f2-4523-bceb-ff301c3be1fd",
+    "code": "MyHome_HeatingCooling_CentralHeating_Other"
+  },
+  {
+    "uuid": "cd0dd63e-6aab-46f4-ae38-e22fb96ade0c",
+    "code": "MyHome_HeatingCooling_Ventilation_VentilationGrilles"
+  },
+  {
+    "uuid": "744d9714-4154-4705-ab3b-c0e671f72e84",
+    "code": "MyHome_HeatingCooling_Ventilation_VentilationFlexiblePipes"
+  },
+  {
+    "uuid": "4ff83888-5be8-4ae8-8800-03f588f27af6",
+    "code": "MyHome_HeatingCooling_Ventilation_Ventilators"
+  },
+  {
+    "uuid": "6cb25967-246a-4bd1-b4dd-44400d872ca3",
+    "code": "MyHome_HeatingCooling_Ventilation_Other"
+  },
+  {
+    "uuid": "08f388b3-52bf-424d-b446-54d16b530021",
+    "code": "MyHome_HomeDecor_BedSheets_Sets"
+  },
+  {
+    "uuid": "d52d03cb-750c-4650-87b4-ba544a77ba57",
+    "code": "MyHome_HomeDecor_BedSheets_SheetsPillowcases"
+  },
+  {
+    "uuid": "6d1e9544-adc2-450d-9d85-4d2494cabf2e",
+    "code": "MyHome_HomeDecor_BedSheets_Pillows"
+  },
+  {
+    "uuid": "80b23318-af5e-46b8-a9e0-77c1151919f5",
+    "code": "MyHome_HomeDecor_BedSheets_Quilts"
+  },
+  {
+    "uuid": "cfc466bd-853c-46c6-a6f5-ef28ad06b651",
+    "code": "MyHome_HomeDecor_BedSheets_Blankets"
+  },
+  {
+    "uuid": "24f1cb7e-9ba9-4244-a350-e0276e339784",
+    "code": "MyHome_HomeDecor_BedSheets_Bedspreads"
+  },
+  {
+    "uuid": "712dcaef-a237-4a1d-aafb-ebdd10863646",
+    "code": "MyHome_HomeDecor_BedSheets_Terrycloth"
+  },
+  {
+    "uuid": "dc46e585-f7f1-44de-b143-3d984b9aab31",
+    "code": "MyHome_HomeDecor_BedSheets_Other"
+  },
+  {
+    "uuid": "dba81eda-20d6-401a-9811-3fe6813d0d10",
+    "code": "MyHome_HomeDecor_Textile_Curtains"
+  },
+  {
+    "uuid": "84b1cde9-7028-4585-86dd-14604fc8b1b7",
+    "code": "MyHome_HomeDecor_Textile_CurtainRods"
+  },
+  {
+    "uuid": "f846e836-b69f-4385-916c-49f1f13bf625",
+    "code": "MyHome_HomeDecor_Textile_Towels"
+  },
+  {
+    "uuid": "b833b630-113f-4ccf-b5ad-57c244613520",
+    "code": "MyHome_HomeDecor_Textile_KitchenTextile"
+  },
+  {
+    "uuid": "5baa056b-66dc-4632-a8e0-a611b49c5546",
+    "code": "MyHome_HomeDecor_Textile_DecorativeChairCushions"
+  },
+  {
+    "uuid": "72c7710a-5eb1-4175-a10d-c7f348a07c98",
+    "code": "MyHome_HomeDecor_Textile_Other"
+  },
+  {
+    "uuid": "755e4d74-0e4c-4721-a4df-8bca6670a2be",
+    "code": "MyHome_HomeDecor_Decorations_WallDecor"
+  },
+  {
+    "uuid": "092cb75a-b516-4931-abbe-981d9e23d8ad",
+    "code": "MyHome_HomeDecor_Decorations_Watches"
+  },
+  {
+    "uuid": "a69cbcac-0381-46aa-a67e-34d25d3632e4",
+    "code": "MyHome_HomeDecor_Decorations_Flowers"
+  },
+  {
+    "uuid": "58b1df2b-8e43-4b28-be02-4e21a906d5df",
+    "code": "MyHome_HomeDecor_Decorations_Candles"
+  },
+  {
+    "uuid": "3cac8538-b403-4b86-8b66-2988d6bd191b",
+    "code": "MyHome_HomeDecor_Decorations_KidsRoom"
+  },
+  {
+    "uuid": "c8bb33e5-4d64-4b34-aa06-57b34e7673a3",
+    "code": "MyHome_HomeDecor_Decorations_ChristmasTree"
+  },
+  {
+    "uuid": "aaee6dd9-1142-4378-9e63-b0a4ec29e3e4",
+    "code": "MyHome_HomeDecor_Decorations_ChristmasTreeDecor"
+  },
+  {
+    "uuid": "958d2808-9c92-4e16-9b60-bbf7deb5a12a",
+    "code": "MyHome_HomeDecor_Decorations_Mirrors"
+  },
+  {
+    "uuid": "d58034e0-5c83-4714-89a4-98e6d3bf62cb",
+    "code": "MyHome_HomeDecor_Decorations_Other"
+  },
+  {
+    "uuid": "0c27c939-2384-4936-a88f-da12435d2241",
+    "code": "MyHome_HomeDecor_Lighting_Lamps"
+  },
+  {
+    "uuid": "576cbbef-2ffd-4b5e-a20f-04457e825506",
+    "code": "MyHome_HomeDecor_Lighting_Chandeliers"
+  },
+  {
+    "uuid": "f114ad08-b446-4403-8bd6-e7b8db6cc5db",
+    "code": "MyHome_HomeDecor_Lighting_Other"
+  },
+  {
+    "uuid": "501a169d-8bbe-46af-8b80-b2b91b789e1b",
+    "code": "MyHome_HomeDecor_Cleaning_LaundryBaskets"
+  },
+  {
+    "uuid": "3ae600f2-d09e-4c89-83b4-61ad965ac579",
+    "code": "MyHome_HomeDecor_Cleaning_LaundryDryingIroning"
+  },
+  {
+    "uuid": "427f97bd-3aeb-45ff-ac69-6afc4163c728",
+    "code": "MyHome_HomeDecor_Cleaning_Storage"
+  },
+  {
+    "uuid": "1e0b0e0c-97d3-47e2-8482-3c55a7eaa69d",
+    "code": "MyHome_HomeDecor_Cleaning_TrashCan"
+  },
+  {
+    "uuid": "ebe82889-c298-4a7a-a7b9-6e048404d30e",
+    "code": "MyHome_HomeDecor_Cleaning_Broom"
+  },
+  {
+    "uuid": "dcf4ad0d-57ce-441d-9297-1517e3bb5445",
+    "code": "MyHome_HomeDecor_Cleaning_Other"
+  },
+  {
+    "uuid": "0f77165b-25e1-46ba-923e-28e8a7e72142",
+    "code": "MyHome_Cooking_FoodPreparation_Cooking"
+  },
+  {
+    "uuid": "0b118ccc-a4ec-466a-a729-c49100420d07",
+    "code": "MyHome_Cooking_FoodPreparation_Baking"
+  },
+  {
+    "uuid": "c363090a-dfa2-4219-be9f-46efefc4e807",
+    "code": "MyHome_Cooking_FoodPreparation_Treats"
+  },
+  {
+    "uuid": "4204a956-2275-479b-8abf-86e30c0a2711",
+    "code": "MyHome_Cooking_FoodPreparation_Other"
+  },
+  {
+    "uuid": "0ff84776-1f76-4b2a-bb83-d3cd72e261c5",
+    "code": "MyHome_Cooking_Serving_CrockeryCutlery"
+  },
+  {
+    "uuid": "b6afb99d-a02a-4db3-b883-7c41f51d0258",
+    "code": "MyHome_Cooking_Serving_Glasses"
+  },
+  {
+    "uuid": "f585ace4-06a5-4048-b282-1e26254d3d03",
+    "code": "MyHome_Cooking_Serving_CoffeTee"
+  },
+  {
+    "uuid": "c31ab2da-ecf1-450c-b290-2e112b7674a2",
+    "code": "MyHome_Cooking_Serving_Organizers"
+  },
+  {
+    "uuid": "09047053-23c5-4e15-88da-eb1723567617",
+    "code": "MyHome_Cooking_Serving_Other"
+  },
+  {
+    "uuid": "510ab018-5e6e-4f46-82b1-d54f57f1ef52",
+    "code": "MyHome_Cooking_BarbecueEquipment_Grill"
+  },
+  {
+    "uuid": "03a033e2-0be5-42b7-8f6b-6935b568ea06",
+    "code": "MyHome_Cooking_BarbecueEquipment_GrillAccessories"
+  },
+  {
+    "uuid": "9b40bca1-ffed-4dc8-aa5e-fa4f5b3bf42f",
+    "code": "MyHome_Cooking_BarbecueEquipment_Other"
+  },
+  {
+    "uuid": "23fcb868-2373-4298-9a32-fe872dc22a8c",
+    "code": "MyHome_Garden_GardenFurniture_GardenFurniture"
+  },
+  {
+    "uuid": "06a03c78-eef2-42a3-8cd9-87a49f93ed7e",
+    "code": "MyHome_Garden_GardenFurniture_Parasols"
+  },
+  {
+    "uuid": "056ff7d8-0b20-4ec0-9606-3e3888e837e2",
+    "code": "MyHome_Garden_GardenFurniture_Other"
+  },
+  {
+    "uuid": "89a44e88-173d-4d28-8331-a38fe87af9b5",
+    "code": "MyHome_Garden_Decorations_GardenEquipment"
+  },
+  {
+    "uuid": "3793a84d-6b65-440e-b98f-adae1f34a691",
+    "code": "MyHome_Garden_Decorations_GardenHouses"
+  },
+  {
+    "uuid": "7bf6d252-4168-4800-b3fc-26d6b49ab06b",
+    "code": "MyHome_Garden_Decorations_Other"
+  },
+  {
+    "uuid": "949d561c-783c-4f6d-a1e9-51b282616f45",
+    "code": "MyHome_Garden_PoolEquipment_Pools"
+  },
+  {
+    "uuid": "e8030508-b9b6-4987-a9dd-ec2e95e100c6",
+    "code": "MyHome_Garden_PoolEquipment_PoolEquipment"
+  },
+  {
+    "uuid": "08c80d1d-0088-465f-9a40-9ac703bf5e46",
+    "code": "MyHome_Garden_PoolEquipment_FunOnWater"
+  },
+  {
+    "uuid": "07593f20-7925-4456-af12-d1a19a46522c",
+    "code": "MyHome_Garden_PoolEquipment_Other"
+  },
+  {
+    "uuid": "4d82e882-9b75-45dc-babb-43ca6fa4bc8e",
+    "code": "MyHome_Garden_GardenMaintenance_Tools"
+  },
+  {
+    "uuid": "e13aff20-4bef-490c-81d7-ddb8626f87f4",
+    "code": "MyHome_Garden_GardenMaintenance_Irrigation"
+  },
+  {
+    "uuid": "a32ce659-9fe8-49a2-88f3-d5632fde88a9",
+    "code": "MyHome_Garden_GardenMaintenance_Other"
+  },
+  {
+    "uuid": "c5a6030d-4721-422e-a5ba-770db8e71921",
+    "code": "Animals_MyPet_Dog_NewPet"
+  },
+  {
+    "uuid": "77a4fd25-8c06-4124-a09a-20de894b2768",
+    "code": "Animals_MyPet_Dog_Mating"
+  },
+  {
+    "uuid": "85448fb8-e96e-48eb-a587-00163fdc9691",
+    "code": "Animals_MyPet_Dog_Food"
+  },
+  {
+    "uuid": "d770ec18-5954-4596-9d89-8528f387fd12",
+    "code": "Animals_MyPet_Dog_FoodWaterContainers"
+  },
+  {
+    "uuid": "4e10335a-99ac-4a8e-b7aa-cc6eeba4bf1c",
+    "code": "Animals_MyPet_Dog_Hygiene"
+  },
+  {
+    "uuid": "41e418d4-e81f-483f-8802-6536191d8308",
+    "code": "Animals_MyPet_Dog_Clothes"
+  },
+  {
+    "uuid": "2affee7b-23e8-4388-84d6-1979a5edef28",
+    "code": "Animals_MyPet_Dog_Toys"
+  },
+  {
+    "uuid": "1b7543af-2f62-451a-9156-9b03fa70b073",
+    "code": "Animals_MyPet_Dog_Walk"
+  },
+  {
+    "uuid": "93c9eed9-70df-460a-aa87-764a365a30d3",
+    "code": "Animals_MyPet_Dog_Trip"
+  },
+  {
+    "uuid": "e7215077-7b66-49fd-a29b-17fa1f8f05cf",
+    "code": "Animals_MyPet_Dog_Outdoors"
+  },
+  {
+    "uuid": "aa836051-5a5f-4ad2-9156-d16910f52a93",
+    "code": "Animals_MyPet_Dog_Indoors"
+  },
+  {
+    "uuid": "e62b949a-2052-4136-89bb-786f92c861c0",
+    "code": "Animals_MyPet_Dog_TrainingMedicines"
+  },
+  {
+    "uuid": "36558776-fb34-46bf-adec-cce5923eed93",
+    "code": "Animals_MyPet_Dog_Other"
+  },
+  {
+    "uuid": "8a33311d-a144-4ed0-bb63-179c12b142b3",
+    "code": "Animals_MyPet_Cat_NewPet"
+  },
+  {
+    "uuid": "9a110bc7-f108-439f-bad3-77248ec480b4",
+    "code": "Animals_MyPet_Cat_Food"
+  },
+  {
+    "uuid": "ecabb152-113f-4939-a981-17ff5e3208c7",
+    "code": "Animals_MyPet_Cat_FoodWaterContainers"
+  },
+  {
+    "uuid": "fdce5c08-9643-407b-87d0-53d955260ae4",
+    "code": "Animals_MyPet_Cat_Hygiene"
+  },
+  {
+    "uuid": "9d636c51-6c08-4dbe-8b0f-8990327c1cef",
+    "code": "Animals_MyPet_Cat_ToiletEquipment"
+  },
+  {
+    "uuid": "040bd5a1-8412-4a82-9556-87fcd6068259",
+    "code": "Animals_MyPet_Cat_Clothes"
+  },
+  {
+    "uuid": "4780c62f-f0b9-4daa-9d0d-996c28923599",
+    "code": "Animals_MyPet_Cat_Toys"
+  },
+  {
+    "uuid": "bddf4349-9364-478e-85c8-d8fc35ff4374",
+    "code": "Animals_MyPet_Cat_Walk"
+  },
+  {
+    "uuid": "136017bc-020b-402b-8dbe-4c45fa7dcbb9",
+    "code": "Animals_MyPet_Cat_Trip"
+  },
+  {
+    "uuid": "022b537a-6c33-49df-bb17-b67a72673a97",
+    "code": "Animals_MyPet_Cat_Beds"
+  },
+  {
+    "uuid": "3301d272-5295-461e-adb9-e6d6f9f08b0d",
+    "code": "Animals_MyPet_Cat_Climbers"
+  },
+  {
+    "uuid": "2f0d67f2-ffa1-4721-b3bf-831d0b67922c",
+    "code": "Animals_MyPet_Cat_Other"
+  },
+  {
+    "uuid": "bb244274-4b90-41a0-af4b-a72ace7cc74c",
+    "code": "Animals_MyPet_Birds_Birds"
+  },
+  {
+    "uuid": "102a55ba-9d98-4e81-87de-4e178b8931a3",
+    "code": "Animals_MyPet_Birds_Parrots"
+  },
+  {
+    "uuid": "69b74d3e-d152-4d01-b9b7-a7793b1aabb8",
+    "code": "Animals_MyPet_Birds_FoodVitamins"
+  },
+  {
+    "uuid": "1645c12b-427c-4e44-a879-17f1673bf02d",
+    "code": "Animals_MyPet_Birds_Outdoors"
+  },
+  {
+    "uuid": "ccd8aaf3-e8a0-4c4f-87d5-cd4f7f13b906",
+    "code": "Animals_MyPet_Birds_Indoors"
+  },
+  {
+    "uuid": "7e62f522-9fd2-4476-bd1b-0aa95e3980e3",
+    "code": "Animals_MyPet_Birds_Entertainment"
+  },
+  {
+    "uuid": "6efd0d64-108f-46e4-b4ba-f329db93707f",
+    "code": "Animals_MyPet_Birds_Hygiene"
+  },
+  {
+    "uuid": "ba629bfe-1a47-4724-8f69-081fe9e89514",
+    "code": "Animals_MyPet_Birds_Other"
+  },
+  {
+    "uuid": "662e6955-a9b5-4f18-98c9-79654c4e001d",
+    "code": "Animals_MyPet_Fish_Fish"
+  },
+  {
+    "uuid": "fcf19d99-b8ba-44a3-85b0-923d5740e4cc",
+    "code": "Animals_MyPet_Fish_Aquariums"
+  },
+  {
+    "uuid": "c73e01b8-027b-4d9e-b412-0ab6f3f3691d",
+    "code": "Animals_MyPet_Fish_AquariumDecor"
+  },
+  {
+    "uuid": "956e9ec1-fe60-4798-a1c4-62b8028c5fcf",
+    "code": "Animals_MyPet_Fish_AquariumMaintenance"
+  },
+  {
+    "uuid": "e7f00ba9-023e-46e2-aa4f-9b1260ad3510",
+    "code": "Animals_MyPet_Fish_Food"
+  },
+  {
+    "uuid": "96bdc58d-75ad-4819-826e-74147d032aee",
+    "code": "Animals_MyPet_Fish_Other"
+  },
+  {
+    "uuid": "a46f0c02-8d30-4e35-8259-c1bcc1ee5014",
+    "code": "Animals_MyPet_Reptiles_NewPet"
+  },
+  {
+    "uuid": "1871bcc3-f77c-4089-9ef9-c67e88a81347",
+    "code": "Animals_MyPet_Reptiles_Food"
+  },
+  {
+    "uuid": "cb9d52d8-50da-4ecc-9c97-238f4e4a9b2c",
+    "code": "Animals_MyPet_Reptiles_Terrarium"
+  },
+  {
+    "uuid": "1d07b632-8aa4-4086-9289-470cb0e6222d",
+    "code": "Animals_MyPet_Reptiles_TerrariumDecor"
+  },
+  {
+    "uuid": "fa0b304e-37f5-4c28-951a-bb2a135c242d",
+    "code": "Animals_MyPet_Reptiles_Hygiene"
+  },
+  {
+    "uuid": "00331d2e-41fd-400b-a40e-c276f4d450c5",
+    "code": "Animals_MyPet_Reptiles_Other"
+  },
+  {
+    "uuid": "fd121470-4039-4e4d-a57a-11e446e61c10",
+    "code": "Animals_MyPet_SmallAnimals_NewPet"
+  },
+  {
+    "uuid": "88c35b8b-f0e4-4118-b332-346b0d65ae4b",
+    "code": "Animals_MyPet_SmallAnimals_Food"
+  },
+  {
+    "uuid": "a33e7091-548e-442d-bfa3-6764d310c469",
+    "code": "Animals_MyPet_SmallAnimals_FoodWaterContainers"
+  },
+  {
+    "uuid": "7e32aa4a-0f95-4c51-95d6-8fd21d733655",
+    "code": "Animals_MyPet_SmallAnimals_Toys"
+  },
+  {
+    "uuid": "99d31879-9448-4c8f-b40a-54f4224b5766",
+    "code": "Animals_MyPet_SmallAnimals_Cages"
+  },
+  {
+    "uuid": "c10080b5-125e-4aad-ae52-77ed517aae31",
+    "code": "Animals_MyPet_SmallAnimals_Hygiene"
+  },
+  {
+    "uuid": "1bd75463-3af1-4ada-abfb-a5157f309cb6",
+    "code": "Animals_MyPet_SmallAnimals_TripWalk"
+  },
+  {
+    "uuid": "c047ce06-79ab-4123-8966-c44a996fb0b7",
+    "code": "Animals_MyPet_SmallAnimals_Other"
+  },
+  {
+    "uuid": "dba29988-fb19-471e-b070-b0d532cca5b0",
+    "code": "Entertainment_Books_Collectors_Comics"
+  },
+  {
+    "uuid": "09121137-2b31-4053-91b7-86a4c43f4d3d",
+    "code": "Entertainment_Books_Collectors_VintageBooks"
+  },
+  {
+    "uuid": "6860517b-cf9c-46c4-9ac9-eb5701367a03",
+    "code": "Entertainment_Books_Collectors_Catalogues"
+  },
+  {
+    "uuid": "1e54d5c9-b6c9-4ee1-8b82-bf4e5ad47f04",
+    "code": "Entertainment_Books_Collectors_Other"
+  },
+  {
+    "uuid": "d81acfa6-41b8-482f-bcdc-9eb30ae51377",
+    "code": "Entertainment_Music_MusicFormats_CD"
+  },
+  {
+    "uuid": "a2edecd1-898f-4a7b-986a-2140a4f68db5",
+    "code": "Entertainment_Music_MusicFormats_Records"
+  },
+  {
+    "uuid": "c02481ac-dcca-4c31-be07-1beea76596f5",
+    "code": "Entertainment_Music_MusicFormats_Cassettes"
+  },
+  {
+    "uuid": "496dc557-0e3a-48b7-8a72-2563a424a82e",
+    "code": "Entertainment_Music_MusicFormats_Other"
+  },
+  {
+    "uuid": "1123e201-15db-4e9c-ab84-20361ede8371",
+    "code": "Entertainment_Games_BoardGames_BoardGame"
+  },
+  {
+    "uuid": "9d294fb2-24a6-445f-bab4-43f74ebb981c",
+    "code": "Entertainment_Games_BoardGames_Cards"
+  },
+  {
+    "uuid": "4b99a1bc-d0a9-49d5-9147-a5c7c75e419c",
+    "code": "Entertainment_Games_BoardGames_Chess"
+  },
+  {
+    "uuid": "1b20edc8-ccb1-40fc-be7f-9943a8d64ec4",
+    "code": "Entertainment_Games_BoardGames_Other"
+  },
+  {
+    "uuid": "b1dafa87-25a2-42ad-90e9-a4c4fd14356c",
+    "code": "Entertainment_MusicalInstruments_StringInstruments_Guitar"
+  },
+  {
+    "uuid": "ebc4d6a7-8e0f-4d7e-8fa4-5a2604e30680",
+    "code": "Entertainment_MusicalInstruments_StringInstruments_StringInstruments"
+  },
+  {
+    "uuid": "cdafd6a6-867c-4eed-8143-734a12d0cafe",
+    "code": "Entertainment_MusicalInstruments_StringInstruments_Tambourines"
+  },
+  {
+    "uuid": "3fd46853-fa52-43ac-acac-5dca9523be3e",
+    "code": "Entertainment_MusicalInstruments_StringInstruments_Other"
+  },
+  {
+    "uuid": "03350319-1920-4a65-84d2-c4404324100b",
+    "code": "Entertainment_MusicalInstruments_WindInstruments_Wooden"
+  },
+  {
+    "uuid": "1ef11a00-dd42-4954-8f1c-664029a11807",
+    "code": "Entertainment_MusicalInstruments_WindInstruments_Tin"
+  },
+  {
+    "uuid": "d508cf98-3367-43fd-b199-85ae62e67aae",
+    "code": "Entertainment_MusicalInstruments_WindInstruments_Other"
+  },
+  {
+    "uuid": "ebba137c-c00a-47f4-bf03-87d42164edd9",
+    "code": "BeautyHealth_MakeUp_Eyes_Eyes"
+  },
+  {
+    "uuid": "3805b731-787b-45b9-bf4b-579a8d087ef2",
+    "code": "BeautyHealth_MakeUp_Eyes_Eyelashes"
+  },
+  {
+    "uuid": "00c86afa-cae4-453f-a52b-290b57f08795",
+    "code": "BeautyHealth_MakeUp_Eyes_Eyebrows"
+  },
+  {
+    "uuid": "ecad2d11-5280-40b1-8c8a-355d48c89902",
+    "code": "BeautyHealth_MakeUp_Eyes_Other"
+  },
+  {
+    "uuid": "eac127c7-91f3-4d65-bc26-88c19a2d5864",
+    "code": "BeautyHealth_MakeUp_Face_Primers"
+  },
+  {
+    "uuid": "cac45c23-b72e-48ec-8083-b02490ff31a1",
+    "code": "BeautyHealth_MakeUp_Face_Foundations"
+  },
+  {
+    "uuid": "6340a77e-1387-4ab3-b616-8d41badcb7e0",
+    "code": "BeautyHealth_MakeUp_Face_Concealers"
+  },
+  {
+    "uuid": "8c560572-5d20-4ba9-8c0f-51e606c5debd",
+    "code": "BeautyHealth_MakeUp_Face_Blushes"
+  },
+  {
+    "uuid": "087dcb17-7452-45fe-8944-6d54cbc02b29",
+    "code": "BeautyHealth_MakeUp_Face_Contouring"
+  },
+  {
+    "uuid": "f231a92a-fbfe-4406-b937-806fcbd383af",
+    "code": "BeautyHealth_MakeUp_Face_Other"
+  },
+  {
+    "uuid": "37bf63bf-7975-4572-8629-2142ce21d834",
+    "code": "BeautyHealth_MakeUp_ToolsAccessories_Brushes"
+  },
+  {
+    "uuid": "5991abe9-2fe3-4ed2-bec9-7e88eae52ca9",
+    "code": "BeautyHealth_MakeUp_ToolsAccessories_SpongesApplicators"
+  },
+  {
+    "uuid": "513ed8a7-52d2-4d34-8b99-1690bc2f0104",
+    "code": "BeautyHealth_MakeUp_ToolsAccessories_CosmeticMirrors"
+  },
+  {
+    "uuid": "6bbb1058-c25a-4568-bd94-54dbe97b5804",
+    "code": "BeautyHealth_MakeUp_ToolsAccessories_CleaningAccessories"
+  },
+  {
+    "uuid": "3c3a4516-150a-4300-869e-39fa6e71f8c0",
+    "code": "BeautyHealth_MakeUp_ToolsAccessories_EyebrowsEyelashsTools"
+  },
+  {
+    "uuid": "943781ac-293b-4ec5-9f36-ca7a6dec742c",
+    "code": "BeautyHealth_MakeUp_ToolsAccessories_Other"
+  },
+  {
+    "uuid": "05bca841-99ef-4847-980a-bae9b8e0ce5d",
+    "code": "BeautyHealth_Hygiene_Body_Bathing"
+  },
+  {
+    "uuid": "7d63c5de-1184-4bcb-b609-8a5047625b2d",
+    "code": "BeautyHealth_Hygiene_Body_SkinCare"
+  },
+  {
+    "uuid": "20d376ad-84f1-4572-89e8-13e1b1a5b81d",
+    "code": "BeautyHealth_Hygiene_Body_Peeling"
+  },
+  {
+    "uuid": "1dc2fa1a-c3ac-4e4b-8d8b-e478e1bd8aad",
+    "code": "BeautyHealth_Hygiene_Body_NoCelluliteStretchMarks"
+  },
+  {
+    "uuid": "c38bf247-9fec-44a2-8228-81ddcc851ab8",
+    "code": "BeautyHealth_Hygiene_Body_Other"
+  },
+  {
+    "uuid": "dd585c52-b11e-43ef-a50e-d5cf00623208",
+    "code": "BeautyHealth_Hygiene_Face_FacialCleansing"
+  },
+  {
+    "uuid": "a19c2615-2808-468e-98e3-1f7a9ea79c23",
+    "code": "BeautyHealth_Hygiene_Face_SkinCare"
+  },
+  {
+    "uuid": "740152f2-19e5-413f-af6a-f679d1796521",
+    "code": "BeautyHealth_Hygiene_Face_FaceTonic"
+  },
+  {
+    "uuid": "b5376a38-9fa9-448d-944c-cf4e8653507c",
+    "code": "BeautyHealth_Hygiene_Face_Other"
+  },
+  {
+    "uuid": "40ee6fc9-97fb-4f33-86c1-7c1f320adfe3",
+    "code": "BeautyHealth_Hygiene_Eyes_EyesCare"
+  },
+  {
+    "uuid": "98f95f59-973d-436f-9aae-c05a0a2e9135",
+    "code": "BeautyHealth_Hygiene_Eyes_Other"
+  },
+  {
+    "uuid": "abbe6cae-0593-4094-99ac-d24b8ffbfeea",
+    "code": "BeautyHealth_Hygiene_Lips_LipsCare"
+  },
+  {
+    "uuid": "d9594988-f7e9-4b7e-835f-888a2618028d",
+    "code": "BeautyHealth_Hygiene_Lips_Other"
+  },
+  {
+    "uuid": "e8f6991b-fb21-4acb-a66a-f0f744be0fd1",
+    "code": "BeautyHealth_Hygiene_Teeth_Toothpastes"
+  },
+  {
+    "uuid": "83573465-d391-4dc5-92a3-70d6384926c0",
+    "code": "BeautyHealth_Hygiene_Teeth_Brushes"
+  },
+  {
+    "uuid": "742870ba-9d30-480d-b1dd-50d7660fb261",
+    "code": "BeautyHealth_Hygiene_Teeth_Cleaning"
+  },
+  {
+    "uuid": "608e3f6a-0ba1-4d2f-8d6e-3a5c44d00aaa",
+    "code": "BeautyHealth_Hygiene_Teeth_Other"
+  },
+  {
+    "uuid": "1ed918d3-4bd4-4241-9146-1066a862b068",
+    "code": "BeautyHealth_Hygiene_SunProtection_TanningCosmetics"
+  },
+  {
+    "uuid": "ab2512ba-3939-472a-adcc-406179738123",
+    "code": "BeautyHealth_Hygiene_SunProtection_SelfTanning"
+  },
+  {
+    "uuid": "c7d340c3-57a2-4e08-908a-ccd47e4b5857",
+    "code": "BeautyHealth_Hygiene_SunProtection_Other"
+  },
+  {
+    "uuid": "957bb2c0-258e-4ce7-815d-a63aec9478ba",
+    "code": "BeautyHealth_Hair_Care_ConditionersShampoos"
+  },
+  {
+    "uuid": "4a6a662a-31c3-4efb-90a1-8b22e7828330",
+    "code": "BeautyHealth_Hair_Care_HairColoringProducts"
+  },
+  {
+    "uuid": "547110ec-699b-4482-b376-2bb99e8a5a64",
+    "code": "BeautyHealth_Hair_Care_HairTreatments"
+  },
+  {
+    "uuid": "0a3f4e62-3253-4046-a1c3-c04bcd4e76c8",
+    "code": "BeautyHealth_Hair_Care_Other"
+  },
+  {
+    "uuid": "7f592209-5fbd-4325-8df4-909b84628999",
+    "code": "BeautyHealth_Hair_Styling_HairBrushes"
+  },
+  {
+    "uuid": "15d0392c-543c-4073-8925-04f6940fcd48",
+    "code": "BeautyHealth_Hair_Styling_HairStraightening"
+  },
+  {
+    "uuid": "9c9b89e1-d2c5-4353-8220-4cfe46feb455",
+    "code": "BeautyHealth_Hair_Styling_HairWave"
+  },
+  {
+    "uuid": "7c5c740a-287f-4ef5-b442-9070234ba0b6",
+    "code": "BeautyHealth_Hair_Styling_Hairsprays"
+  },
+  {
+    "uuid": "ef6dc709-3545-4d2d-8a08-8161111c2348",
+    "code": "BeautyHealth_Hair_Styling_HairCrystals"
+  },
+  {
+    "uuid": "68970c03-9099-4fad-b650-93dc841406f7",
+    "code": "BeautyHealth_Hair_Styling_HairWax"
+  },
+  {
+    "uuid": "9a0d0b05-8962-456e-914f-574ed5c90213",
+    "code": "BeautyHealth_Hair_Styling_HairGel"
+  },
+  {
+    "uuid": "3500de44-ffe2-4a17-98f2-cb1a5d54f963",
+    "code": "BeautyHealth_Hair_Styling_HairFoams"
+  },
+  {
+    "uuid": "ed42d509-d38d-4fc5-abe1-62352237fc38",
+    "code": "BeautyHealth_Hair_Styling_HairCreamsLotions"
+  },
+  {
+    "uuid": "ae37d772-18c7-4dc0-a389-c2772dd19b03",
+    "code": "BeautyHealth_Hair_Styling_HairPowders"
+  },
+  {
+    "uuid": "4d9e176f-bb61-4c12-bcaa-cccc5b0e46ab",
+    "code": "BeautyHealth_Hair_Styling_Other"
+  },
+  {
+    "uuid": "6ad987f4-fddf-4853-bd54-315119371854",
+    "code": "BeautyHealth_Hair_Shaping_Scissors"
+  },
+  {
+    "uuid": "8799ab0d-b326-4e22-adbe-692534c0c0bf",
+    "code": "BeautyHealth_Hair_Shaping_HairClippers"
+  },
+  {
+    "uuid": "4e4c3eb6-a8f6-47d1-8dbe-d06d32b01ed3",
+    "code": "BeautyHealth_Hair_Shaping_HairDryers"
+  },
+  {
+    "uuid": "c69d64b4-faff-405a-bed7-6d9797c9b116",
+    "code": "BeautyHealth_Hair_Shaping_HairStraighteners"
+  },
+  {
+    "uuid": "8de7008a-4a3f-4bd3-be5d-5ab9e90157bf",
+    "code": "BeautyHealth_Hair_Shaping_HairFigaro"
+  },
+  {
+    "uuid": "f13f96e1-7a4c-431b-ad68-9f86a73eb159",
+    "code": "BeautyHealth_Hair_Shaping_ElectricHairBrushes"
+  },
+  {
+    "uuid": "10528e55-ed6b-4de2-b9ae-193ff0813ed0",
+    "code": "BeautyHealth_Hair_Shaping_ElectricCurlers"
+  },
+  {
+    "uuid": "8e563b09-cdd8-4500-bf94-041e852984d5",
+    "code": "BeautyHealth_Hair_Shaping_Hoods"
+  },
+  {
+    "uuid": "57df591f-6f2e-46ae-9a63-82067c90c99b",
+    "code": "BeautyHealth_Hair_Shaping_BladesForTrimmers"
+  },
+  {
+    "uuid": "25bf9440-7b9a-4c8d-9557-3ceb0c6f6569",
+    "code": "BeautyHealth_Hair_Shaping_HairDryerHoldersAccessories"
+  },
+  {
+    "uuid": "79d45f99-3c6a-423b-b8c3-ca3a59b3f719",
+    "code": "BeautyHealth_Hair_Shaping_ClippersMaintenance"
+  },
+  {
+    "uuid": "93914c88-24ec-470e-900b-a43b91738036",
+    "code": "BeautyHealth_Hair_Shaping_Other"
+  },
+  {
+    "uuid": "d89857b2-eb29-4daf-b3bd-b72d63aa1739",
+    "code": "BeautyHealth_Hair_Extension_HairExtensions"
+  },
+  {
+    "uuid": "4656c69c-f4fe-47e1-ae80-5d3754f3405a",
+    "code": "BeautyHealth_Hair_Extension_Wigs"
+  },
+  {
+    "uuid": "6a23fdb4-9734-445f-a12d-6987b9177d41",
+    "code": "BeautyHealth_Hair_Extension_HairExtensionsAccessories"
+  },
+  {
+    "uuid": "bf8171df-cf97-4c2e-9e49-d3a0196a0545",
+    "code": "BeautyHealth_Hair_Extension_DevicesForHairExtensions"
+  },
+  {
+    "uuid": "28480efd-042f-4836-9aa5-4dc738094b71",
+    "code": "BeautyHealth_Hair_Extension_HairExtensionsRemovalCare"
+  },
+  {
+    "uuid": "bbb637b2-c791-43c6-b584-6428d6bf7b17",
+    "code": "BeautyHealth_Hair_Extension_Other"
+  },
+  {
+    "uuid": "74545ddc-f7a6-4bb9-9b52-f5fe9aea7a74",
+    "code": "BeautyHealth_Beard_Accessories_StylingAccessories"
+  },
+  {
+    "uuid": "1721b5e7-a070-4989-bef1-f988004e5c1f",
+    "code": "BeautyHealth_Beard_Accessories_Other"
+  },
+  {
+    "uuid": "81352bcf-ed24-474c-8760-3aaf7d903e41",
+    "code": "BeautyHealth_Perfumes_Female"
+  },
+  {
+    "uuid": "07c6d03b-49b2-44a2-afa0-b0d638ea3f40",
+    "code": "BeautyHealth_Perfumes_Male"
+  },
+  {
+    "uuid": "c7e6d04b-bb6c-47ad-afd5-dc7f11d9e3ea",
+    "code": "BeautyHealth_Perfumes_Kids"
+  },
+  {
+    "uuid": "87ec6686-2d79-4563-8691-7fa2cf90a6bd",
+    "code": "BeautyHealth_PedicureManicure_Pedicure_PedicurePliers"
+  },
+  {
+    "uuid": "ab97d2dd-7c05-462e-bb64-ea93e64ec275",
+    "code": "BeautyHealth_PedicureManicure_Pedicure_PedicureFiles"
+  },
+  {
+    "uuid": "cd25862f-0546-4bef-ab0e-f839ce5a2d13",
+    "code": "BeautyHealth_PedicureManicure_Pedicure_PedicureCosmetics"
+  },
+  {
+    "uuid": "e1bae748-e0af-4abf-8ff4-522fcafa69f1",
+    "code": "BeautyHealth_PedicureManicure_Pedicure_PedicureAccessories"
+  },
+  {
+    "uuid": "42861689-d2ca-43cc-9059-540bafd2d3df",
+    "code": "BeautyHealth_PedicureManicure_Pedicure_PedicureTubs"
+  },
+  {
+    "uuid": "27c9e8b9-a188-468c-843c-8b88934df31d",
+    "code": "BeautyHealth_PedicureManicure_Pedicure_PedicureEquipment"
+  },
+  {
+    "uuid": "7b941a8f-3fe1-403c-bd46-fcfda466d3dc",
+    "code": "BeautyHealth_PedicureManicure_Pedicure_Other"
+  },
+  {
+    "uuid": "4044e94d-487c-414b-932b-7479ace12128",
+    "code": "BeautyHealth_PedicureManicure_NailExtension_NailPreparation"
+  },
+  {
+    "uuid": "16c3805f-c510-4751-b31e-6d0cefcf6313",
+    "code": "BeautyHealth_PedicureManicure_NailExtension_UvLedNailGels"
+  },
+  {
+    "uuid": "3af7c35e-1240-4d93-b36a-76a26a670e10",
+    "code": "BeautyHealth_PedicureManicure_NailExtension_FinishingGlossForGel"
+  },
+  {
+    "uuid": "4652f525-2bb6-4a10-9bea-9311089c6ef0",
+    "code": "BeautyHealth_PedicureManicure_NailExtension_NailGelFixation"
+  },
+  {
+    "uuid": "15a17bfc-e1e3-4128-ae93-76fb550aa577",
+    "code": "BeautyHealth_PedicureManicure_NailExtension_NailAcrylics"
+  },
+  {
+    "uuid": "02626120-214e-43a1-87f8-124f9a77405f",
+    "code": "BeautyHealth_PedicureManicure_NailExtension_DippingPowderTechnique"
+  },
+  {
+    "uuid": "8cf61ebf-a86c-4f07-8f0a-21cf5deacc5b",
+    "code": "BeautyHealth_PedicureManicure_NailExtension_NailTemplates"
+  },
+  {
+    "uuid": "c20f4cfd-afe6-41ab-961c-32da55d98996",
+    "code": "BeautyHealth_PedicureManicure_NailExtension_NailTipsGlue"
+  },
+  {
+    "uuid": "5ccc5176-1c54-4c92-8e32-855628797a9f",
+    "code": "BeautyHealth_PedicureManicure_NailExtension_Other"
+  },
+  {
+    "uuid": "1ec4df6a-4401-4970-9f39-8fc590b1ab89",
+    "code": "BeautyHealth_PedicureManicure_GelPermanentVarnish_UvLedColorGels"
+  },
+  {
+    "uuid": "8903f12a-3fef-4c31-99f4-24efba87051d",
+    "code": "BeautyHealth_PedicureManicure_GelPermanentVarnish_BaseFinishingGloss"
+  },
+  {
+    "uuid": "328999b8-c3ae-437a-83dd-57c25abd3832",
+    "code": "BeautyHealth_PedicureManicure_GelPermanentVarnish_PermanentVarnishRemoval"
+  },
+  {
+    "uuid": "31d2fa92-299e-4678-846e-f69cdf064f6f",
+    "code": "BeautyHealth_PedicureManicure_GelPermanentVarnish_Other"
+  },
+  {
+    "uuid": "4a13d0c4-7340-4d77-8fe2-e508e8786c09",
+    "code": "BeautyHealth_PedicureManicure_Accessories_NailFiles"
+  },
+  {
+    "uuid": "7930fa76-36a3-4e0c-9722-32079cd6e5f0",
+    "code": "BeautyHealth_PedicureManicure_Accessories_Brushes"
+  },
+  {
+    "uuid": "f188060d-b363-4ea4-8edf-57404896f48c",
+    "code": "BeautyHealth_PedicureManicure_Accessories_Scissors"
+  },
+  {
+    "uuid": "bbde5b15-0be9-458f-87dd-4b08a01bb335",
+    "code": "BeautyHealth_PedicureManicure_Accessories_Spatulas"
+  },
+  {
+    "uuid": "4809f402-410d-48e8-bc41-d7a2ba9be239",
+    "code": "BeautyHealth_PedicureManicure_Accessories_CuticleLifters"
+  },
+  {
+    "uuid": "c32ecc63-f029-4ed8-9e23-647954f4dc27",
+    "code": "BeautyHealth_PedicureManicure_Accessories_Dozers"
+  },
+  {
+    "uuid": "e3ca12f8-986a-43b1-bc71-19ea3c47ae64",
+    "code": "BeautyHealth_Health_VitaminsMinerals_Minerals"
+  },
+  {
+    "uuid": "3851d188-bcaa-4d75-a005-b2329f5c4978",
+    "code": "BeautyHealth_PedicureManicure_Accessories_Armrests"
+  },
+  {
+    "uuid": "0f5d3173-8500-48d2-9bc0-02994c0b3dd8",
+    "code": "BeautyHealth_PedicureManicure_Accessories_Stands"
+  },
+  {
+    "uuid": "c40bef0f-db12-4ae2-9448-9fd22c0ecf26",
+    "code": "BeautyHealth_PedicureManicure_Accessories_DishesDisinfectants"
+  },
+  {
+    "uuid": "40b1a408-5777-40bf-b4c7-3b96d95ee467",
+    "code": "BeautyHealth_PedicureManicure_Accessories_Other"
+  },
+  {
+    "uuid": "3b1e913a-9584-4731-85a8-9f2b3c96460e",
+    "code": "BeautyHealth_PedicureManicure_NailCare_CuticleCare"
+  },
+  {
+    "uuid": "2dee77f0-f923-462b-878a-df1a94de53cc",
+    "code": "BeautyHealth_PedicureManicure_NailCare_NailStrengthening"
+  },
+  {
+    "uuid": "077b6d8d-41cb-49c8-bb08-ff6f92f2e7a0",
+    "code": "BeautyHealth_PedicureManicure_NailCare_Other"
+  },
+  {
+    "uuid": "38b959a2-2e8d-4b3f-add1-144ff926d5ea",
+    "code": "BeautyHealth_PedicureManicure_NailPolish_BaseFinishingGloss"
+  },
+  {
+    "uuid": "f4f6eded-35b8-4b76-88da-472fd1953bbc",
+    "code": "BeautyHealth_PedicureManicure_NailPolish_NailPolishes"
+  },
+  {
+    "uuid": "e23df487-eb67-48a6-a647-2b3da27c547e",
+    "code": "BeautyHealth_PedicureManicure_NailPolish_NailPolishRemoval"
+  },
+  {
+    "uuid": "3fcae807-ee2b-40b1-a54c-ebb1e484c3d2",
+    "code": "BeautyHealth_PedicureManicure_NailPolish_Other"
+  },
+  {
+    "uuid": "06720a19-4aa8-4483-90bc-8b0782b07c6c",
+    "code": "BeautyHealth_PedicureManicure_ManicureApparatus_LedUvLamps"
+  },
+  {
+    "uuid": "eddaba4b-e5f4-40df-a121-4e745dffa725",
+    "code": "BeautyHealth_PedicureManicure_ManicureApparatus_NailGrinders"
+  },
+  {
+    "uuid": "28d4edea-7cfa-4e8a-a663-2759ab2bc8eb",
+    "code": "BeautyHealth_PedicureManicure_ManicureApparatus_Appendices"
+  },
+  {
+    "uuid": "ce88e0c4-82e6-4232-bb68-52ad8f5e8a4d",
+    "code": "BeautyHealth_PedicureManicure_ManicureApparatus_Aspirators"
+  },
+  {
+    "uuid": "0cedec16-6af3-46d7-8a22-eb2d1bb128c5",
+    "code": "BeautyHealth_PedicureManicure_ManicureApparatus_TableLamps"
+  },
+  {
+    "uuid": "cc965ecc-d8a1-470a-bddc-d08e1b0bd0e7",
+    "code": "BeautyHealth_PedicureManicure_ManicureApparatus_Sterilizers"
+  },
+  {
+    "uuid": "5fbf3da9-70aa-4aa1-b714-b8aebfef05d4",
+    "code": "BeautyHealth_PedicureManicure_ManicureApparatus_SpareNeonLights"
+  },
+  {
+    "uuid": "fa0d9e9c-20af-4bf2-81f9-3ca5a9055872",
+    "code": "BeautyHealth_PedicureManicure_ManicureApparatus_Other"
+  },
+  {
+    "uuid": "eb68d2c5-3f27-417c-8b3f-4b2c563cc65b",
+    "code": "BeautyHealth_PedicureManicure_NailArt_NailArt"
+  },
+  {
+    "uuid": "84f30c21-29fd-472e-9436-fe1cb4359254",
+    "code": "BeautyHealth_PedicureManicure_NailArt_Stamps"
+  },
+  {
+    "uuid": "f52c9f78-10d2-424b-98a5-ea070732e14a",
+    "code": "BeautyHealth_PedicureManicure_NailArt_Other"
+  },
+  {
+    "uuid": "2e2877a2-85a6-4d1c-ba85-4eacd3352d66",
+    "code": "BeautyHealth_Depilation_HairRemoval_Depilator"
+  },
+  {
+    "uuid": "a3263e20-e8c8-493b-84fe-5c0397455d33",
+    "code": "BeautyHealth_Depilation_HairRemoval_Epilator"
+  },
+  {
+    "uuid": "90cf35e5-1f18-482a-ab44-e0c24fd21ec2",
+    "code": "BeautyHealth_Depilation_HairRemoval_Razor"
+  },
+  {
+    "uuid": "154ec281-cc59-4feb-8009-3bd0cc0012b3",
+    "code": "BeautyHealth_Depilation_HairRemoval_Other"
+  },
+  {
+    "uuid": "3b296d8f-d660-4161-9dc7-c53292ad15ec",
+    "code": "BeautyHealth_Depilation_Waxing_ColdDepilation"
+  },
+  {
+    "uuid": "48a0a01c-8626-4faa-8ebd-f9f10d1fda1c",
+    "code": "BeautyHealth_Depilation_Waxing_HotDepilation"
+  },
+  {
+    "uuid": "41a4b504-4459-4931-96f5-3b0f704622c9",
+    "code": "BeautyHealth_Depilation_Waxing_SugarPaste"
+  },
+  {
+    "uuid": "8bec6ee4-607b-4e16-bbe8-c4d7e3f722ef",
+    "code": "BeautyHealth_Depilation_Waxing_RollsTapes"
+  },
+  {
+    "uuid": "bb02d59a-4675-492b-89ce-d120bddc4d6b",
+    "code": "BeautyHealth_Depilation_Waxing_DepilationDevices"
+  },
+  {
+    "uuid": "5fb161ec-a802-4c8a-b283-4b619f267479",
+    "code": "BeautyHealth_Depilation_Waxing_Cosmetics"
+  },
+  {
+    "uuid": "7ca5be90-7b88-40b7-8605-b9f7bb8b7c57",
+    "code": "BeautyHealth_Depilation_Waxing_Accessories"
+  },
+  {
+    "uuid": "0bbc3813-7c40-43df-acbb-8eea53ab9d8c",
+    "code": "BeautyHealth_Depilation_Waxing_Other"
+  },
+  {
+    "uuid": "59063b20-22d8-4fe5-885a-9ef6822ccb07",
+    "code": "BeautyHealth_Eyesight_Glasses_PrescriptionGlasses"
+  },
+  {
+    "uuid": "b1e8e45d-ebaf-4d66-b5c8-17098005558d",
+    "code": "BeautyHealth_Eyesight_Glasses_Sunglasses"
+  },
+  {
+    "uuid": "f2c360b3-32e9-490e-8f48-fe4152228655",
+    "code": "BeautyHealth_Eyesight_Glasses_Other"
+  },
+  {
+    "uuid": "6a8f6831-d9a9-4037-9976-2d54770b4ad5",
+    "code": "BeautyHealth_Tattoos_HygieneCare_DisposableEquipment"
+  },
+  {
+    "uuid": "e610625d-dc23-47e3-8c2d-28f01f65c705",
+    "code": "BeautyHealth_Tattoos_HygieneCare_TattooCare"
+  },
+  {
+    "uuid": "80b8f438-b959-41a6-9e2a-c275ea8758d7",
+    "code": "BeautyHealth_Tattoos_HygieneCare_Other"
+  },
+  {
+    "uuid": "9f28dab3-c6db-4c3f-942b-ceb8fa38afff",
+    "code": "BeautyHealth_Health_VitaminsMinerals_Vitamnins"
+  },
+  {
+    "uuid": "645e28c2-8649-42f4-8227-5d7fe8799712",
+    "code": "BeautyHealth_Health_VitaminsMinerals_Other"
+  },
+  {
+    "uuid": "c98c8815-6999-40da-ba2c-8c9056096cbe",
+    "code": "BeautyHealth_Health_AdditivesSupplements_Antioxidants"
+  },
+  {
+    "uuid": "3962ee12-d7e4-42b5-a37b-cc5c0310f903",
+    "code": "BeautyHealth_Health_AdditivesSupplements_AminoAcids"
+  },
+  {
+    "uuid": "e804327f-c54c-4cbf-8552-6b5aa843c4bb",
+    "code": "BeautyHealth_Health_AdditivesSupplements_Collagen"
+  },
+  {
+    "uuid": "c38474e6-ac69-495b-8163-8781e81f96ba",
+    "code": "BeautyHealth_Health_AdditivesSupplements_OmegasOils"
+  },
+  {
+    "uuid": "3f332b6e-9674-4f24-989a-6a22e812b7b5",
+    "code": "BeautyHealth_Health_AdditivesSupplements_Probiotics"
+  },
+  {
+    "uuid": "305e459d-7327-4c25-bcef-1e8ae2820ed5",
+    "code": "BeautyHealth_Health_AdditivesSupplements_Supplements"
+  },
+  {
+    "uuid": "01696c0f-0c25-43b3-bfb1-36f959249edf",
+    "code": "BeautyHealth_Health_AdditivesSupplements_Other"
+  },
+  {
+    "uuid": "af4800b2-4306-4b1f-9507-0cb4b14de8b5",
+    "code": "BeautyHealth_Health_HealthyPreparations_ForImmunity"
+  },
+  {
+    "uuid": "8db2f239-a463-4dd5-849a-9bf45b7f4a5a",
+    "code": "BeautyHealth_Health_HealthyPreparations_ForSkinHairNails"
+  },
+  {
+    "uuid": "d1ea07f2-447b-4b64-9f24-c9f66a0ffcd4",
+    "code": "BeautyHealth_Health_HealthyPreparations_ForBonesJoints"
+  },
+  {
+    "uuid": "14ef1315-b52f-4fe9-98ae-7fc098acecc8",
+    "code": "BeautyHealth_Health_HealthyPreparations_ForVision"
+  },
+  {
+    "uuid": "312ac205-b62c-4089-a2eb-6919b1f14e3e",
+    "code": "BeautyHealth_Health_HealthyPreparations_ForChildren"
+  },
+  {
+    "uuid": "847bb60b-15e0-4f13-a963-14d4141a030b",
+    "code": "BeautyHealth_Health_HealthyPreparations_PregnancyBreastfeeding"
+  },
+  {
+    "uuid": "75c6b45d-aca3-4434-bc23-781714b94597",
+    "code": "BeautyHealth_Health_HealthyPreparations_MatureAge"
+  },
+  {
+    "uuid": "4611cf13-5e05-4729-b236-23a1ac6ffb33",
+    "code": "BeautyHealth_Health_HealthyPreparations_Other"
+  },
+  {
+    "uuid": "440c0bbe-a923-448d-a35b-efa9f6091937",
+    "code": "BeautyHealth_Health_HealthCare_FirstAid"
+  },
+  {
+    "uuid": "5a3124b1-b413-4114-ae09-d94bb739f429",
+    "code": "BeautyHealth_Health_HealthCare_AlternativeMedicine"
+  },
+  {
+    "uuid": "c029b0b6-87ec-44d1-a017-bc00194a073a",
+    "code": "BeautyHealth_Health_HealthCare_Other"
+  },
+  {
+    "uuid": "52e94730-26ee-439d-b345-17213c902512",
+    "code": "BeautyHealth_Equipment_BeautySalons_BedsChairs"
+  },
+  {
+    "uuid": "7f093ba9-7353-4bf9-b9fd-bd59ecf686f4",
+    "code": "BeautyHealth_Equipment_BeautySalons_ShelvesTrolleys"
+  },
+  {
+    "uuid": "2493cd14-372f-4422-9445-a169432314ee",
+    "code": "BeautyHealth_Equipment_BeautySalons_ManicureTables"
+  },
+  {
+    "uuid": "cc0c0433-3b79-4749-bc24-708e1901a0a6",
+    "code": "BeautyHealth_Equipment_BeautySalons_PedicureChairsHolders"
+  },
+  {
+    "uuid": "e18501db-1511-41a4-a8de-a89d86818dcc",
+    "code": "BeautyHealth_Equipment_BeautySalons_MassageChairs"
+  },
+  {
+    "uuid": "8db0aedf-c6b8-4a83-9edc-baa22eebcda4",
+    "code": "BeautyHealth_Equipment_BeautySalons_Equipment"
+  },
+  {
+    "uuid": "255588ed-c531-4831-807a-f84e62d550d3",
+    "code": "MyHome_HomeDecor_Cleaning_CleaningProducts"
+  },
+  {
+    "uuid": "377eea96-23d9-4e10-9290-b124b5ae13af",
+    "code": "BeautyHealth_Equipment_BeautySalons_Other"
+  },
+  {
+    "uuid": "addff120-9b9d-4b5d-b70e-f4ed06d97718",
+    "code": "BeautyHealth_Equipment_BeautySalonsAparats_CosmeticDevices"
+  },
+  {
+    "uuid": "9dca4b1e-4746-471c-8e3b-7f0031ca8422",
+    "code": "BeautyHealth_Equipment_BeautySalonsAparats_CosmeticMagnifiers"
+  },
+  {
+    "uuid": "164c827e-df7c-4837-82df-95144b50b12a",
+    "code": "BeautyHealth_Equipment_BeautySalonsAparats_Sterilizers"
+  },
+  {
+    "uuid": "9f60f61e-03e9-489c-b6a8-631a88154f67",
+    "code": "BeautyHealth_Equipment_BeautySalonsAparats_Other"
+  },
+  {
+    "uuid": "8b75c19f-db5f-488f-a436-0a636fc47c52",
+    "code": "BeautyHealth_Equipment_HairdressingSalons_ShampooChairs"
+  },
+  {
+    "uuid": "c06678d6-bf1e-45f6-8a06-a8acd24497ae",
+    "code": "BeautyHealth_Equipment_HairdressingSalons_Chairs"
+  },
+  {
+    "uuid": "f3380150-1a18-4ece-bb15-aa5484f2d1af",
+    "code": "BeautyHealth_Equipment_HairdressingSalons_HairdressingJobs"
+  },
+  {
+    "uuid": "64643493-004e-4328-bd1a-6e92cacd5c8f",
+    "code": "BeautyHealth_Equipment_HairdressingSalons_TrolleyShelves"
+  },
+  {
+    "uuid": "438b7a93-e25b-444e-9470-98ade036a7f6",
+    "code": "BeautyHealth_Equipment_HairdressingSalons_HolderFootrests"
+  },
+  {
+    "uuid": "2e93efd8-7721-4df5-aa64-a92c733005ff",
+    "code": "BeautyHealth_Equipment_HairdressingSalons_Sterilizers"
+  },
+  {
+    "uuid": "cffdb8e1-64ec-4833-958d-65719fc941af",
+    "code": "BeautyHealth_Equipment_HairdressingSalons_Other"
+  },
+  {
+    "uuid": "54923746-70fb-4fdc-9162-e6cd3c7acbf7",
+    "code": "IndustryBusiness_Medicine_EquipmentAppliances_EquipmentAppliances"
+  },
+  {
+    "uuid": "d9784982-984a-482f-986e-adbd03348bde",
+    "code": "IndustryBusiness_Medicine_EquipmentAppliances_HomeAppliances"
+  },
+  {
+    "uuid": "8343fc62-e702-4d55-a2ce-bdffa302eb97",
+    "code": "IndustryBusiness_Medicine_EquipmentAppliances_Other"
+  },
+  {
+    "uuid": "1e1bd229-a5b7-4488-bc04-893ae318528a",
+    "code": "IndustryBusiness_Education_Equipment_Classroom"
+  },
+  {
+    "uuid": "9a271cfa-1982-4962-98a5-3ffc9e6c7001",
+    "code": "IndustryBusiness_Education_Equipment_Other"
+  },
+  {
+    "uuid": "bb7b419e-b66d-4ebf-939c-99759827b801",
+    "code": "IndustryBusiness_Education_School_Books"
+  },
+  {
+    "uuid": "359e1c9c-c656-4e4e-84bf-5295b1f1d18c",
+    "code": "IndustryBusiness_Education_School_Notebooks"
+  },
+  {
+    "uuid": "970ce7e3-4a64-4c55-a9c2-90a99aa62622",
+    "code": "IndustryBusiness_Education_School_SchoolSupplies"
+  },
+  {
+    "uuid": "11d48e5d-6e74-4dc0-a47f-28077e305f5f",
+    "code": "IndustryBusiness_Education_School_BackpacksPencilCases"
+  },
+  {
+    "uuid": "ce966644-227e-4155-955c-2a72ecd565c3",
+    "code": "IndustryBusiness_Education_School_Other"
+  },
+  {
+    "uuid": "4e2cc5f0-05af-4220-aff8-36ca67c89667",
+    "code": "IndustryBusiness_Hospitality_KitchenEquipment_Dishwashers"
+  },
+  {
+    "uuid": "dbc6164f-7eec-4712-86b4-fe6367e12aa9",
+    "code": "IndustryBusiness_Hospitality_KitchenEquipment_WaterSofteners"
+  },
+  {
+    "uuid": "e34414dd-b9a7-42b0-882d-8fcb65bde883",
+    "code": "IndustryBusiness_Hospitality_KitchenEquipment_ProfessionalKitchens"
+  },
+  {
+    "uuid": "de69597f-3563-40d3-8574-fd86e3bb6c76",
+    "code": "IndustryBusiness_Hospitality_KitchenEquipment_ConvectionMachines"
+  },
+  {
+    "uuid": "03ce6829-871f-4d7e-bdba-69109df0d40b",
+    "code": "IndustryBusiness_Hospitality_KitchenEquipment_FastFoodEquipment"
+  },
+  {
+    "uuid": "9425548d-5fd6-4d4f-9942-ddea2ef7c95e",
+    "code": "IndustryBusiness_Hospitality_KitchenEquipment_PizzeriasEquipment"
+  },
+  {
+    "uuid": "3a31f2ca-7295-44d6-96b4-7329709afc3d",
+    "code": "IndustryBusiness_Hospitality_KitchenEquipment_BlendersMixers"
+  },
+  {
+    "uuid": "b22b7b54-2df4-46bc-a942-76a9808a35c3",
+    "code": "IndustryBusiness_Hospitality_KitchenEquipment_MeatProcessing"
+  },
+  {
+    "uuid": "26ee4415-908a-45da-96aa-c5f8724bc6f6",
+    "code": "IndustryBusiness_Hospitality_KitchenEquipment_VegetableProcessing"
+  },
+  {
+    "uuid": "3221aecf-28d4-400e-8dec-79881bbbb1ef",
+    "code": "IndustryBusiness_Hospitality_KitchenEquipment_PackagingMachines"
+  },
+  {
+    "uuid": "fcf30822-3d79-4ad6-afee-6616b66dfe0d",
+    "code": "IndustryBusiness_Hospitality_KitchenEquipment_ContainersThermobox"
+  },
+  {
+    "uuid": "3d642125-ee73-4093-8d41-ff3d6ab1c549",
+    "code": "IndustryBusiness_Hospitality_KitchenEquipment_Other"
+  },
+  {
+    "uuid": "294a204e-93cf-4f46-a275-4938daa0c805",
+    "code": "IndustryBusiness_Hospitality_BarEquipment_BarEquipment"
+  },
+  {
+    "uuid": "28161572-7d35-4f6e-ad1f-8ff4782abb93",
+    "code": "IndustryBusiness_Hospitality_BarEquipment_IceMachines"
+  },
+  {
+    "uuid": "54b2cb49-fadb-45b3-8a84-e07c1c3e31be",
+    "code": "IndustryBusiness_Hospitality_BarEquipment_Detergents"
+  },
+  {
+    "uuid": "4871a224-b9f7-42f4-8da8-bf9a6b7e7363",
+    "code": "IndustryBusiness_Hospitality_BarEquipment_MinibarsSafes"
+  },
+  {
+    "uuid": "33374dbc-716a-4192-b44c-111801cea3c1",
+    "code": "IndustryBusiness_Hospitality_BarEquipment_Other"
+  },
+  {
+    "uuid": "ef60e38d-3ca4-49cb-abe0-c6ac30193c4d",
+    "code": "IndustryBusiness_RenewableEnergySources_SolarSystems_SolarCollector"
+  },
+  {
+    "uuid": "8e8ce134-86a1-41d5-8adf-d92e4427e362",
+    "code": "IndustryBusiness_RenewableEnergySources_SolarSystems_CollectorAccessories"
+  },
+  {
+    "uuid": "5ae3c5d2-c49c-45ca-b04e-39e117e9a76f",
+    "code": "IndustryBusiness_RenewableEnergySources_SolarSystems_Pumps"
+  },
+  {
+    "uuid": "aab6a134-d5e0-4bb5-a6e0-0a28df088dbb",
+    "code": "IndustryBusiness_RenewableEnergySources_SolarSystems_SolarFluid"
+  },
+  {
+    "uuid": "5514da0d-e9e8-44dd-825c-e44ee09fa0a7",
+    "code": "IndustryBusiness_RenewableEnergySources_SolarSystems_ExpansionVessels"
+  },
+  {
+    "uuid": "138ff27c-d7da-49b8-9dec-e6c22329adef",
+    "code": "IndustryBusiness_RenewableEnergySources_SolarSystems_Other"
+  },
+  {
+    "uuid": "645a15b7-10d1-460c-b819-8a5e01ffa46a",
+    "code": "MomBaby_BabyEquipment_Furniture_Beds"
+  },
+  {
+    "uuid": "6a2a5b5b-9e62-47cf-a538-d96ec17071f7",
+    "code": "MomBaby_BabyEquipment_Furniture_BeddingMattresses"
+  },
+  {
+    "uuid": "1dc00d8e-ca9c-44bb-afaa-55b239efc318",
+    "code": "MomBaby_BabyEquipment_Furniture_BabyChanging"
+  },
+  {
+    "uuid": "d2c5007b-bac3-42cb-9dd3-bd0c43ff6406",
+    "code": "MomBaby_BabyEquipment_Furniture_Other"
+  },
+  {
+    "uuid": "fe5c1aba-785e-4f76-816b-221b1ac8ae65",
+    "code": "MomBaby_BabyEquipment_StrollersCarSeats_BabyStrollers"
+  },
+  {
+    "uuid": "361349e8-c14d-4193-96e4-1c6af9ac67bd",
+    "code": "MomBaby_BabyEquipment_StrollersCarSeats_CarSeats"
+  },
+  {
+    "uuid": "6e846111-64ac-4c54-a2bd-9c9b7f272ade",
+    "code": "MomBaby_BabyEquipment_StrollersCarSeats_Accessories"
+  },
+  {
+    "uuid": "9560f0c5-849a-49be-86fd-d760c62a1f28",
+    "code": "MomBaby_BabyEquipment_StrollersCarSeats_Other"
+  },
+  {
+    "uuid": "ffc6f593-00cf-43b1-8241-1bbecd95ac8a",
+    "code": "MomBaby_BabyEquipment_BathroomEquipment_Tubs"
+  },
+  {
+    "uuid": "2e1f7fc1-3692-4f57-b91a-fe0dafcb92de",
+    "code": "MomBaby_BabyEquipment_BathroomEquipment_BathMats"
+  },
+  {
+    "uuid": "17fc3d0b-16bf-4abd-a4f3-c8710dae1c4e",
+    "code": "MomBaby_BabyEquipment_BathroomEquipment_BathingBowls"
+  },
+  {
+    "uuid": "58fe5641-5be2-4327-be74-b238dfbdfd10",
+    "code": "MomBaby_BabyEquipment_BathroomEquipment_Towels"
+  },
+  {
+    "uuid": "8a263d40-60d2-4574-a8e7-3591c65b7bfa",
+    "code": "MomBaby_BabyEquipment_BathroomEquipment_Thermometers"
+  },
+  {
+    "uuid": "4212337b-b744-4056-89d8-d5f31810f6ba",
+    "code": "MomBaby_BabyEquipment_BathroomEquipment_HairProtectorsBathToys"
+  },
+  {
+    "uuid": "79785d6a-7477-4eb1-a142-09890bf90fe3",
+    "code": "MomBaby_BabyEquipment_BathroomEquipment_Other"
+  },
+  {
+    "uuid": "3911c93e-98c2-4ff9-859c-c23b45fc7409",
+    "code": "MomBaby_BabyEquipment_Safety_Safety"
+  },
+  {
+    "uuid": "d292269d-4816-4f70-bf76-57fdd69d2abe",
+    "code": "MomBaby_Toys_Baby_PlayMats"
+  },
+  {
+    "uuid": "7a8ec73c-99c3-417c-a3c5-7d5fb6b26409",
+    "code": "MomBaby_Toys_Baby_CarouselsHangingToys"
+  },
+  {
+    "uuid": "a9a7fbd1-83a3-4d90-816d-d179e1dc8870",
+    "code": "MomBaby_Toys_Baby_FirstToys"
+  },
+  {
+    "uuid": "14a98c99-b1a4-4142-9ee4-a3f4243d799d",
+    "code": "MomBaby_Toys_Baby_ProjectorsLamps"
+  },
+  {
+    "uuid": "31d25dce-5898-490b-9c3f-fd8bce614964",
+    "code": "MomBaby_Toys_Baby_MusicalToys"
+  },
+  {
+    "uuid": "03f2b4ba-d2fe-442f-a107-d533571c95d0",
+    "code": "MomBaby_Toys_Baby_BathToys"
+  },
+  {
+    "uuid": "8dccb619-9c70-4137-a7ff-fed1f4a9ad25",
+    "code": "MomBaby_Toys_Baby_EducationalToys"
+  },
+  {
+    "uuid": "e1b11c44-21f9-4188-9c63-8971cc31a126",
+    "code": "MomBaby_Toys_Baby_Swings"
+  },
+  {
+    "uuid": "d019ea32-bda2-489f-bdb8-59dd1bae4268",
+    "code": "MomBaby_Toys_Baby_Other"
+  },
+  {
+    "uuid": "3ae296ab-1a20-432a-975b-eed8d7ca7fd5",
+    "code": "MomBaby_Toys_Kids_Dolls"
+  },
+  {
+    "uuid": "2a4e8f7d-9152-4dde-a975-30d2ade38148",
+    "code": "MomBaby_Toys_Kids_Figures"
+  },
+  {
+    "uuid": "a5ce08f9-ccf8-455e-b261-047d5795628c",
+    "code": "MomBaby_Toys_Kids_Dice"
+  },
+  {
+    "uuid": "12d3b286-0ec4-47ff-a0d2-9b0380b97c59",
+    "code": "MomBaby_Toys_Kids_OnWheels"
+  },
+  {
+    "uuid": "2b137375-4bf8-4855-9db4-b1ff2ec5ff36",
+    "code": "MomBaby_Toys_Kids_BeachToys"
+  },
+  {
+    "uuid": "896f0a70-896c-4765-9cea-61bfe8dbfbf8",
+    "code": "MomBaby_Toys_Kids_StuffedToys"
+  },
+  {
+    "uuid": "8cfccdba-6588-49f5-9655-c5e05bcb1a9c",
+    "code": "MomBaby_Toys_Kids_WoodenToys"
+  },
+  {
+    "uuid": "69fa50dd-05d7-453d-9c05-24e3d4b42160",
+    "code": "MomBaby_Toys_Kids_GaragesTracksTrains"
+  },
+  {
+    "uuid": "08da0015-2b57-4653-81cb-8ef8ddf6eeb8",
+    "code": "MomBaby_Toys_Kids_Tools"
+  },
+  {
+    "uuid": "1354ef80-3483-44cd-bc08-24351e0a2a28",
+    "code": "MomBaby_Toys_Kids_PistolsRifles"
+  },
+  {
+    "uuid": "ac6e0890-ab56-43b0-8590-481b779bd35d",
+    "code": "MomBaby_Toys_Kids_EducationalGames"
+  },
+  {
+    "uuid": "53719bc2-f713-4ddc-b662-4265ee26a800",
+    "code": "MomBaby_Toys_Kids_Other"
+  },
+  {
+    "uuid": "5748c69d-cc0f-43da-a676-30f5bf8a0f20",
+    "code": "MomBaby_Toys_Bookstore_Other"
+  },
+  {
+    "uuid": "e075345e-6501-47f0-a5d9-a26ca8e1be8d",
+    "code": "MomBaby_BabyCare_Cosmetics_DiapersWipes"
+  },
+  {
+    "uuid": "e0be4709-e51b-459f-9140-0c0f04876373",
+    "code": "MomBaby_BabyCare_Cosmetics_TufersWattsEarSticks"
+  },
+  {
+    "uuid": "38522d7d-2e05-4393-80a8-25ca97ef7952",
+    "code": "MomBaby_BabyCare_Cosmetics_Other"
+  },
+  {
+    "uuid": "9c29e724-a1ee-4b83-b44c-40c7b6736df3",
+    "code": "MomBaby_BabyFeeding_Food_Formulas"
+  },
+  {
+    "uuid": "f43bc6f1-5ef8-4e00-a2af-1bfcc444d9aa",
+    "code": "MomBaby_BabyFeeding_Food_WaterTeas"
+  },
+  {
+    "uuid": "df613b95-1279-4e9b-9cbf-da13c9940b02",
+    "code": "MomBaby_BabyFeeding_Food_Juices"
+  },
+  {
+    "uuid": "541aee62-7f3d-4940-94d8-5b0760d9f6a5",
+    "code": "MomBaby_BabyFeeding_Food_PorridgesDesserts"
+  },
+  {
+    "uuid": "733a5601-e9cc-4081-bd59-a5e72c48b6dd",
+    "code": "MomBaby_BabyFeeding_Food_InsantPorridge"
+  },
+  {
+    "uuid": "7c317c95-e611-4207-a54f-4d0b3341653a",
+    "code": "MomBaby_BabyFeeding_Food_CerealDrinks"
+  },
+  {
+    "uuid": "3b0fa3b2-15fa-434c-b2c4-1ae35b5289d1",
+    "code": "MomBaby_BabyFeeding_Food_SweetSaltySnacks"
+  },
+  {
+    "uuid": "daf129d4-4b02-490c-9ecb-20e25ca064b4",
+    "code": "MomBaby_BabyFeeding_Food_Other"
+  },
+  {
+    "uuid": "d49df039-84d8-44f8-b43c-a8e5afbfc6bd",
+    "code": "MomBaby_BabyFeeding_Appliances_Sterilizers"
+  },
+  {
+    "uuid": "2de0b975-3b73-47cd-aa49-a34f55fad297",
+    "code": "MomBaby_BabyFeeding_Appliances_Other"
+  },
+  {
+    "uuid": "357837bd-cd81-4336-8b65-8277e201e1b3",
+    "code": "MomBaby_ForMom_BeComfortable_SleepingPillows"
+  },
+  {
+    "uuid": "5d3cbc2f-a05e-4308-a460-1f9d36365649",
+    "code": "MomBaby_ForMom_BeComfortable_Other"
+  },
+  {
+    "uuid": "fc2bbb03-6962-4fa9-a7c1-1921e7c7166d",
+    "code": "MomBaby_ForMom_Breastfeeding_NursingPillows"
+  },
+  {
+    "uuid": "4d859cfb-a62e-4017-b98e-83cfab22fd41",
+    "code": "MomBaby_ForMom_Breastfeeding_Breastfeeding"
+  },
+  {
+    "uuid": "d9f5a34e-f304-498f-bacc-8ffb8f00758e",
+    "code": "MomBaby_ForMom_Breastfeeding_Other"
+  },
+  {
+    "uuid": "1f10e279-8fb9-437c-8731-58ee136c9905",
+    "code": "MomBaby_ForMom_BreastCare"
+  },
+  {
+    "uuid": "ae1a9ec1-d368-49fa-ae48-46cc18c0a4cd",
+    "code": "MachineToolMaterial_Machines_PowerTools_Drills"
+  },
+  {
+    "uuid": "c2b11a13-c62d-416a-bcfe-4d89575a4d6a",
+    "code": "MachineToolMaterial_Machines_PowerTools_Grinders"
+  },
+  {
+    "uuid": "bb2d84ac-ba2a-4d43-82cd-73fcefc1e4f2",
+    "code": "MachineToolMaterial_Machines_PowerTools_HammerDrill"
+  },
+  {
+    "uuid": "15fc3d5d-49c4-43e2-8bbb-9ed14576172d",
+    "code": "MachineToolMaterial_Machines_PowerTools_Screwdrivers"
+  },
+  {
+    "uuid": "b2ef045b-d097-49d4-bc93-cf4967460d85",
+    "code": "MachineToolMaterial_Machines_PowerTools_TileCutters"
+  },
+  {
+    "uuid": "ced496a5-073c-4e2c-b800-493952911968",
+    "code": "MachineToolMaterial_Machines_PowerTools_Planer"
+  },
+  {
+    "uuid": "4c10a19f-7cdb-433f-84ef-e4580c7e7e43",
+    "code": "MachineToolMaterial_Machines_PowerTools_Clamps"
+  },
+  {
+    "uuid": "c1ea38c9-88fb-49cd-a446-04eb320fc020",
+    "code": "MachineToolMaterial_Machines_PowerTools_Slitters"
+  },
+  {
+    "uuid": "b5a7a797-868c-46ba-a19e-7929352056db",
+    "code": "MachineToolMaterial_Machines_PowerTools_MillingMachines"
+  },
+  {
+    "uuid": "a8feb0ed-fd5b-45eb-9b35-718328c0d7fc",
+    "code": "MachineToolMaterial_Machines_PowerTools_HotAirDryers"
+  },
+  {
+    "uuid": "f15116b4-4f2f-43e3-806d-d6ee511f82c2",
+    "code": "MachineToolMaterial_Machines_PowerTools_MixersAccessories"
+  },
+  {
+    "uuid": "12a130db-7f8d-47cd-a319-a7c6c410cc62",
+    "code": "MachineToolMaterial_Machines_PowerTools_Scissors"
+  },
+  {
+    "uuid": "ee453ed5-7dfa-47bc-a79f-a6471cd35a5f",
+    "code": "MachineToolMaterial_Machines_PowerTools_WoodSplitters"
+  },
+  {
+    "uuid": "b4facd7b-9859-4636-beb6-b49fd0544ccf",
+    "code": "MachineToolMaterial_Machines_PowerTools_GunsForPlastic"
+  },
+  {
+    "uuid": "fc93b8bb-129e-45b3-a87b-4bf9e57859ba",
+    "code": "MachineToolMaterial_Machines_PowerTools_WeldingMachinesAccessories"
+  },
+  {
+    "uuid": "6e3c8a3e-358f-4d66-8f07-adc89cdac0e0",
+    "code": "MachineToolMaterial_Machines_PowerTools_BatteriesChargers"
+  },
+  {
+    "uuid": "90451693-801d-4d11-9d41-16e58f8af343",
+    "code": "MachineToolMaterial_Machines_PowerTools_Other"
+  },
+  {
+    "uuid": "5f8f82b1-534d-4d2a-bd66-3509ee3103f9",
+    "code": "MachineToolMaterial_Machines_PowerToolsAccessories_Drill"
+  },
+  {
+    "uuid": "df5bbe7b-ec5a-4572-b4c9-8829281891d6",
+    "code": "MachineToolMaterial_Machines_PowerToolsAccessories_HumerDrill"
+  },
+  {
+    "uuid": "ca688837-a9e4-4451-8a5f-974ac8053664",
+    "code": "MachineToolMaterial_Machines_PowerToolsAccessories_HoleSaw"
+  },
+  {
+    "uuid": "5888b145-86df-4464-9545-71a175af6c8e",
+    "code": "MachineToolMaterial_Machines_PowerToolsAccessories_ClampingHeadsAdapters"
+  },
+  {
+    "uuid": "11f34749-e591-41c2-b0e1-7091753835cb",
+    "code": "MachineToolMaterial_Machines_PowerToolsAccessories_Chisels"
+  },
+  {
+    "uuid": "bd9b762b-4225-4550-81e3-59bc12b13668",
+    "code": "MachineToolMaterial_Machines_PowerToolsAccessories_MachineHolder"
+  },
+  {
+    "uuid": "aa9a9096-413d-4f98-be94-a6257e4fa00a",
+    "code": "MachineToolMaterial_Machines_PowerToolsAccessories_DrillStand"
+  },
+  {
+    "uuid": "d3d8340a-f985-4626-ad39-020079483a6a",
+    "code": "MachineToolMaterial_Machines_PowerToolsAccessories_Accessories"
+  },
+  {
+    "uuid": "fb5bccf9-62c4-4f2a-884b-4598e0c9a94b",
+    "code": "MachineToolMaterial_Machines_PowerToolsAccessories_Other"
+  },
+  {
+    "uuid": "2492d2cd-4342-41c1-9a6e-5c5de284f9f1",
+    "code": "MachineToolMaterial_Machines_HandTool_AutoMechanicTools"
+  },
+  {
+    "uuid": "a110dea1-0e06-4cf7-b945-e30ae123ee33",
+    "code": "MachineToolMaterial_Machines_HandTool_SpannerAccessorise"
+  },
+  {
+    "uuid": "4fbd93b2-52c8-47ff-bc6d-dcb05a546399",
+    "code": "MachineToolMaterial_Machines_HandTool_Pliers"
+  },
+  {
+    "uuid": "767ffa31-c884-4bf5-9c9c-ec4cc0568db9",
+    "code": "MachineToolMaterial_Machines_HandTool_PowerTol"
+  },
+  {
+    "uuid": "5f8cb43f-2d6b-43e7-868b-d85fbdd9dd2d",
+    "code": "MachineToolMaterial_Machines_HandTool_Files"
+  },
+  {
+    "uuid": "6dbac902-e5e2-4cd0-a910-17516e64d946",
+    "code": "MachineToolMaterial_Machines_HandTool_Clamps"
+  },
+  {
+    "uuid": "1014b357-f988-492d-83ae-a852eaa6de47",
+    "code": "MachineToolMaterial_Machines_HandTool_Hammers"
+  },
+  {
+    "uuid": "4fd0ef09-ea1d-465c-b378-0444d8b94e07",
+    "code": "MachineToolMaterial_Machines_HandTool_Axes"
+  },
+  {
+    "uuid": "7e121983-28d8-4504-8f25-4275c632e04a",
+    "code": "MachineToolMaterial_Machines_HandTool_ScalpelsAccessories"
+  },
+  {
+    "uuid": "96ac74b7-5532-474b-b019-6a99d25589a5",
+    "code": "MachineToolMaterial_Machines_HandTool_MarkingTool"
+  },
+  {
+    "uuid": "1a735898-7404-41b5-a823-a9d832653c93",
+    "code": "MachineToolMaterial_Machines_HandTool_Saws"
+  },
+  {
+    "uuid": "05e14562-6fc6-4fc4-8ad1-246d1460411f",
+    "code": "MachineToolMaterial_Machines_HandTool_ToolSuitcasesBoxes"
+  },
+  {
+    "uuid": "df0a4cf8-a358-4734-b92f-89ee79a7b290",
+    "code": "MachineToolMaterial_Machines_HandTool_ScrewdriversBits"
+  },
+  {
+    "uuid": "84133a4c-da15-4965-8b34-495d61cc39e5",
+    "code": "MachineToolMaterial_Machines_HandTool_ToolSet"
+  },
+  {
+    "uuid": "d07406b3-bfa1-4d14-a472-c618adf01c9f",
+    "code": "MachineToolMaterial_Machines_HandTool_Pullers"
+  },
+  {
+    "uuid": "980fb9a9-2aac-4f7e-bc72-139a8731e0aa",
+    "code": "MachineToolMaterial_Machines_HandTool_ScissorsCuttersKnives"
+  },
+  {
+    "uuid": "798ea81a-6879-4268-9fcc-2944c8e5dd02",
+    "code": "MachineToolMaterial_Machines_HandTool_CeramicCuttingTool"
+  },
+  {
+    "uuid": "bb59dd73-47a5-4b99-a36f-aaee413077f5",
+    "code": "MachineToolMaterial_Machines_HandTool_CuttingToolsAccessories"
+  },
+  {
+    "uuid": "4bb189a8-e33d-48c4-ad82-932f9776dc75",
+    "code": "MachineToolMaterial_Machines_HandTool_Other"
+  },
+  {
+    "uuid": "e82a7895-0c4a-41dc-a938-87ae25415468",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_MillingMachine"
+  },
+  {
+    "uuid": "7a6423ab-0d5a-4fec-b677-c23351e8b0af",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_Discs"
+  },
+  {
+    "uuid": "dd8ac4eb-d6b7-45ef-a499-b37056d81be5",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_FleeceRoll"
+  },
+  {
+    "uuid": "8ebb8cf5-ea1d-482c-afe0-ca3f6898f8a0",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_DiscsLBD"
+  },
+  {
+    "uuid": "e8200681-3cc2-4984-8149-30e126ccc1f9",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_Sharpener"
+  },
+  {
+    "uuid": "beafe639-0df3-4501-b1c4-47c68c6018d3",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_CuttingDisc"
+  },
+  {
+    "uuid": "5db88996-bb88-45ed-806b-1815842ef131",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_SharpenerDisc"
+  },
+  {
+    "uuid": "0ae41bfe-2ea7-4149-a6df-a18b148aa705",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_DiscPaper"
+  },
+  {
+    "uuid": "8cf4372b-b339-4db1-82cd-b55663a290f4",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_SandingCloth"
+  },
+  {
+    "uuid": "959ac391-a880-4218-9c2a-c15d7d4e3b06",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_SandpapersWaterproof"
+  },
+  {
+    "uuid": "a077949a-9013-47d0-814e-0071975d2610",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_PolishingPlates"
+  },
+  {
+    "uuid": "76391b49-77bc-4e2e-a5d1-5a05dbb2d33d",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_Crowns"
+  },
+  {
+    "uuid": "5e0f041e-e7fd-4ef2-851a-e7c98139ad6a",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_SandingBelt"
+  },
+  {
+    "uuid": "df09bfba-02f7-443c-9da6-b9bdff5e4507",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_Substrate"
+  },
+  {
+    "uuid": "a07f25a1-e4bb-4a92-964d-2bc932ff13ed",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_Brushes"
+  },
+  {
+    "uuid": "8f3b4150-b313-4f33-b83b-0b9d93fc3697",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_CupWheels"
+  },
+  {
+    "uuid": "40e826b0-861d-4337-baf5-222ff0c7129d",
+    "code": "MachineToolMaterial_Machines_AbrasiveCuttingMaterial_Other"
+  },
+  {
+    "uuid": "6370c016-acee-477c-95f4-6b0d03b2cb99",
+    "code": "MachineToolMaterial_Machines_MeasuringTechnique_LaserLevelGauges"
+  },
+  {
+    "uuid": "0ac13a9c-86ea-42f1-aeec-2ea58dcf5a7c",
+    "code": "MachineToolMaterial_Machines_MeasuringTechnique_Protractors"
+  },
+  {
+    "uuid": "41ec1494-a89e-440e-808c-470608e41277",
+    "code": "MachineToolMaterial_Machines_MeasuringTechnique_Level"
+  },
+  {
+    "uuid": "6a292329-8bb3-4048-97ab-01f0c00d62a0",
+    "code": "MachineToolMaterial_Machines_MeasuringTechnique_BuildingMeter"
+  },
+  {
+    "uuid": "c327261d-3ba4-4bc4-84fa-e431abb88bbf",
+    "code": "MachineToolMaterial_Machines_MeasuringTechnique_HumidityMeter"
+  },
+  {
+    "uuid": "f9e3199a-43be-480e-8e1e-76ea9ac3791e",
+    "code": "MachineToolMaterial_Machines_MeasuringTechnique_Detectors"
+  },
+  {
+    "uuid": "e0b09f8e-2711-44cf-8e6a-40ebee912fad",
+    "code": "MachineToolMaterial_Machines_MeasuringTechnique_Other"
+  },
+  {
+    "uuid": "5efeac0a-84ce-4acf-8d3c-4d73eec84ee0",
+    "code": "MachineToolMaterial_Machines_Pneumatics_Compressors"
+  },
+  {
+    "uuid": "e2cff4fc-d5d6-4a9c-8cf7-9f34316d0c5e",
+    "code": "MachineToolMaterial_Machines_Pneumatics_PneumaticToolsAccessories"
+  },
+  {
+    "uuid": "7f9e0185-649c-4f82-ae67-2494ddd12d7d",
+    "code": "MachineToolMaterial_Machines_Pneumatics_Other"
+  },
+  {
+    "uuid": "f1e08f11-e9ba-45e0-ba25-06b69347ce23",
+    "code": "MachineToolMaterial_Machines_ProfessionalCleaningTools_PressureWashers"
+  },
+  {
+    "uuid": "e1a08011-39d5-4472-8aa0-e126b9a1b140",
+    "code": "MachineToolMaterial_Machines_ProfessionalCleaningTools_VacuumCleaners"
+  },
+  {
+    "uuid": "9d9516f0-a916-49ff-87a1-d9f1bcd709dc",
+    "code": "MachineToolMaterial_Machines_ProfessionalCleaningTools_FloorCleaner"
+  },
+  {
+    "uuid": "1b0b3f52-7ea6-4c9a-bea0-71f0f079452d",
+    "code": "MachineToolMaterial_Machines_ProfessionalCleaningTools_SteamCleaners"
+  },
+  {
+    "uuid": "1e198e19-d220-4448-b7f1-395b6de95af6",
+    "code": "MachineToolMaterial_Machines_ProfessionalCleaningTools_CleaningProducts"
+  },
+  {
+    "uuid": "2ec3f725-7731-4512-bb1e-04e5031d9f9c",
+    "code": "MachineToolMaterial_Machines_ProfessionalCleaningTools_Other"
+  },
+  {
+    "uuid": "e31e665e-8eeb-45f1-b057-126c966705df",
+    "code": "MachineToolMaterial_Machines_PalletsTransportCarts_PalletTruck"
+  },
+  {
+    "uuid": "e9b5c167-83b8-4466-89d4-c426a800fde4",
+    "code": "MachineToolMaterial_Machines_PalletsTransportCarts_Truck"
+  },
+  {
+    "uuid": "700c64e9-33da-456a-9b1e-e966c80c0e10",
+    "code": "MachineToolMaterial_Machines_PalletsTransportCarts_Other"
+  },
+  {
+    "uuid": "d98dbdc4-d033-4db1-b6fc-80bb40f82f56",
+    "code": "MachineToolMaterial_Machines_GardenMachinesTools_GardenAccessoriseTools"
+  },
+  {
+    "uuid": "84db0553-c27c-4adf-b967-835bf4cf8dee",
+    "code": "MachineToolMaterial_Machines_GardenMachinesTools_GardenMachinery"
+  },
+  {
+    "uuid": "e22a004b-0398-41d1-a635-a4e1fc13edbc",
+    "code": "MachineToolMaterial_Machines_GardenMachinesTools_Other"
+  },
+  {
+    "uuid": "da4f6ecd-af34-40f0-a1f8-fffbda3ecdd0",
+    "code": "MachineToolMaterial_ProtectiveGear_RespiratoryProtection_HalfMask"
+  },
+  {
+    "uuid": "b36fb912-ea0e-44c1-9e3b-07705c5e5603",
+    "code": "MachineToolMaterial_ProtectiveGear_RespiratoryProtection_HalfMaskFilters"
+  },
+  {
+    "uuid": "3cf259fc-537e-4a0c-902c-f24ef9474b54",
+    "code": "MachineToolMaterial_ProtectiveGear_RespiratoryProtection_Respirators"
+  },
+  {
+    "uuid": "d9df49ad-bea3-4bc1-bc7f-5cf48b9e06ef",
+    "code": "MachineToolMaterial_ProtectiveGear_RespiratoryProtection_ProtectivePlexiglassBarrier"
+  },
+  {
+    "uuid": "59a50f16-d31e-4901-980f-0b5b7955506e",
+    "code": "MachineToolMaterial_ProtectiveGear_RespiratoryProtection_Other"
+  },
+  {
+    "uuid": "c702fa85-8de2-4239-bd84-62fe9b024582",
+    "code": "MachineToolMaterial_ElectricalInstallations_ElectricalInstallationHaberdashery_Fuse"
+  },
+  {
+    "uuid": "acaf2c73-a74c-4c25-a52f-097107bd9f88",
+    "code": "MachineToolMaterial_ElectricalInstallations_ElectricalInstallationHaberdashery_Sockets"
+  },
+  {
+    "uuid": "b0153a01-1571-4b06-bc78-caeaabbd018f",
+    "code": "MachineToolMaterial_ElectricalInstallations_ElectricalInstallationHaberdashery_Switchboards"
+  },
+  {
+    "uuid": "7fe66029-f9c3-40c3-ad3c-6986619a70f3",
+    "code": "MachineToolMaterial_ElectricalInstallations_ElectricalInstallationHaberdashery_IntercomsBells"
+  },
+  {
+    "uuid": "2c4b6a5f-eada-4e34-8d4a-8c5b7ec41cca",
+    "code": "MachineToolMaterial_ElectricalInstallations_ElectricalInstallationHaberdashery_Other"
+  },
+  {
+    "uuid": "cbd148bb-523e-4d42-9fe2-1c7d6e66053f",
+    "code": "MachineToolMaterial_ElectricalInstallations_ExtensionCables_CablesSubassemblies"
+  },
+  {
+    "uuid": "2489b15f-a642-41b1-86ae-78eaa6120af4",
+    "code": "MachineToolMaterial_ElectricalInstallations_ExtensionCables_CableReels"
+  },
+  {
+    "uuid": "31cb5d7d-daf0-43ba-ba8e-b760e7eb882e",
+    "code": "MachineToolMaterial_ElectricalInstallations_ExtensionCables_Other"
+  },
+  {
+    "uuid": "6117e2f4-cc34-4b5d-b9ed-416b0684fb9f",
+    "code": "MachineToolMaterial_ColorsFacades_DryConstruction_GypsumBoards"
+  },
+  {
+    "uuid": "c098976a-46e5-4f55-ad19-bc6fc6cdfbc6",
+    "code": "MachineToolMaterial_ColorsFacades_DryConstruction_Profiles"
+  },
+  {
+    "uuid": "1a974448-9559-4cf9-940c-e8bff7f1afa8",
+    "code": "MachineToolMaterial_ColorsFacades_DryConstruction_LevelingCompound"
+  },
+  {
+    "uuid": "443cc5b1-4fa8-4d9a-96e9-f1b73f9b343c",
+    "code": "MachineToolMaterial_ColorsFacades_DryConstruction_GroutingMass"
+  },
+  {
+    "uuid": "82b3efa1-9527-4b04-bf54-e52b197648e7",
+    "code": "MachineToolMaterial_ColorsFacades_DryConstruction_ChimneyConstruction"
+  },
+  {
+    "uuid": "0eb8300a-01fb-4ed7-a11a-4318bfe48716",
+    "code": "MachineToolMaterial_ColorsFacades_DryConstruction_Accessories"
+  },
+  {
+    "uuid": "b9ce0516-ed91-40d9-8d52-2b1e31074206",
+    "code": "MachineToolMaterial_ColorsFacades_DryConstruction_Other"
+  },
+  {
+    "uuid": "d001cda7-04e3-4b79-bcb7-9c77fa513bde",
+    "code": "MachineToolMaterial_ColorsFacades_Facade_Accessories"
+  },
+  {
+    "uuid": "3d60622a-93e1-48f1-ba4a-6e8333e91d84",
+    "code": "MachineToolMaterial_ColorsFacades_Facade_Insulation"
+  },
+  {
+    "uuid": "d02c97a9-cd1e-416a-a41b-1c7d5e141942",
+    "code": "MachineToolMaterial_ColorsFacades_Facade_Glue"
+  },
+  {
+    "uuid": "784a6782-ec01-48c2-b424-cf6d16e330d0",
+    "code": "MachineToolMaterial_ColorsFacades_Facade_Coatings"
+  },
+  {
+    "uuid": "4ff5abfe-0041-4365-8aa8-0c30bad0f92c",
+    "code": "MachineToolMaterial_ColorsFacades_Facade_Moldings"
+  },
+  {
+    "uuid": "7cab9d90-f9ea-4c35-9716-d60aabf730aa",
+    "code": "MachineToolMaterial_ColorsFacades_Facade_Other"
+  },
+  {
+    "uuid": "85387031-cccb-44d8-afed-d0bd9c3a5696",
+    "code": "MachineToolMaterial_ColorsFacades_PaintsVarnishes_Paints"
+  },
+  {
+    "uuid": "156cc39c-dc33-4f24-a6cb-e71c59102c09",
+    "code": "MachineToolMaterial_ColorsFacades_PaintsVarnishes_Varnishes"
+  },
+  {
+    "uuid": "a3f1f6c7-50d7-444a-abc5-368e95e9b6bd",
+    "code": "MachineToolMaterial_ColorsFacades_PaintsVarnishes_WallpaperStickersGlue"
+  },
+  {
+    "uuid": "d9cc9176-3774-48d0-bf5e-3d66db57d9ff",
+    "code": "MachineToolMaterial_ColorsFacades_PaintsVarnishes_Accessories"
+  },
+  {
+    "uuid": "15a89354-4890-4d40-9224-a52249512a49",
+    "code": "MachineToolMaterial_ColorsFacades_PaintsVarnishes_Sprays"
+  },
+  {
+    "uuid": "c052e69e-83a9-4d14-90ea-11f2799723e2",
+    "code": "MachineToolMaterial_ColorsFacades_PaintsVarnishes_Other"
+  },
+  {
+    "uuid": "a3ae2300-7e84-4c02-a3c5-945cb04cb282",
+    "code": "MachineToolMaterial_ColorsFacades_SiliconesGlue_Glue"
+  },
+  {
+    "uuid": "66e58d8b-4180-4e15-a069-3472e5421993",
+    "code": "MachineToolMaterial_ColorsFacades_SiliconesGlue_Silicones"
+  },
+  {
+    "uuid": "f30f9eef-afd3-4772-be62-ea6f17f61ef9",
+    "code": "MachineToolMaterial_ColorsFacades_SiliconesGlue_Other"
+  },
+  {
+    "uuid": "9a80e2f4-d229-4b53-92f4-d258926b65c2",
+    "code": "MachineToolMaterial_ConstructionCarpentry_WindowsDoorsStairs_Doors"
+  },
+  {
+    "uuid": "c33c24cc-0ed3-4981-bafb-69baa1196e0c",
+    "code": "MachineToolMaterial_ConstructionCarpentry_WindowsDoorsStairs_Stairs"
+  },
+  {
+    "uuid": "8b9ad9e4-e28b-484f-b3f2-7eff1e735d16",
+    "code": "MachineToolMaterial_ConstructionCarpentry_WindowsDoorsStairs_Windows"
+  },
+  {
+    "uuid": "07ab0058-7800-4970-b64b-0d929fd717c4",
+    "code": "MachineToolMaterial_ConstructionCarpentry_WindowsDoorsStairs_Accessories"
+  },
+  {
+    "uuid": "d21654f9-a6b6-4ddd-a372-ade2df711988",
+    "code": "MachineToolMaterial_ConstructionCarpentry_WindowsDoorsStairs_FencesGates"
+  },
+  {
+    "uuid": "583334b3-867c-4c68-aede-6dd006dc5ee0",
+    "code": "MachineToolMaterial_ConstructionCarpentry_WindowsDoorsStairs_Other"
+  },
+  {
+    "uuid": "09eaf15a-9171-4550-92c9-b53f34e11ab0",
+    "code": "MachineToolMaterial_ToolShop_ScrewsNailsDowels_Screws"
+  },
+  {
+    "uuid": "7bd9d877-fc3c-4063-870a-656d17a84c3e",
+    "code": "MachineToolMaterial_ToolShop_ScrewsNailsDowels_Nails"
+  },
+  {
+    "uuid": "37f75657-968e-410c-b541-b44bf62f2088",
+    "code": "MachineToolMaterial_ToolShop_ScrewsNailsDowels_Dowles"
+  },
+  {
+    "uuid": "f5e1b63a-3928-49c1-9d02-ba8cd67f159a",
+    "code": "MachineToolMaterial_ToolShop_ScrewsNailsDowels_Nuts"
+  },
+  {
+    "uuid": "ac4cd17d-5d20-4a87-a7ff-a75e8a20253e",
+    "code": "MachineToolMaterial_ToolShop_ScrewsNailsDowels_Washers"
+  },
+  {
+    "uuid": "61588f84-91db-4b70-9a6c-d7725400ab14",
+    "code": "MachineToolMaterial_ToolShop_ScrewsNailsDowels_Rivets"
+  },
+  {
+    "uuid": "146148ba-00ba-421a-b1cc-66d547f0cfed",
+    "code": "MachineToolMaterial_ToolShop_ScrewsNailsDowels_Other"
+  },
+  {
+    "uuid": "ba9c6110-0e33-4e76-956f-caec5842b680",
+    "code": "MachineToolMaterial_ToolShop_LocksmithingFittings_WroughtIronFence"
+  },
+  {
+    "uuid": "e28d3c06-0b45-4808-8fde-3227050dc7f5",
+    "code": "MachineToolMaterial_ToolShop_LocksmithingFittings_Padlocks"
+  },
+  {
+    "uuid": "ac81d644-2ecf-4766-bcef-68e8e7134660",
+    "code": "MachineToolMaterial_ToolShop_LocksmithingFittings_DoorHinge"
+  },
+  {
+    "uuid": "a514c401-409c-46c6-b7b4-f9824818fafa",
+    "code": "MachineToolMaterial_ToolShop_LocksmithingFittings_PlasticPlugs"
+  },
+  {
+    "uuid": "b20a537e-8ee2-4889-9714-42081bfceffb",
+    "code": "MachineToolMaterial_ToolShop_LocksmithingFittings_Locks"
+  },
+  {
+    "uuid": "62bdb2d5-ea59-4928-a462-29bae271869c",
+    "code": "MachineToolMaterial_ToolShop_LocksmithingFittings_Doorknobs"
+  },
+  {
+    "uuid": "9139661c-9470-4d4b-8d1c-818495342e10",
+    "code": "MachineToolMaterial_ToolShop_LocksmithingFittings_HydraulicShutters"
+  },
+  {
+    "uuid": "924943e6-e304-4b9c-84ed-1e46bcdf9b5e",
+    "code": "MachineToolMaterial_ToolShop_LocksmithingFittings_GatesMotors"
+  },
+  {
+    "uuid": "657f5997-31ae-42cb-bd6b-a5d937577778",
+    "code": "MachineToolMaterial_ToolShop_LocksmithingFittings_HandlesSupports"
+  },
+  {
+    "uuid": "08c49162-b4ba-439e-9c29-df6e28825558",
+    "code": "MachineToolMaterial_ToolShop_LocksmithingFittings_Other"
+  },
+  {
+    "uuid": "c7e2dbc4-04cf-46ab-ac2c-dfbc372cffc3",
+    "code": "MachineToolMaterial_ToolShop_SafesMailboxes_Mailboxes"
+  },
+  {
+    "uuid": "e4c4e198-540b-4bbf-87ba-26bf88c8547f",
+    "code": "MachineToolMaterial_ToolShop_SafesMailboxes_Safes"
+  },
+  {
+    "uuid": "7ec076e0-8d8c-4917-8153-1b9794b16147",
+    "code": "MachineToolMaterial_ToolShop_SafesMailboxes_CountingMachines"
+  },
+  {
+    "uuid": "121bb44c-20cb-4b9a-a67b-604a88a015e0",
+    "code": "MachineToolMaterial_ToolShop_SafesMailboxes_Other"
+  },
+  {
+    "uuid": "28849300-5745-4499-ac3a-6770e9e709c6",
+    "code": "MachineToolMaterial_ToolShop_CablesWiresChainsRopes_CablesWiresChainsRopes"
+  },
+  {
+    "uuid": "8b01eaed-fa28-41b1-8477-612496108802",
+    "code": "MachineToolMaterial_ToolShop_CablesWiresChainsRopes_ClampsHooks"
+  },
+  {
+    "uuid": "f67f231b-306d-49b6-8fa7-912c2051ac19",
+    "code": "MachineToolMaterial_ToolShop_CablesWiresChainsRopes_Other"
+  },
+  {
+    "uuid": "2f4a6a32-5a5d-47c6-bad5-59f626e9cdfa",
+    "code": "MachineToolMaterial_SanitaryFacilities_SanitaryFacilities_Sinks"
+  },
+  {
+    "uuid": "62804d87-a324-455e-962c-46c4a1ffa53d",
+    "code": "MachineToolMaterial_SanitaryFacilities_SanitaryFacilities_ToiletBowls"
+  },
+  {
+    "uuid": "67161149-5061-4d9f-8815-eea1bf0bc58f",
+    "code": "MachineToolMaterial_SanitaryFacilities_SanitaryFacilities_BidetsUrinals"
+  },
+  {
+    "uuid": "24775462-f513-40e8-a568-523520ee3c80",
+    "code": "MachineToolMaterial_SanitaryFacilities_SanitaryFacilities_ToiletFlushTank"
+  },
+  {
+    "uuid": "524752d3-7edf-426e-b388-f98e844fce8c",
+    "code": "MachineToolMaterial_SanitaryFacilities_SanitaryFacilities_ToiletSeats"
+  },
+  {
+    "uuid": "dd85e38e-839f-4387-8357-478b73273673",
+    "code": "MachineToolMaterial_SanitaryFacilities_SanitaryFacilities_Other"
+  },
+  {
+    "uuid": "7f956487-61cb-47ec-8c8e-729bb8586d8e",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathtubsCabinsAccessories_BathtubsCabins"
+  },
+  {
+    "uuid": "2133419c-246f-40fc-9937-7e6cb1dbff3c",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathtubsCabinsAccessories_Accessories"
+  },
+  {
+    "uuid": "ca57fc9a-9d1a-46b3-9044-443c25e5c452",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathtubsCabinsAccessories_Showers"
+  },
+  {
+    "uuid": "a588e2e4-272c-40f5-8ecf-d87728a6f2f4",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathtubsCabinsAccessories_Other"
+  },
+  {
+    "uuid": "d87bde65-d0cc-4ed2-947f-41ae93fb22a3",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathroomFurnitureMirrors_Mirror"
+  },
+  {
+    "uuid": "aac5c66d-b981-4f83-8feb-ae3e27917d19",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathroomFurnitureMirrors_Elements"
+  },
+  {
+    "uuid": "d4353a68-736b-415e-89bb-7053d65a2382",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathroomFurnitureMirrors_Chairs"
+  },
+  {
+    "uuid": "702adb86-ef4a-4be9-8552-d20b19a64441",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathroomFurnitureMirrors_BathroomElements"
+  },
+  {
+    "uuid": "e6952c45-6f1c-4ed1-a38e-563e90459c0e",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathroomFurnitureMirrors_SinkElements"
+  },
+  {
+    "uuid": "07a2f0b1-8551-43fb-bc1f-59b8536d99e9",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathroomFurnitureMirrors_Other"
+  },
+  {
+    "uuid": "2a48e710-d75d-40fa-b739-c04d6eb9efaf",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathroomAccessories_Haberdashery"
+  },
+  {
+    "uuid": "0b8ad60c-ee2e-4b46-8331-3a6a648000b9",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathroomAccessories_Rugs"
+  },
+  {
+    "uuid": "6ef24687-5c55-4ba0-9244-4e7fdae65e09",
+    "code": "MachineToolMaterial_SanitaryFacilities_BathroomAccessories_Other"
+  },
+  {
+    "uuid": "f8f661cc-ca2d-4578-85b4-f05f1cac52e4",
+    "code": "MachineToolMaterial_SanitaryFacilities_Tiles_TilesAccessories"
+  },
+  {
+    "uuid": "b4ce9a76-2106-4058-bea2-3b7600855fe4",
+    "code": "MachineToolMaterial_SanitaryFacilities_Tiles_Decorations"
+  },
+  {
+    "uuid": "7774a56c-cc3d-43bc-8e85-1e3ed8d08f29",
+    "code": "MachineToolMaterial_SanitaryFacilities_Tiles_Other"
+  },
+  {
+    "uuid": "bc199250-5988-4533-aeb0-ca76c57f5570",
+    "code": "ElectronicsTechnology_Tablets"
+  },
+  {
+    "uuid": "8fb6eb51-7eb9-4abd-b707-00e5d9ca15eb",
+    "code": "ElectronicsTechnology_Smartwatches"
+  },
+  {
+    "uuid": "aabbbb4d-9623-4814-8cc9-3c48baaca171",
+    "code": "ElectronicsTechnology_MobileDevices_CasesCovers"
+  },
+  {
+    "uuid": "6c2b63fd-2d9f-41f8-8d3f-ee83cb5bfd0c",
+    "code": "ElectronicsTechnology_MobileDevices_Powerbanks"
+  },
+  {
+    "uuid": "a2a725f4-c313-4b8d-8aaa-e5d5edfaf630",
+    "code": "ElectronicsTechnology_MobileDevices_Batteries"
+  },
+  {
+    "uuid": "dfd913ff-3dab-4482-8887-680017495869",
+    "code": "ElectronicsTechnology_MobileDevices_Chargers"
+  },
+  {
+    "uuid": "50888b30-7e26-4f3a-a46a-0b4ac2899b7d",
+    "code": "ElectronicsTechnology_MobileDevices_GlassProtectors"
+  },
+  {
+    "uuid": "a525b702-3c21-4ac0-8d30-95c7e5f5614d",
+    "code": "ElectronicsTechnology_MobileDevices_OtherAccessorirs"
+  },
+  {
+    "uuid": "2ffdeb25-4b84-47f4-8f9a-dea20f62e43c",
+    "code": "ElectronicsTechnology_Computers_Laptops"
+  },
+  {
+    "uuid": "90b532f4-1d17-4d25-b104-19cb853d270f",
+    "code": "ElectronicsTechnology_Computers_Desktops"
+  },
+  {
+    "uuid": "af8cf6d1-fad4-4d87-82df-6273d74859fd",
+    "code": "ElectronicsTechnology_Computers_Software"
+  },
+  {
+    "uuid": "20420271-31be-47eb-9116-3fbed12db4e0",
+    "code": "ElectronicsTechnology_Computers_Other"
+  },
+  {
+    "uuid": "16c60e6a-d821-4161-8433-233b634c0829",
+    "code": "ElectronicsTechnology_GamingEntertainment_GameConsoles"
+  },
+  {
+    "uuid": "00f95efa-4934-4638-ba59-a602591b3fb2",
+    "code": "ElectronicsTechnology_GamingEntertainment_Games"
+  },
+  {
+    "uuid": "70f0d530-7915-4152-b98b-5e23d8905c3d",
+    "code": "ElectronicsTechnology_GamingEntertainment_GamepadsJoysticks"
+  },
+  {
+    "uuid": "201a0e21-7f76-42f0-9baa-5a85d956b29b",
+    "code": "ElectronicsTechnology_GamingEntertainment_GamingKeyboards"
+  },
+  {
+    "uuid": "dddc7825-74e6-451a-a0b3-603bb53305ff",
+    "code": "ElectronicsTechnology_GamingEntertainment_GamingMice"
+  },
+  {
+    "uuid": "4e34704d-aec4-440a-aeab-90f57564486b",
+    "code": "ElectronicsTechnology_GamingEntertainment_GamingHeadphones"
+  },
+  {
+    "uuid": "ca0f261f-236a-41a7-906f-9143bb2b3287",
+    "code": "ElectronicsTechnology_GamingEntertainment_GamingChairsStands"
+  },
+  {
+    "uuid": "f06487f4-84d1-40d3-91f7-3a55d2355af3",
+    "code": "ElectronicsTechnology_GamingEntertainment_VRHeadsets"
+  },
+  {
+    "uuid": "ed55f712-0f39-45ae-ab8d-295c601aaabe",
+    "code": "ElectronicsTechnology_GamingEntertainment_DronesRobots"
+  },
+  {
+    "uuid": "2ca51a1e-f73a-4860-ba05-5274ac3dd655",
+    "code": "ElectronicsTechnology_GamingEntertainment_CardsCoupons"
+  },
+  {
+    "uuid": "ad55701b-eae1-45bb-a3ae-5e6c9e85928c",
+    "code": "ElectronicsTechnology_GamingEntertainment_Other"
+  },
+  {
+    "uuid": "96aabef8-3636-45f0-8b7d-f060a607b4bc",
+    "code": "ElectronicsTechnology_Electronics_TV"
+  },
+  {
+    "uuid": "37c89d89-99a0-4bfd-9027-eff9c12154d6",
+    "code": "ElectronicsTechnology_Electronics_SoundbarSystems"
+  },
+  {
+    "uuid": "d4a55fe0-e09b-4964-a65b-eb781dcbafb8",
+    "code": "ElectronicsTechnology_Electronics_TVEquipment"
+  },
+  {
+    "uuid": "6fd31b02-131d-48be-a5dd-22b3e83a54e0",
+    "code": "ElectronicsTechnology_Electronics_TVMounts"
+  },
+  {
+    "uuid": "5ad6d914-4ca0-42a7-a29a-733273815450",
+    "code": "ElectronicsTechnology_Electronics_TVBoxes"
+  },
+  {
+    "uuid": "90fd7523-9546-4fc5-96bf-e19c190755f0",
+    "code": "ElectronicsTechnology_Electronics_TVReceiversPlayers"
+  },
+  {
+    "uuid": "e31464ac-3aa5-484b-a511-81722152821a",
+    "code": "ElectronicsTechnology_Electronics_AudioSystems"
+  },
+  {
+    "uuid": "7a377242-e395-4f16-a5ac-2ffc5e72828c",
+    "code": "ElectronicsTechnology_Electronics_AudioDevices"
+  },
+  {
+    "uuid": "5abb5436-2170-436d-a215-02c6e34c3dca",
+    "code": "ElectronicsTechnology_Electronics_PortableSpeakers"
+  },
+  {
+    "uuid": "33e0229c-0a64-4636-bccf-9979f1e0d5be",
+    "code": "ElectronicsTechnology_Electronics_CamerasCamcoders"
+  },
+  {
+    "uuid": "7875b435-e9fb-4916-9c56-e49cd80189d6",
+    "code": "ElectronicsTechnology_Electronics_PhotoVideoEquipment"
+  },
+  {
+    "uuid": "a8053259-ae46-4569-83eb-72d2ffdcc67a",
+    "code": "ElectronicsTechnology_Electronics_CablesOtherEquipment"
+  },
+  {
+    "uuid": "bf9400ef-e930-4ded-9ae1-d732d1275ac8",
+    "code": "ElectronicsTechnology_Computers_LaptopAccessories_BagsBackpacks"
+  },
+  {
+    "uuid": "97adb9d6-3a21-4c4b-8800-921b88527c7c",
+    "code": "ElectronicsTechnology_Computers_LaptopAccessories_Chargers"
+  },
+  {
+    "uuid": "81749903-12a1-43f4-8e71-48df31fac2cf",
+    "code": "ElectronicsTechnology_Computers_LaptopAccessories_DockingStationsPortReplicators"
+  },
+  {
+    "uuid": "3049ca49-221d-4bdf-90a4-f07f3dfa21ae",
+    "code": "ElectronicsTechnology_Computers_LaptopAccessories_LaptopBatteries"
+  },
+  {
+    "uuid": "94fb16d4-3d0f-46a6-9775-1a30114fa067",
+    "code": "ElectronicsTechnology_Computers_LaptopAccessories_LaptopStands"
+  },
+  {
+    "uuid": "ce284625-de0c-46c7-b6c5-2657779c27ae",
+    "code": "ElectronicsTechnology_Computers_LaptopAccessories_Other"
+  },
+  {
+    "uuid": "507999a6-bb1f-4801-a960-2dc4dad93ee4",
+    "code": "ElectronicsTechnology_Computers_ComputerPeripherals_Keyboards"
+  },
+  {
+    "uuid": "2ab429e6-0a9e-4e49-832b-d3aa75746fff",
+    "code": "ElectronicsTechnology_Computers_ComputerPeripherals_MiceMousePads"
+  },
+  {
+    "uuid": "5d710c85-2fed-4f73-ae04-f41fa19c9021",
+    "code": "ElectronicsTechnology_Computers_ComputerPeripherals_Monitors"
+  },
+  {
+    "uuid": "ccf72e79-71a5-44d3-90e5-bb5d211c2ae9",
+    "code": "ElectronicsTechnology_Computers_ComputerPeripherals_HeadphonesMicrophones"
+  },
+  {
+    "uuid": "68e23831-a2b4-47d4-9be4-e25cdbd29cf0",
+    "code": "ElectronicsTechnology_Computers_ComputerPeripherals_Speakers"
+  },
+  {
+    "uuid": "430f8088-f135-48ab-bdfe-9b186c184c2a",
+    "code": "ElectronicsTechnology_Computers_ComputerPeripherals_Webcams"
+  },
+  {
+    "uuid": "ac8572ee-baa6-449f-8e3b-86dc697237ee",
+    "code": "ElectronicsTechnology_Computers_ComputerPeripherals_CablesAdapters"
+  },
+  {
+    "uuid": "d6f95a16-3974-47d2-a1d6-58fbb4f8d5ea",
+    "code": "ElectronicsTechnology_Computers_ComputerPeripherals_Other"
+  },
+  {
+    "uuid": "0942672c-1575-4d61-b40b-43dc852b5d67",
+    "code": "ElectronicsTechnology_Computers_Components_Processors"
+  },
+  {
+    "uuid": "9be4013b-0eff-4cd9-9516-159db3164ad8",
+    "code": "ElectronicsTechnology_Computers_Components_RAM"
+  },
+  {
+    "uuid": "0a9c50d0-41b4-4943-891f-3ef7c2af2fdc",
+    "code": "ElectronicsTechnology_Computers_Components_HDDSSD"
+  },
+  {
+    "uuid": "560dd26a-0eff-48c3-9bcb-49c9fd65302f",
+    "code": "ElectronicsTechnology_Computers_Components_Motherboards"
+  },
+  {
+    "uuid": "816ed8c6-f247-4ab1-8ed4-c0c492b446a9",
+    "code": "ElectronicsTechnology_Computers_Components_GraphicsCards"
+  },
+  {
+    "uuid": "b4bbeaf7-0ad4-485e-8f7f-9f26136491f2",
+    "code": "ElectronicsTechnology_Computers_Components_PowerSupplies"
+  },
+  {
+    "uuid": "63895aa0-4c47-4bd4-b2df-19f635dffba0",
+    "code": "ElectronicsTechnology_Computers_Components_CoolingSystems"
+  },
+  {
+    "uuid": "55d6f4bf-9c76-4ebb-b38a-61b85b43ee46",
+    "code": "ElectronicsTechnology_Computers_Components_ComputerCases"
+  },
+  {
+    "uuid": "98741c30-7ebf-44ec-bf1c-92e024a2b1f5",
+    "code": "ElectronicsTechnology_Computers_Components_NetworkInterfaceCards"
+  },
+  {
+    "uuid": "e68c7dc1-f6a0-4e7b-ad15-cc6f58547a42",
+    "code": "ElectronicsTechnology_Computers_Components_OtherComponents"
+  },
+  {
+    "uuid": "dec463d6-ab08-4bb4-9240-afb5ed26b914",
+    "code": "ElectronicsTechnology_Computers_NetworkDevices_Routers"
+  },
+  {
+    "uuid": "b9a1017b-f3e9-4ed7-85d1-b9fa7f82c64c",
+    "code": "ElectronicsTechnology_Computers_NetworkDevices_Switches"
+  },
+  {
+    "uuid": "eaf408ac-0a38-4b6c-a1da-ef244ffc8777",
+    "code": "ElectronicsTechnology_Computers_NetworkDevices_APs"
+  },
+  {
+    "uuid": "afc09160-4e7d-4f3b-a4c8-5d408cdaa94c",
+    "code": "ElectronicsTechnology_Computers_NetworkDevices_NASDrives"
+  },
+  {
+    "uuid": "535772fe-706e-4524-9b22-f620be62d9cf",
+    "code": "ElectronicsTechnology_Computers_NetworkDevices_SignalBoosters"
+  },
+  {
+    "uuid": "d00056f2-7ad7-4f3c-8562-557c62285293",
+    "code": "ElectronicsTechnology_Computers_NetworkDevices_PowerlineAdapters"
+  },
+  {
+    "uuid": "e6a4f004-43fa-4c92-853e-8d6ae9f0f44c",
+    "code": "ElectronicsTechnology_Computers_NetworkDevices_UPS"
+  },
+  {
+    "uuid": "bed91899-f508-420f-95c0-ef69ae750f21",
+    "code": "ElectronicsTechnology_Computers_NetworkDevices_CablesConnectors"
+  },
+  {
+    "uuid": "2ceb1460-d693-4b5d-b530-9f9f6f2c8db5",
+    "code": "ElectronicsTechnology_Computers_NetworkDevices_OtherNetworkEquipment"
+  },
+  {
+    "uuid": "a5725c91-faab-4569-844e-68f5729d184f",
+    "code": "ElectronicsTechnology_Computers_PrintersScanners_Printers"
+  },
+  {
+    "uuid": "51f46c5e-c1d7-4e18-84a7-29027257396a",
+    "code": "ElectronicsTechnology_Computers_PrintersScanners_Scanners"
+  },
+  {
+    "uuid": "c7d33063-c0e9-4cc8-9fe2-70b69dab7b0c",
+    "code": "ElectronicsTechnology_Computers_PrintersScanners_MultifunctionalDevices"
+  },
+  {
+    "uuid": "652b4008-be8d-435c-8761-92b4db30d2ae",
+    "code": "ElectronicsTechnology_Computers_PrintersScanners_InksToners"
+  },
+  {
+    "uuid": "eec55f47-c346-49f6-9436-d761bd89fec3",
+    "code": "ElectronicsTechnology_Computers_PrintersScanners_3DPrintersAccessories"
+  },
+  {
+    "uuid": "200bcb0e-d7dd-44c8-8252-d2cb701bf9d1",
+    "code": "ElectronicsTechnology_Computers_PrintersScanners_Other"
+  },
+  {
+    "uuid": "dabd9f61-8d98-42ee-b852-fc5b27a78bf9",
+    "code": "ElectronicsTechnology_Computers_Storage_ExternalHDDDevices"
+  },
+  {
+    "uuid": "5302759c-8fb2-4b6f-8b4b-f0919bcb1551",
+    "code": "ElectronicsTechnology_Computers_Storage_USBFlashMemory"
+  },
+  {
+    "uuid": "9ca1d551-eac4-4d00-a17d-756deceaa0e5",
+    "code": "ElectronicsTechnology_Computers_Storage_MemoryCards"
+  },
+  {
+    "uuid": "0cdca181-4807-4aed-994f-2fe0aca84c70",
+    "code": "ElectronicsTechnology_Computers_Storage_ExternalCDDVDDevices"
+  },
+  {
+    "uuid": "62709d17-d8f6-4a85-93a6-83700bba8e7c",
+    "code": "ElectronicsTechnology_Computers_Storage_HDDEnclosuresDockStations"
+  },
+  {
+    "uuid": "798558ff-c1d9-4f53-b39d-5c78617c4e28",
+    "code": "ElectronicsTechnology_Computers_Storage_Other"
+  },
+  {
+    "uuid": "d46be4a1-5bfd-4612-9f9e-8cf0c6285666",
+    "code": "ElectronicsTechnology_HouseholdAppliances_Appliances_Refrigerators"
+  },
+  {
+    "uuid": "c08f7679-b5b1-4b80-a21a-9fde7358ca47",
+    "code": "ElectronicsTechnology_HouseholdAppliances_Appliances_ElectricStoves"
+  },
+  {
+    "uuid": "923c9198-0ffe-42d0-96b0-7a1cfc4d5d34",
+    "code": "ElectronicsTechnology_HouseholdAppliances_Appliances_BuiltinOvens"
+  },
+  {
+    "uuid": "a33adc2f-e985-45db-aac1-76e5d6baca06",
+    "code": "ElectronicsTechnology_HouseholdAppliances_Appliances_BuiltinHobs"
+  },
+  {
+    "uuid": "61ab750e-2d0c-49af-a4e1-d00ec660ea68",
+    "code": "ElectronicsTechnology_HouseholdAppliances_Appliances_Dishwashers"
+  },
+  {
+    "uuid": "80d83c5a-d89c-45be-ba53-c10d262110dc",
+    "code": "ElectronicsTechnology_HouseholdAppliances_Appliances_RangeHoods"
+  },
+  {
+    "uuid": "d95d0f92-a9ac-4cfb-84b8-692a91f8864b",
+    "code": "ElectronicsTechnology_HouseholdAppliances_Appliances_WashingMachines"
+  },
+  {
+    "uuid": "d354e45d-32f7-4468-88d8-19f457490b84",
+    "code": "ElectronicsTechnology_HouseholdAppliances_Appliances_ClothesDryers"
+  },
+  {
+    "uuid": "056b188c-c39c-4b50-abf6-0432149b4d91",
+    "code": "ElectronicsTechnology_HouseholdAppliances_Appliances_WaterHeaters"
+  },
+  {
+    "uuid": "4ec59adf-4f54-4ad5-9524-d54fcc268ef7",
+    "code": "ElectronicsTechnology_HouseholdAppliances_Appliances_Other"
+  },
+  {
+    "uuid": "3992ea20-7202-40b5-b7ce-0fa5393070d6",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_Blenders"
+  },
+  {
+    "uuid": "7d625fe8-fcbd-457c-b4a5-8877af5f4716",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_CoffeeMachines"
+  },
+  {
+    "uuid": "6a32f4f8-ad67-492d-bff7-d44de1bfc583",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_ElectricKettles"
+  },
+  {
+    "uuid": "d6fcded0-6a1b-4a15-a934-2ca13dd432ee",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_Toasters"
+  },
+  {
+    "uuid": "d4aaf213-c5b0-46c9-9089-4c2fc1e59999",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_Microwaves"
+  },
+  {
+    "uuid": "1a779b0c-f4e8-427d-8ab1-ec22a38e84db",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_DeepFryers"
+  },
+  {
+    "uuid": "1f1bc419-c285-4748-9df4-c7d554df82c6",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_Mixers"
+  },
+  {
+    "uuid": "6d100f77-9687-4b09-9069-e8d5ce703cc0",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_Scales"
+  },
+  {
+    "uuid": "5a385d3b-0612-47cf-8cd7-bfb00257a911",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_Cookware"
+  },
+  {
+    "uuid": "e7fcb902-ebec-4c9b-b01a-f5e1a5142102",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_VacuumCleaners"
+  },
+  {
+    "uuid": "08b64498-8bf0-4d72-86e7-42fd2dee24a9",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_Irons"
+  },
+  {
+    "uuid": "a67fe907-05b4-4298-9fc1-1b76978bbd49",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_Thermostats"
+  },
+  {
+    "uuid": "68abf03e-61ef-4730-ae5a-4572f71837c6",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomePersonalCare_AirFresheners"
+  },
+  {
+    "uuid": "20e9fb2d-54d7-446c-ae0e-ca7b3af54221",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomePersonalCare_AirPurifiers"
+  },
+  {
+    "uuid": "23af45e7-5ff9-4f7b-af1c-e28ebf7622ab",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomePersonalCare_WaterPurifiers"
+  },
+  {
+    "uuid": "323fde29-c365-4949-8300-0239014b81ca",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomePersonalCare_BodyScales"
+  },
+  {
+    "uuid": "61162de0-6f26-4ee2-a3db-ce052f09e4a0",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomePersonalCare_Other"
+  },
+  {
+    "uuid": "52b3e31d-ac9c-43ce-864e-b784b1127a9f",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HeatingCooling_HeatPumps"
+  },
+  {
+    "uuid": "622c7107-8dba-4e54-baaf-af41cc582ff6",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HeatingCooling_Fans"
+  },
+  {
+    "uuid": "3a60ed7a-78d4-4bc4-b2af-5ba81b3b2f69",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HeatingCooling_Heaters"
+  },
+  {
+    "uuid": "307d79cf-d3c1-4665-9988-b93d9810f286",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HeatingCooling_Other"
+  },
+  {
+    "uuid": "1021d275-ec8f-4e9d-80bc-5f6139ddb64f",
+    "code": "Vehicles_Snowmobiles"
+  },
+  {
+    "uuid": "4658af81-7299-495f-bd75-7b367b252e71",
+    "code": "Vehicles_Tires"
+  },
+  {
+    "uuid": "ebf6d050-5a36-40c1-b46f-712c3612e8cd",
+    "code": "Vehicles_RimsWheelCaps_Rims"
+  },
+  {
+    "uuid": "396ee9d6-5288-47e2-b5d5-91a84a169a76",
+    "code": "Vehicles_Parts_Other"
+  },
+  {
+    "uuid": "bbf41795-6d55-41b9-a618-0bd2e5715d33",
+    "code": "Vehicles_Parts_SparePartsForMotorcycles_Jackets"
+  },
+  {
+    "uuid": "90677d8e-8a3a-4f75-a9c9-f4eba15fb456",
+    "code": "Vehicles_Parts_SparePartsForConstructionMachinery"
+  },
+  {
+    "uuid": "d3c28b53-faa6-4d7d-a6d7-002e2027220a",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_CarEquipment"
+  },
+  {
+    "uuid": "f0c1edb8-30ba-4d54-9b7d-c1e11e3e4f51",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_CarCosmetics"
+  },
+  {
+    "uuid": "3d3af6d6-2e5d-410c-9203-ea46c7d796a7",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_Other"
+  },
+  {
+    "uuid": "b95bf465-f861-4b0e-9f15-bb4d818fef25",
+    "code": "Vehicles_Parts_SparePartsForTrucks_SpareParts"
+  },
+  {
+    "uuid": "82079a01-3bf3-411e-bbbb-530d93d8bbb0",
+    "code": "Vehicles_Parts_SparePartsForTrucks_Equipment"
+  },
+  {
+    "uuid": "22e7d829-2be1-47aa-8578-c710b1868978",
+    "code": "Vehicles_Parts_SparePartsForTrucks_Other"
+  },
+  {
+    "uuid": "a7414ff8-71c4-49e0-993d-553d730ec1f2",
+    "code": "Vehicles_Parts_SparePartsForAgriculturalVehicles_TractorParts"
+  },
+  {
+    "uuid": "0499c137-2bfe-4fed-bdf5-3e0220b2a4f5",
+    "code": "Vehicles_Parts_SparePartsForAgriculturalVehicles_CombineHarvesterParts"
+  },
+  {
+    "uuid": "2e1caecf-f053-4a96-9310-0297cfa9b63b",
+    "code": "Vehicles_Parts_SparePartsForAgriculturalVehicles_PartsForMotorCultivators"
+  },
+  {
+    "uuid": "a4aeeedf-ae0d-473c-a004-2e8698b4c5a5",
+    "code": "Vehicles_Parts_SparePartsForAgriculturalVehicles_Other"
+  },
+  {
+    "uuid": "33623ba0-1ca4-42b2-bbb7-bcf3dbdc035f",
+    "code": "Vehicles_Parts_SparePartsForBusesCampers_SparePartsForBuses"
+  },
+  {
+    "uuid": "c7d9804f-7975-4d02-8f7e-01894aa31841",
+    "code": "Vehicles_Parts_SparePartsForBusesCampers_BusEquipment"
+  },
+  {
+    "uuid": "071eba5b-9f76-4241-b36d-356943c65049",
+    "code": "Vehicles_Parts_SparePartsForBusesCampers_SparePartsForCampers"
+  },
+  {
+    "uuid": "8a565cfa-49cd-4bbc-8a0a-ee340e76169e",
+    "code": "Vehicles_Parts_SparePartsForBusesCampers_CampersEquipment"
+  },
+  {
+    "uuid": "6584c945-cb94-4193-9b98-e0eb366e37fa",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_EngineDrivetrain"
+  },
+  {
+    "uuid": "69027c08-a750-4d83-b880-c6ba920569c0",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_Filters"
+  },
+  {
+    "uuid": "2d1dfd75-8c8b-4ad2-a444-6a5309d8c719",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_OilsLiquids"
+  },
+  {
+    "uuid": "103a061a-1f0d-4bc0-b93c-751d4f03ea78",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_BodyworkAutoBodywork"
+  },
+  {
+    "uuid": "934c0913-92f9-4bab-a7ff-cd2e8c786189",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_RelianceControlSystem"
+  },
+  {
+    "uuid": "f717b667-ba75-4be7-a008-7d3179ed9001",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_BrakesBrakingSystem"
+  },
+  {
+    "uuid": "8de48d10-159b-4642-86aa-bde708704450",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_CarGlass"
+  },
+  {
+    "uuid": "ec438c95-3488-4dff-8af5-9192fcb345a8",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_VentilationAirConditioningHeating"
+  },
+  {
+    "uuid": "7714bc73-f508-4d72-99c7-8a6b35857870",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_Electrics"
+  },
+  {
+    "uuid": "c2295dd7-1124-488b-98ea-724e43701b28",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_Electronics"
+  },
+  {
+    "uuid": "cd17a55d-e6f4-4606-a203-efdfb9d29642",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_HeadlightsLightBulbsLights"
+  },
+  {
+    "uuid": "60db90dd-89b1-4d4f-9784-56b031470ecd",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_InteriorParts"
+  },
+  {
+    "uuid": "c36d2219-8d35-445e-a38f-2f73d0729cbb",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_ExhaustSystem"
+  },
+  {
+    "uuid": "f9b80ddd-178f-451d-bbb6-dc254c19a5aa",
+    "code": "Vehicles_Parts_SparePartsEquipmentForCars_SpareParts_OtherSpareParts"
+  },
+  {
+    "uuid": "87a13919-70e4-47a2-af61-4b6f7a24c25a",
+    "code": "Vehicles_Parts_SparePartsForMotorcycles_MotorcycleTiresRims"
+  },
+  {
+    "uuid": "fc359e89-1fea-45ab-b238-e624307760d8",
+    "code": "Vehicles_Parts_SparePartsForMotorcycles_ExhaustSystem"
+  },
+  {
+    "uuid": "aa5a8dfd-5455-4b50-a570-cb9dc0b41be1",
+    "code": "Vehicles_Parts_SparePartsForMotorcycles_BatteriesParts"
+  },
+  {
+    "uuid": "82003e3d-40d4-42ad-ba67-60764250ff76",
+    "code": "Vehicles_Parts_SparePartsForMotorcycles_OtherMotorcycleParts"
+  },
+  {
+    "uuid": "ccba649c-234d-41ac-99e6-27d09160679a",
+    "code": "Vehicles_Parts_SparePartsForMotorcycles_Helmets"
+  },
+  {
+    "uuid": "8d348f89-eb3c-455b-8fab-98cf31fa1834",
+    "code": "Vehicles_Parts_SparePartsForMotorcycles_Boots"
+  },
+  {
+    "uuid": "ef109ee5-6609-48ee-b62f-e38956b9a45d",
+    "code": "Vehicles_Parts_SparePartsForMotorcycles_Pants"
+  },
+  {
+    "uuid": "cc9ea305-17c9-4fdb-868b-8db5475abd3d",
+    "code": "Vehicles_Parts_SparePartsForMotorcycles_Suits"
+  },
+  {
+    "uuid": "16f2e85a-524c-4fc5-a050-73c04e53da8f",
+    "code": "Vehicles_Parts_SparePartsForMotorcycles_Gloves"
+  },
+  {
+    "uuid": "7c192f4b-56fa-4682-9d59-7f41a40ab983",
+    "code": "Vehicles_Parts_SparePartsForMotorcycles_Protectors"
+  },
+  {
+    "uuid": "b6f42b6b-73eb-4e27-99c5-46599eeb0aa0",
+    "code": "IndustryBusiness_Agriculture_AgriculturalMachinery_OtherSpecializedMachinery"
+  },
+  {
+    "uuid": "7ce37883-e461-410d-8db9-0fa04c5fe147",
+    "code": "IndustryBusiness_Agriculture_AgriculturalMachinery_PartsAccessoriesForTractorsCultivators"
+  },
+  {
+    "uuid": "534e959b-55a3-4e3d-a779-429615663275",
+    "code": "IndustryBusiness_Agriculture_DodatnaOpremaIPotrepTine"
+  },
+  {
+    "uuid": "28ed208a-125e-4895-a867-239ca583d9b8",
+    "code": "ElectronicsTechnology_MobileDevices_Landlines"
+  },
+  {
+    "uuid": "83f71bcc-0d5e-442f-a1a5-cfc928b400ea",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_Other"
+  },
+  {
+    "uuid": "3fea5ada-b52c-4a3e-a32a-982e16f6c276",
+    "code": "ElectronicsTechnology_Electronics_ScootersAccessories"
+  },
+  {
+    "uuid": "f8c4fd83-118e-4c0f-a7b5-f0a2600b68cb",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_Choppers"
+  },
+  {
+    "uuid": "81551abe-b68b-4663-9547-65a3876910d6",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_Foodmachines"
+  },
+  {
+    "uuid": "8a2f1f7f-7ea1-43ff-8f46-eb21d72b157c",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomePersonalCare_Sewingmachines"
+  },
+  {
+    "uuid": "c24eed70-4cf3-4ba4-b928-52a2f343c0ee",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_Steammop"
+  },
+  {
+    "uuid": "4be4bfed-cdf6-4b1d-bd8b-52d7102fa9ef",
+    "code": "ElectronicsTechnology_HouseholdAppliances_Appliances_Freezers"
+  },
+  {
+    "uuid": "0a8a523a-2d94-4c94-9f63-ad6224c53ca6",
+    "code": "BeautyHealth_Health_AdditivesSupplements_Proteins"
+  },
+  {
+    "uuid": "1a19f2b1-f2ba-4f3f-9016-f68f206013a9",
+    "code": "SportRecreation_Biking"
+  },
+  {
+    "uuid": "ee09737b-e1c3-4738-bb11-66649f0d7dc5",
+    "code": "SportRecreation_Men_Sneakers"
+  },
+  {
+    "uuid": "e5d0407f-8571-497c-b6cd-f7552165b917",
+    "code": "SportRecreation_Men_OtherFootwear"
+  },
+  {
+    "uuid": "ca858525-b345-41ec-9329-7f2c591c1d22",
+    "code": "SportRecreation_Women_Sneakers"
+  },
+  {
+    "uuid": "5708c8ea-da85-4dff-92ea-7c98c0a236ca",
+    "code": "SportRecreation_Women_OtherFootwear"
+  },
+  {
+    "uuid": "5503d1ec-56bd-4e50-8f46-f324749000ce",
+    "code": "SportRecreation_Kids_Sneakers"
+  },
+  {
+    "uuid": "b688c20a-3918-4892-ab2e-585c8202b6a3",
+    "code": "SportRecreation_Equipment_Balls"
+  },
+  {
+    "uuid": "b66b6b95-7428-4488-ab51-33362eb92914",
+    "code": "SportRecreation_Equipment_Jerseys"
+  },
+  {
+    "uuid": "9ca11bc5-c430-4d14-9c04-710fe5ec2f68",
+    "code": "SportRecreation_Equipment_FootballBoots"
+  },
+  {
+    "uuid": "7aba6c28-47e2-45f1-969e-48721db16fdf",
+    "code": "SportRecreation_Equipment_Accessories"
+  },
+  {
+    "uuid": "26471af2-6303-4e6b-8b57-48e3a15b31c2",
+    "code": "SportRecreation_Equipment_Sportswear"
+  },
+  {
+    "uuid": "a9021298-3ff7-4691-8300-5b92e493b0fb",
+    "code": "SportRecreation_Skiing_Skis"
+  },
+  {
+    "uuid": "05bd6b6e-bd34-40f7-8cc4-1745b278779a",
+    "code": "SportRecreation_Skiing_SkiBoots"
+  },
+  {
+    "uuid": "e74e7d99-4850-4d55-8aa7-e0f9d4157f37",
+    "code": "SportRecreation_Skiing_SnowboardBoots"
+  },
+  {
+    "uuid": "11a1fc6e-a52d-406e-97e0-37ff2628a800",
+    "code": "SportRecreation_Skiing_Sticks"
+  },
+  {
+    "uuid": "6c84af97-37dc-4b64-a73f-ac9d6e82dfe8",
+    "code": "SportRecreation_Skiing_Helmets"
+  },
+  {
+    "uuid": "0b5c6150-e202-4cef-9f79-e5387d6ac30e",
+    "code": "SportRecreation_Skiing_SkiGoggles"
+  },
+  {
+    "uuid": "3c0a1751-c9ee-438e-b70d-a1bf21b5fc1e",
+    "code": "SportRecreation_Skiing_OtherEquipment"
+  },
+  {
+    "uuid": "61d38bcb-96d0-466e-8576-2c979f8c6421",
+    "code": "SportRecreation_Men_Clothes_Tracksuit"
+  },
+  {
+    "uuid": "f3d11a4e-9eef-4b83-aa5c-ce6cae2f6142",
+    "code": "SportRecreation_Men_Clothes_Sweatshirts"
+  },
+  {
+    "uuid": "41394d53-d20e-4bdc-9487-87df85007023",
+    "code": "SportRecreation_Men_Clothes_TShirts"
+  },
+  {
+    "uuid": "c1083e09-fced-4e1d-9dec-b42072fb9fb4",
+    "code": "SportRecreation_Men_Clothes_Jackets"
+  },
+  {
+    "uuid": "99dacac4-dcd2-457f-a042-a611e9f5ae56",
+    "code": "SportRecreation_Men_Clothes_Shorts"
+  },
+  {
+    "uuid": "82cd956b-cda8-4dd1-8f10-8fb80d7142f6",
+    "code": "SportRecreation_Women_Clothes_Tracksuit"
+  },
+  {
+    "uuid": "51d491b9-f801-4425-a833-8cf5e9939939",
+    "code": "SportRecreation_Women_Clothes_Sweatshirts"
+  },
+  {
+    "uuid": "771ecfb7-f6c0-437f-b49d-99bf7da39601",
+    "code": "SportRecreation_Women_Clothes_TShirts"
+  },
+  {
+    "uuid": "215d522b-61d0-4e20-80ee-93e7cf289e64",
+    "code": "SportRecreation_Women_Clothes_Leggings"
+  },
+  {
+    "uuid": "a56edd66-1e66-4df4-b7e1-850da781a262",
+    "code": "SportRecreation_Women_Clothes_Jackets"
+  },
+  {
+    "uuid": "545dba1f-7848-4ce0-a7d1-cc8874d02784",
+    "code": "SportRecreation_Women_Clothes_Shorts"
+  },
+  {
+    "uuid": "9007836e-369d-4b62-b50e-20304020a5c4",
+    "code": "SportRecreation_Women_Clothes_SportsDresses"
+  },
+  {
+    "uuid": "d942a568-a3e5-4546-b857-9fe88b88a070",
+    "code": "SportRecreation_Kids_Clothes_Tracksuit"
+  },
+  {
+    "uuid": "2c3b07f7-9d92-41fd-adbc-f688eb5dd059",
+    "code": "SportRecreation_Kids_Clothes_Sweatshirts"
+  },
+  {
+    "uuid": "3cf4d48f-be5b-4570-9ec7-508daf4fd4cb",
+    "code": "SportRecreation_Kids_Clothes_Jackets"
+  },
+  {
+    "uuid": "30d8c501-3e10-4f92-8135-989877933597",
+    "code": "SportRecreation_Kids_Clothes_Shorts"
+  },
+  {
+    "uuid": "b77de49f-16ea-4e0c-936d-500d75d69c3c",
+    "code": "SportRecreation_Equipment_AllSportEquipment_Soccer"
+  },
+  {
+    "uuid": "db1fbf71-f033-4f8d-834f-b9cb1c784f95",
+    "code": "SportRecreation_Equipment_AllSportEquipment_Tennis"
+  },
+  {
+    "uuid": "56080427-a534-43c1-95c9-6dc9e66707ab",
+    "code": "SportRecreation_Equipment_AllSportEquipment_Basketball"
+  },
+  {
+    "uuid": "bdfda15b-9694-4638-a8ff-ee06730f19e3",
+    "code": "SportRecreation_Equipment_AllSportEquipment_Handball"
+  },
+  {
+    "uuid": "d2174bd2-5e88-441c-a0d0-cc4f8848cc35",
+    "code": "SportRecreation_Equipment_AllSportEquipment_Volleyball"
+  },
+  {
+    "uuid": "4e36b844-6950-47fc-8c9d-a9edeaa51c29",
+    "code": "SportRecreation_Equipment_AllSportEquipment_Water_Sports_Equipment"
+  },
+  {
+    "uuid": "ba82ee8d-4f06-4338-9ffa-e3b4e5c2f0c3",
+    "code": "SportRecreation_Equipment_AllSportEquipment_Fitness_Exercise_Equipment"
+  },
+  {
+    "uuid": "7ad964e6-c049-4a7d-b1cf-4abbd4b7cd6b",
+    "code": "SportRecreation_Equipment_AllSportEquipment_Extreme_Sports_Equipment"
+  },
+  {
+    "uuid": "44bf0aa7-dbb9-4cdf-8264-7da627fcf68a",
+    "code": "SportRecreation_Equipment_AllSportEquipment_Other_Sports_Equipment"
+  },
+  {
+    "uuid": "669795dc-8ff0-4f21-a63f-b8c5fcc47478",
+    "code": "IndustryBusiness_Agriculture_AgriculturalPharmacy_Pesticides"
+  },
+  {
+    "uuid": "6125279e-1163-478d-9931-397f4e77f042",
+    "code": "IndustryBusiness_Agriculture_AgriculturalPharmacy_Biocides"
+  },
+  {
+    "uuid": "5034b137-b80f-4fa9-94e8-635fec864e47",
+    "code": "IndustryBusiness_Agriculture_AgriculturalPharmacy_Seeds"
+  },
+  {
+    "uuid": "fdd20bc4-c5b7-4730-9db3-8e86a6468434",
+    "code": "IndustryBusiness_Agriculture_AgriculturalPharmacy_Fertilizer"
+  },
+  {
+    "uuid": "50b2d36c-3d2f-4610-af83-69435fd8629a",
+    "code": "IndustryBusiness_Agriculture_AgriculturalPharmacy_Substrates"
+  },
+  {
+    "uuid": "7dc32b06-6d7a-4d60-a9ba-3a6e530e1bdc",
+    "code": "IndustryBusiness_Agriculture_AgriculturalPharmacy_Greenhousesequipment"
+  },
+  {
+    "uuid": "0b516d60-324e-4c2c-9927-ba39cf2ed948",
+    "code": "SportRecreation_Skiing_Snowboard"
+  },
+  {
+    "uuid": "38e9f69e-cdbb-423c-8c5e-80c852f3d6d8",
+    "code": "IndustryBusiness_Agriculture_AgriculturalPharmacy_Other"
+  },
+  {
+    "uuid": "adc18ba0-b64e-46f2-ace0-095e4db8c295",
+    "code": "SportRecreation_Equipment_FishingEquipment"
+  },
+  {
+    "uuid": "d79518b9-73a2-4452-a566-543d4bf48c94",
+    "code": "SportRecreation_Equipment_CampEquipment_Tents"
+  },
+  {
+    "uuid": "9704a9d0-f5d8-410f-b46a-999126e96524",
+    "code": "SportRecreation_Equipment_CampEquipment_SleepingBags"
+  },
+  {
+    "uuid": "12baac36-b2eb-4fa5-b152-c1ed47905024",
+    "code": "SportRecreation_Equipment_CampEquipment_Backpack"
+  },
+  {
+    "uuid": "d682e401-5493-4c08-b2a6-de18bd417559",
+    "code": "SportRecreation_Equipment_CampEquipment_Other"
+  },
+  {
+    "uuid": "524010df-a010-46ee-80fa-798b57a994a2",
+    "code": "IndustryBusiness_Workwear"
+  },
+  {
+    "uuid": "e86e11a9-97e2-48f8-b2d0-13306fa01d4a",
+    "code": "Vehicles_RimsWheelCaps_Ratkape"
+  },
+  {
+    "uuid": "b5c7b519-0d6b-4f25-a120-f65c42eb0410",
+    "code": "BeautyHealth_Beard_Accessories_BeardStylingCosmetics"
+  },
+  {
+    "uuid": "18096338-20c4-48e8-9991-8934687c7208",
+    "code": "BeautyHealth_Beard_Accessories_Shaver"
+  },
+  {
+    "uuid": "61c573cf-8c21-4541-84c7-1907f64bea6d",
+    "code": "Art_ArtPaintings_Tapestry"
+  },
+  {
+    "uuid": "1a61d4ef-ce57-4b04-9c20-ab79ebd1cad7",
+    "code": "IndustryBusiness_CivilEngineering_BuildingMaterials"
+  },
+  {
+    "uuid": "cf1a0f5d-d668-4358-b7ad-c83938fdfeec",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_PortableStove"
+  },
+  {
+    "uuid": "e6f717dc-6949-4a64-b550-c59e715e9b26",
+    "code": "MomBaby_BabyCare_Cosmetics_VlaneMaramice"
+  },
+  {
+    "uuid": "ba5bbd84-0427-4285-b2f2-fb21047fa9bc",
+    "code": "ElectronicsTechnology_HouseholdAppliances_HomeDevices_MiniOvens"
+  },
+  {
+    "uuid": "b792881a-2a37-4915-8062-b8b873daa681",
+    "code": "ElectronicsTechnology_Electronics_Batteries"
+  },
+  {
+    "uuid": "fe9d45d0-8bd2-4dba-8811-8fad3ae31b82",
+    "code": "MomBaby_Toys_Baby_ChildrenVehicles"
+  },
+  {
+    "uuid": "cec6bf8c-8668-4b43-8de6-3f9d25dfdd84",
+    "code": "MomBaby_Toys_Kids_ArmchairsTablesChairs"
+  },
+  {
+    "uuid": "6aebb226-0180-4e9d-9c0d-b244bf6b7fef",
+    "code": "MomBaby_BabyEquipment_BabyBedding"
+  },
+  {
+    "uuid": "1c320a0b-7fee-4f7f-874e-34d981f64ec7",
+    "code": "ElectronicsTechnology_Electronics_OtherElectronicEquipment"
+  },
+  {
+    "uuid": "dcc3296c-6a65-4489-9320-e29b9f740743",
+    "code": "ElectronicsTechnology_Electronics_SurveillanceCameras"
+  },
+  {
+    "uuid": "97f0599e-c206-4df0-936a-2711e78d060c",
+    "code": "ElectronicsTechnology_OtherElectronicsTechnic"
+  },
+  {
+    "uuid": "fbe2efe1-8c79-4791-b40d-18169029ab22",
+    "code": "Fashion_Other"
+  },
+  {
+    "uuid": "6666e7cc-5ae6-4bd9-bfa8-498acbf0ec69",
+    "code": "SportRecreation_Equipment_RollerSkatesSkates"
+  },
+  {
+    "uuid": "550e3826-4990-4d8a-ab29-530dc06a3d34",
+    "code": "ElectronicsTechnology_Electronics_SafetyDevices"
+  },
+  {
+    "uuid": "069ec90d-8df5-48e2-892a-f1288f2d14fd",
+    "code": "IndustryBusiness_IndustryBusinessOther"
+  },
+  {
+    "uuid": "1deb5786-a3b8-4350-88d7-35788a074644",
+    "code": "MachineToolMaterial_OtherMachinesToolsMaterials"
+  },
+  {
+    "uuid": "dab9e9fe-d863-47f3-bc89-7ca244df2753",
+    "code": "MomBaby_OtherForMomBaby"
+  },
+  {
+    "uuid": "7ed3799d-1d3c-4575-b1f4-18d60baca679",
+    "code": "SportRecreation_SportsRecreationOther"
+  },
+  {
+    "uuid": "ed6f267f-b17f-47f6-a8d3-18dfa65c9892",
+    "code": "BeautyHealth_BeautyHealthOther"
+  },
+  {
+    "uuid": "f9cb7675-a47e-47ef-a775-7bab7f7197e4",
+    "code": "MyHome_MyHomeOther"
+  },
+  {
+    "uuid": "ec6a3a6b-8159-42e3-ac83-f27cc25e2a66",
+    "code": "Animals_AnimalsOther"
+  },
+  {
+    "uuid": "d47698e4-b292-4ba4-b343-a2598c71f722",
+    "code": "Entertainment_OtherEntertainment"
+  },
+  {
+    "uuid": "e55bee4e-be23-4c9d-8f2a-a9ae2ff99ec4",
+    "code": "Art_OtherFromArt"
+  },
+  {
+    "uuid": "528c902e-2e31-4142-97c6-0b51f51b2b25",
+    "code": "ElectronicsTechnology_Electronics_ElectricBicycles"
+  },
+  {
+    "uuid": "4ecf5d94-9ddf-4a66-9ed6-51e0fe9e81d4",
+    "code": "Vehicles_RimsWheelCaps_AdditionalEquipment"
+  },
+  {
+    "uuid": "1edca110-49bc-475f-adca-9edccdaf14eb",
+    "code": "Vehicles_Parts_SparePartsForBoats"
+  }
+]
