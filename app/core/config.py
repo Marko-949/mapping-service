@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", "")
     
     REDIS_URL: str = os.getenv("REDIS_URL", "")
-
+    MUNGOS_API_URL: str = os.getenv("MUNGOS_API_URL", "")
     BASE_DIR: Path = Path(__file__).parent.parent
     DATA_DIR: Path = BASE_DIR / "data" 
     

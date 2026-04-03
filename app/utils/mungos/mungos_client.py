@@ -1,10 +1,10 @@
 import requests
 import logging
-
+from app.core.config import settings
 logger = logging.getLogger(__name__)
 
 def get_mungos_attributes(category_id, token):
-    url = f"https://mungos.ba/api/v1/core/reference_data/attributes_for_category?categoryUuid={category_id}"
+    url = f"{settings.MUNGOS_API_URL}/reference_data/attributes_for_category?categoryUuid={category_id}"
     
     headers = {
         "Authorization": f"Bearer {token}",
