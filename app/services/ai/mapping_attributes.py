@@ -7,11 +7,7 @@ logger = logging.getLogger(__name__)
 
 class AttributeMapper:
     def get_mapped_data_as_json(self, specific_category_attributes, mungos_attributes):
-        """
-        Priprema prompt i poziva GeminiClient.
-        """
         try:
-            # Priprema podataka za prompt
             external_data_str = json.dumps(specific_category_attributes, ensure_ascii=False)
             internal_data_str = json.dumps(mungos_attributes, ensure_ascii=False)
 

@@ -21,7 +21,6 @@ class GeminiClient:
                 logger.error("Gemini model je vratio prazan odgovor.")
                 return None
 
-            # Čišćenje odgovora pomoću Regexa (tražimo samo sadržaj unutar uglastih zagrada [ ])
             match = re.search(r'\[\s*\{.*\}\s*\]', response.text, re.DOTALL)
             if match:
                 raw_json = match.group(0)

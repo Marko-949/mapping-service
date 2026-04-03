@@ -4,11 +4,6 @@ import logging
 logger = logging.getLogger(__name__)
 
 def get_mungos_attributes(category_id, token):
-    """
-    Dohvata atribute sa Mungos API-ja za specifičnu kategoriju.
-    Prilagođeno za rad unutar asinhronih taskova (FastAPI/Celery).
-    """
-    # Dinamički URL
     url = f"https://mungos.ba/api/v1/core/reference_data/attributes_for_category?categoryUuid={category_id}"
     
     headers = {

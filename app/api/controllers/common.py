@@ -6,7 +6,6 @@ from app.core.config import settings
 
 router = APIRouter()
 
-#Nisu funkcionalni EP
 
 @router.get("/status/{task_id}")
 async def get_status(task_id: str):

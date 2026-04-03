@@ -4,14 +4,12 @@ from app.api.router import api_router
 from app.core.config import settings
 
 def get_application() -> FastAPI:
-    # Inicijalizacija FastAPI aplikacije
     application = FastAPI(
         title="E-commerce Mapping Service",
         description="API za mapiranje atributa između različitih platformi koristeći Gemini",
         version="1.0.0",
     )
 
-    # Podešavanje CORS-a 
     application.add_middleware(
         CORSMiddleware,
         allow_origins=["*"], 
