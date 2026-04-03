@@ -8,14 +8,13 @@ venv/
 .vscode/
 .idea/
 
-app/data/cachedShops/*
+
+app/data/cachedAttributesOptions/*
+app/data/cachedCategories/*
+app/data/categories/*
 app/data/inputMapping/*
 app/data/mapped_attributes/*
 app/data/mapped_categories/*
-app/data/uploads/*
+app/data/mappedUuidCode/*
 
-!app/data/cachedShops/.gitkeep
-!app/data/inputMapping/.gitkeep
-!app/data/mapped_attributes/.gitkeep
-!app/data/mapped_categories/.gitkeep
-!app/data/uploads/.gitkeep
+!app/data/**/.gitkeep
