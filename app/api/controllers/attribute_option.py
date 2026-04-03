@@ -4,16 +4,40 @@ import os
 import shutil
 from app.core.config import settings
 from app.services.worker import run_attribute_option, fetch_attribute_options_task
+from app.core.context_manager import context_manager
 
 router = APIRouter()
 
+@router.post("/fetch-attribute-options-async")
+async def fetch_attribute_options_async():
+    active = context_manager.get_active()
+    if not active:
+        raise HTTPException(status_code=400, detail="Nema aktivnog konteksta. Postavite aktivni kontekst prije pokretanja ovog endpointa.")
+
+    provider = active["provider"]
+    shop_name = active["shop_name"]
+    credentials = active["credentials"]
+
+    provider_folder = provider.lower()
+
+    task = fetch_attribute_options_task.delay(provider_folder, credentials, shop_name)
+
+    return {
+        "task_id": task.id,
+        "status": "Processing in background",
+        "message": "Podaci se preuzimaju. Provjerite status kasnije."
+    }
+
 @router.post("/attribute_option_mapping")
 async def attribute_option_mapping(
-    provider: str = Form(..., example="woocommerce"),                
-    shop_name: str = Form(..., example="omegashop"),    
-    excel_file: UploadFile = File(...),
     token: str = Form(..., example="your_api_token_here")
 ):
+    active = context_manager.get_active()
+    if not active:
+        raise HTTPException(status_code=400, detail="Nema aktivnog konteksta. Postavite aktivni kontekst prije pokretanja ovog endpointa.")
+
+    provider = active["provider"]
+    shop_name = active["shop_name"]
     task_id = str(uuid.uuid4())
     provider_folder = provider.lower()
 
@@ -24,19 +48,25 @@ async def attribute_option_mapping(
         f"{shop_name}_attributes_options.json"
     )
 
+    input_excel_path = (
+        settings.DATA_DIR / 
+        "mappedCategories" / 
+        provider_folder / 
+        f"{shop_name}_category_mapping.xlsx"
+    )
+
     if not json_cache_path.exists():
         raise HTTPException(
             status_code=404, 
-            detail=f"Fajl {shop_name}_cache.json nije pronađen u folderu {provider_folder}. "
-                   f"Prvo pokrenite fetch endpoint."
+            detail=f"JSON keš nije pronađen: {json_cache_path.name}. Prvo pokrenite fetch atributa."
         )
 
-    input_excel_dir = settings.DATA_DIR / "inputMapping" / "excel_plans"
-    input_excel_dir.mkdir(parents=True, exist_ok=True)
-    input_excel_path = input_excel_dir / f"plan_{task_id}.xlsx"
-
-    with open(input_excel_path, "wb") as buffer:
-        shutil.copyfileobj(excel_file.file, buffer)
+    if not input_excel_path.exists():
+        raise HTTPException(
+            status_code=404, 
+            detail=f"Excel plan kategorija nije pronađen: {input_excel_path.name}. "
+                   f"Prvo završite mapiranje kategorija."
+        )
 
     run_attribute_option.delay(
         task_id=task_id, 
@@ -50,22 +80,12 @@ async def attribute_option_mapping(
     return {
         "status": "started",
         "task_id": task_id,
-        "using_cache_file": f"{provider_folder}/{shop_name}_cache.json",
-        "message": "AI model sada čita podatke direktno iz cache foldera."
+        "active_shop": f"{shop_name} ({provider})",
+        "files_used": {
+            "excel_plan": input_excel_path.name,
+            "json_cache": json_cache_path.name
+        },
+        "message": "AI model koristi prethodno izmapirane kategorije za mapiranje atributa."
     }
 
-@router.post("/fetch-attribute-options-async")
-async def fetch_attribute_options_async(
-    provider_type: str, 
-    shop_name: str, 
-    url: str, ck: str, cs: str
-):
-    credentials = {"url": url, "ck": ck, "cs": cs}
-    
-    task = fetch_attribute_options_task.delay(provider_type, credentials, shop_name)
-    
-    return {
-        "task_id": task.id,
-        "status": "Processing in background",
-        "message": "Podaci se preuzimaju. Provjerite status kasnije."
-    }
+

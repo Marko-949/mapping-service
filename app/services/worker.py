@@ -23,16 +23,16 @@ def run_attribute_option(task_id, provider, json_data_path, input_excel_path, sh
     return result
 
 @celery_app.task(bind=True, name="run_category_mapping_task")
-def run_category_mapping_task(self, task_id, input_file_path, file_name, provider_type):
-    logger.info(f"--- [START CATEGORY TASK] --- ID: {task_id}, File: {file_name}, Provider: {provider_type}")
+def run_category_mapping_task(self, task_id, input_json_path, shop_name, provider):
+    logger.info(f"--- [START CATEGORY TASK] --- ID: {task_id}, File: {shop_name}, Provider: {provider}")
     
     workflow = CategoryMappingWorkflow()
     
     try:
         result = workflow.run(
-            input_json_path=input_file_path, 
-            shop_name=file_name.replace(".json", ""), 
-            provider_type=provider_type
+            input_json_path=input_json_path, 
+            shop_name=shop_name.replace(".json", ""), 
+            provider=provider
         )
     except Exception as exc:
         logger.error(f"Kritična greška u run_category_mapping_task: {str(exc)}")
@@ -41,12 +41,12 @@ def run_category_mapping_task(self, task_id, input_file_path, file_name, provide
     return result
 
 @celery_app.task(name="fetch_provider_data_task")
-def fetch_provider_data_task(provider_type, credentials, shop_name):
-    provider_folder = provider_type.lower()
+def fetch_provider_data_task(provider, credentials, shop_name):
+    provider_folder = provider.lower()
     logger.info(f"--- [START FETCH TASK] --- Shop: {shop_name}, Provider: {provider_folder}")
     
     try:
-        provider = ProviderFactory.get_provider(provider_type, credentials)
+        provider = ProviderFactory.get_provider(provider, credentials)
         categories = provider.get_categories()
         
         if not categories:

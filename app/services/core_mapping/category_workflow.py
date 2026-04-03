@@ -9,7 +9,7 @@ from app.core.config import settings
 logger = logging.getLogger(__name__)
 
 class CategoryMappingWorkflow:
-    def run(self, input_json_path, shop_name, provider_type):
+    def run(self, input_json_path, shop_name, provider):
         
         try:
             if not os.path.exists(input_json_path):
@@ -56,7 +56,7 @@ class CategoryMappingWorkflow:
                 logger.error(f"[{shop_name}] AI nije vratio rezultate mapiranja.")
                 return None
 
-            provider_folder = provider_type.lower()
+            provider_folder = provider.lower()
             
             output_dir = settings.DATA_DIR / "mapped_categories" / provider_folder
             

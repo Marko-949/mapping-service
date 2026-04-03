@@ -12,6 +12,7 @@ venv/
 app/data/cachedAttributesOptions/*
 app/data/cachedCategories/*
 app/data/categories/*
+app/data/context/*
 app/data/inputMapping/*
 app/data/mapped_attributes/*
 app/data/mapped_categories/*
