@@ -1,7 +1,7 @@
 import pandas as pd
 import logging
 import os
-
+from pathlib import Path
 logger = logging.getLogger(__name__)
 
 def read_input_plan(temp_file_path: str):
@@ -20,6 +20,9 @@ def save_final_mapping(results: list, output_path: str):
     if not results:
         return None
     
+    out_p = Path(output_path)
+    out_p.parent.mkdir(parents=True, exist_ok=True)
+
     df = pd.DataFrame(results)
     desired_cols = ["TypeFrom", "ExternalKey", "TypeTo", "InternalKey"]
     existing_cols = [c for c in desired_cols if c in df.columns]
