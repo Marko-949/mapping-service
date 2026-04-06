@@ -50,8 +50,8 @@ async def attribute_option_mapping(
 
     input_excel_path = (
         settings.DATA_DIR / 
-        "mappedCategories" / 
-        provider_folder / 
+        "mapped_categories" / 
+        provider_folder /   
         f"{shop_name}_category_mapping.xlsx"
     )
 
