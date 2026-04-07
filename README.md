@@ -1,28 +1,30 @@
-# AI E-commerce Category & Attribute Mapper 🚀
+#AI E-commerce Category & Attribute Mapper 🚀
+This application leverages Google Gemini AI for intelligent mapping of external categories and attributes (e.g., from WooCommerce or Shopify) to internal system codes (Mungos taxonomy). The system is designed to process thousands of items using Celery for asynchronous processing and a Batching strategy to ensure accuracy and stability of AI responses.
 
-Ova aplikacija koristi **Google Gemini AI** za inteligentno mapiranje eksternih kategorija i atributa (npr. iz WooCommerce-a ili Shopify-a) na interne sistemske kodove (Mungos taksonomija). Sistem je dizajniran da obrađuje hiljade stavki koristeći **Celery** za asinhronu obradu i **Batching** strategiju kako bi se osigurala preciznost i stabilnost AI odgovora.
+🌟 Key Features
+Smart Category Mapping: Automatic matching of full category paths using semantic similarity.
 
-## 🌟 Ključne Karakteristike
+Batch Processing: Data processing in batches of 50 items to stay within AI model limits and optimize performance.
 
-- **Smart Category Mapping:** Automatsko uparivanje punih putanja kategorija koristeći semantičku sličnost.
-- **Batch Processing:** Obrada podataka u grupama (batch-evima) od po 50 stavki radi izbjegavanja limita AI modela.
-- **Dynamic Formatters:** Podrška za različite ulazne JSON formate (WooCommerce, standardni rekurzivni JSON, liste).
-- **Asinhroni Rad:** Integracija sa Celery-jem omogućava obradu velikih fajlova u pozadini bez blokiranja API-ja.
-- **Excel Export:** Generisanje gotovih Excel tabela spremnih za import u bazu podataka.
+Dynamic Formatters: Support for various input JSON formats (WooCommerce, standard recursive JSON, flat lists).
 
-# Instalacija zavisnosti
+Asynchronous Execution: Integration with Celery allows background processing of large files without blocking the API.
+
+Excel Export: Generation of ready-to-use Excel spreadsheets for database import.
+
+# Installation
 
 pip install -r requirements.txt
 
-# Pokretanje projekta
+# Running the Project
 
 uvicorn app.main:app --reload
 
-# Pokretanje celery
+# Running Celery Worker
 
 celery -A app.core.celery_app worker --loglevel=info -P solo
 
-## 🛠 Tehnologije
+# Tech Stack
 
 - **Backend:** FastAPI (Python 3.13+)
 - **AI:** Google Generative AI (Gemini 3.0 Flash)
@@ -32,7 +34,7 @@ celery -A app.core.celery_app worker --loglevel=info -P solo
 
 ---
 
-## 📂 Struktura Projekta
+#Project Structure
 
 ```text
 .
