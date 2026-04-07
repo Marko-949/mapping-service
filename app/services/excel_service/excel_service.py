@@ -6,14 +6,14 @@ logger = logging.getLogger(__name__)
 
 def read_input_plan(temp_file_path: str):
     if not os.path.exists(temp_file_path):
-        logger.error(f"Fajl nije pronađen: {temp_file_path}")
+        logger.error(f"File not found: {temp_file_path}")
         return []
     
     df = pd.read_excel(temp_file_path)
 
     data_list = df.to_dict('records')
     
-    logger.info(f"Učitano {len(data_list)} redova za mapiranje iz Excela.")
+    logger.info(f"Loaded {len(data_list)} rows for mapping from Excel.")
     return data_list
 
 def save_final_mapping(results: list, output_path: str):

@@ -13,19 +13,19 @@ class CategoryMappingWorkflow:
         
         try:
             if not os.path.exists(input_json_path):
-                logger.error(f"Ulazni fajl nije pronađen: {input_json_path}")
+                logger.error(f"Input JSON file not found: {input_json_path}")
                 return None
 
             with open(input_json_path, 'r', encoding='utf-8') as f:
                 categories_to_map = json.load(f)
 
             if not categories_to_map:
-                logger.error(f"[{shop_name}] JSON fajl je prazan.")
+                logger.error(f"[{shop_name}] JSON file is empty.")
                 return None
 
             mungos_db_path = settings.DATA_DIR / "categories" / "allCategoriesCode.txt"
             if not os.path.exists(mungos_db_path):
-                logger.error(f"Mungos baza nije pronađena na: {mungos_db_path}")
+                logger.error(f"Mungos database not found at: {mungos_db_path}")
                 return None
 
             with open(mungos_db_path, 'r', encoding='utf-8') as f:
@@ -40,7 +40,7 @@ class CategoryMappingWorkflow:
                 current_batch_num = (i // batch_size) + 1
                 total_batches = (total_items + batch_size - 1) // batch_size
                 
-                logger.info(f"[{shop_name}] Batch {current_batch_num}/{total_batches} šaljem na AI...")
+                logger.info(f"[{shop_name}] Batch {current_batch_num}/{total_batches} sending to AI...")
 
                 batch_mapped_results = category_mapper.get_mapped_categories(
                     external_categories=batch,
@@ -50,10 +50,10 @@ class CategoryMappingWorkflow:
                 if batch_mapped_results:
                     master_results.extend(batch_mapped_results)
                 else:
-                    logger.warning(f"[{shop_name}] Batch {current_batch_num} nije vratio rezultate.")
+                    logger.warning(f"[{shop_name}] Batch {current_batch_num} did not return any results.")
 
             if not master_results:
-                logger.error(f"[{shop_name}] AI nije vratio rezultate mapiranja.")
+                logger.error(f"[{shop_name}] AI did not return any mapping results.")
                 return None
 
             provider_folder = provider.lower()
@@ -67,9 +67,9 @@ class CategoryMappingWorkflow:
 
             final_path = save_final_mapping(master_results, str(output_path))
 
-            logger.info(f"[{shop_name}] Mapiranje završeno. Excel sačuvan: {final_path}")
+            logger.info(f"[{shop_name}] Mapping completed. Excel saved: {final_path}")
             return final_path
 
         except Exception as e:
-            logger.error(f"Kritična greška u CategoryMappingWorkflow za {shop_name}: {str(e)}")
+            logger.error(f"Critical error in CategoryMappingWorkflow for {shop_name}: {str(e)}")
             raise e

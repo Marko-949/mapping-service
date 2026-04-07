@@ -17,7 +17,7 @@ def run_attribute_option(task_id, provider, json_data_path, input_excel_path, sh
     try:
         result = workflow.run(task_id, provider, json_data_path, input_excel_path, shop_name, token)
     except Exception as e:
-        logger.error(f"Greška u run_attribute_option: {str(e)}")
+        logger.error(f"Error in run_attribute_option: {str(e)}")
         raise e
 
     return result
@@ -35,7 +35,7 @@ def run_category_mapping_task(self, task_id, input_json_path, shop_name, provide
             provider=provider
         )
     except Exception as exc:
-        logger.error(f"Kritična greška u run_category_mapping_task: {str(exc)}")
+        logger.error(f"Implement error logging for run_category_mapping_task: {str(exc)}")
         raise exc
 
     return result
@@ -50,7 +50,7 @@ def fetch_provider_data_task(provider, credentials, shop_name):
         categories = provider.get_categories()
         
         if not categories:
-            logger.warning(f"Nisu pronađene kategorije za {shop_name}")
+            logger.warning(f"Categories not found for {shop_name}")
             return {"status": "failed", "reason": "No categories found"}
 
         file_name = f"{shop_name}_cache.json"
@@ -69,7 +69,7 @@ def fetch_provider_data_task(provider, credentials, shop_name):
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(categories, f, indent=4, ensure_ascii=False)
             
-        logger.info(f"--- [SUCCESS] --- Podaci sačuvani u: {file_path}")
+        logger.info(f"--- [SUCCESS] --- Data saved to: {file_path}")
         
         return {
             "status": "completed", 
@@ -80,7 +80,7 @@ def fetch_provider_data_task(provider, credentials, shop_name):
         }
 
     except Exception as e:
-        logger.error(f"Kritična greška u fetch_provider_data_task: {str(e)}")
+        logger.error(f"Critical error in fetch_provider_data_task: {str(e)}")
         return {"status": "error", "message": str(e)}
 
 @celery_app.task(name="fetch_attribute_options_task")
@@ -93,7 +93,7 @@ def fetch_attribute_options_task(provider_type, credentials, shop_name):
         attributes_options = provider.get_shop_structure()
         
         if not attributes_options:
-            logger.warning(f"Nisu pronađeni atributi/opcije za {shop_name}")
+            logger.warning(f"Attributes/options not found for {shop_name}")
             return {"status": "failed", "reason": "No attributes/options found"}
 
         file_name = f"{shop_name}_attributes_options.json"
@@ -112,7 +112,7 @@ def fetch_attribute_options_task(provider_type, credentials, shop_name):
         with open(file_path, "w", encoding="utf-8") as f:
             json.dump(attributes_options, f, indent=4, ensure_ascii=False)
             
-        logger.info(f"--- [SUCCESS] --- Atributi i opcije sačuvani u: {file_path}")
+        logger.info(f"--- [SUCCESS] --- Attributes and options saved to: {file_path}")
         
         return {
             "status": "completed", 
@@ -123,5 +123,5 @@ def fetch_attribute_options_task(provider_type, credentials, shop_name):
         }
 
     except Exception as e:
-        logger.error(f"Kritična greška u fetch_atribute_options_task: {str(e)}")
+        logger.error(f"Critical error in fetch_atribute_options_task: {str(e)}")
         return {"status": "error", "message": str(e)}

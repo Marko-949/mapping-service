@@ -6,7 +6,7 @@ logger = logging.getLogger(__name__)
 
 def get_category_uuid(json_file_path: str, target_code: str):
     if not os.path.exists(json_file_path):
-        logger.error(f"Fajl sa UUID bazom nije pronađen na putanji: {json_file_path}")
+        logger.error(f"File not found: {json_file_path}")
         return None
 
     try:

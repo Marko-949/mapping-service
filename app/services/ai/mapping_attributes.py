@@ -21,7 +21,7 @@ class AttributeMapper:
             return result
 
         except Exception as e:
-            logger.error(f"Greška u AttributeMapper-u: {str(e)}")
+            logger.error(f"Error in AttributeMapper: {str(e)}")
             return None
 
 attribute_mapper = AttributeMapper()

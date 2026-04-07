@@ -30,7 +30,7 @@ class WooCommerceProvider(BaseProvider):
                 all_categories.extend(data)
                 page += 1
             except Exception as e:
-                logger.error(f"Greška pri dohvatanju kategorija: {e}")
+                logger.error(f"Error fetching categories: {e}")
                 break
 
         parent_ids = {cat['parent'] for cat in all_categories if cat.get('parent') != 0}
@@ -56,7 +56,7 @@ class WooCommerceProvider(BaseProvider):
                 )
                 
                 if response.status_code != 200:
-                    logger.error(f"Greška na stranici {page}: Status {response.status_code}")
+                    logger.error(f"Error on page {page}: Status {response.status_code}")
                     break
                     
                 products = response.json()
@@ -64,7 +64,7 @@ class WooCommerceProvider(BaseProvider):
                 if not products:
                     break
 
-                logger.info(f"Obrađujem stranicu {page} za shop {self.shop_domain}...")
+                logger.info(f"Processing page {page} for shop {self.shop_domain}...")
 
                 for product in products:
                     product_cats = product.get("categories", [])
@@ -100,7 +100,7 @@ class WooCommerceProvider(BaseProvider):
                 page += 1 
 
             except Exception as e:
-                logger.error(f"Kritična greška tokom preuzimanja proizvoda na str {page}: {e}")
+                logger.error(f"Critical error while fetching products on page {page}: {e}")
                 break
 
         final_result = []
@@ -111,12 +111,12 @@ class WooCommerceProvider(BaseProvider):
                 "attributes": attrs
             })
 
-        logger.info(f"Ukupno obrađeno {len(final_result)} jedinstvenih kategorija.")
+        logger.info(f"Total processed {len(final_result)} unique categories.")
         return final_result
 
     def get_shop_structure(self, force_refresh: bool = False):
         if not force_refresh and os.path.exists(self.cache_path):
-            logger.info(f"Učitavam cache za: {self.shop_domain}")
+            logger.info(f"Loading cache for: {self.shop_domain}")
             with open(self.cache_path, "r", encoding="utf-8") as f:
                 return json.load(f)
 
@@ -131,7 +131,7 @@ class WooCommerceProvider(BaseProvider):
     
     def get_categories(self) -> list:
 
-        logger.info(f"Dohvaćam sve kategorije za šop: {self.shop_domain}")
+        logger.info(f"Fetching all categories for shop: {self.shop_domain}")
         
         url = f"{self.api_url}/products/categories"
         all_categories = []
@@ -165,5 +165,5 @@ class WooCommerceProvider(BaseProvider):
 
         final_list = sorted(list(set(full_paths)))
         
-        logger.info(f"Generisano {len(final_list)} putanja kategorija.")
+        logger.info(f"Generated {len(final_list)} category paths.")
         return final_list

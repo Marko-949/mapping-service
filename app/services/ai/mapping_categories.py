@@ -13,7 +13,7 @@ class CategoryMapper:
             )
             return gemini_client.generate(prompt)
         except Exception as e:
-            logger.error(f"Greška u CategoryMapper-u: {e}")
+            logger.error(f"Error in CategoryMapper: {e}")
             return None
 
 category_mapper = CategoryMapper()

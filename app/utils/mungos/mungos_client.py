@@ -37,18 +37,18 @@ def get_mungos_attributes(category_id, token):
             return simplified_data
             
         elif response.status_code == 401:
-            logger.error(f"Mungos API: Token je nevažeći ili je istekao (401).")
+            logger.error(f"Unauthorized access to Mungos API. Check your token.")
             return None
         elif response.status_code == 404:
-            logger.warning(f"Mungos API: Kategorija {category_id} nije pronađena (404).")
+            logger.warning(f"Mungos API: Category {category_id} not found (404).")
             return None
         else:
-            logger.error(f"Greška pri zahtjevu (Mungos): {response.status_code} - {response.text}")
+            logger.error(f"Error on request (Mungos): {response.status_code} - {response.text}")
             return None
 
     except requests.exceptions.Timeout:
-        logger.error(f"Mungos API: Zahtjev je prekinut zbog timeout-a (30s).")
+        logger.error(f"Mungos API: Request timed out (30s).")
         return None
     except Exception as e:
-        logger.error(f"Neočekivana greška u Mungos modulu: {str(e)}")
+        logger.error(f"Unexpected error in Mungos module: {str(e)}")
         return None

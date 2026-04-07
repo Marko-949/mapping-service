@@ -48,5 +48,5 @@ FORMATTERS = {
 
 def get_formatted_categories(raw_data: list, source_type: str) -> list:
     formatter_func = FORMATTERS.get(source_type, FORMATTERS["standard"])
-    logger.info(f"Koristim formatter: {formatter_func.__name__} za source_type: {source_type}")
+    logger.info(f"Using formatter {formatter_func.__name__} for source_type: {source_type}")
     return formatter_func(raw_data)
